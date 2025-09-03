@@ -4,7 +4,7 @@ Utilidades adicionales para obtención de trámites.
 
 import asyncio
 import functools
-import aiohttp
+import httpx
 
 
 def async_http_retry(max_retries: int = 3, delay: float = 1.0):
@@ -24,14 +24,13 @@ def async_http_retry(max_retries: int = 3, delay: float = 1.0):
             for attempt in range(max_retries + 1):
                 try:
                     return await func(*args, **kwargs)
-                except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+                except (httpx.HTTPError, httpx.InvalidURL, httpx.StreamError, asyncio.TimeoutError) as e:
                     last_exception = e
                     if attempt == max_retries:
                         break
-                    
                     print(f"Attempt {attempt + 1} failed: {e}. Retrying in {current_delay}s...")
                     await asyncio.sleep(current_delay)
-                    current_delay *= 2  # Exponential backoff
+                    current_delay *= 2 # exponentially backoff
             
             print(f"All {max_retries} retry attempts failed")
             raise last_exception
