@@ -8,6 +8,7 @@ import jsonlines
 from datetime import datetime, timezone
 import pandas as pd
 from pathlib import Path
+from utils import async_httpx_retry
 
 
 def listarTramites(pageSize=30):
@@ -36,6 +37,7 @@ def listarTramites(pageSize=30):
     return tramites
 
 
+@async_httpx_retry(max_retries=5, base_delay=0.5)
 async def getTramite(tramite_slug, client):
     """
     Descarga datos de un trámite.
@@ -62,6 +64,7 @@ async def getTramites(tramitesListado, max_concurrent=10, max_tramites=None):
                 data = await getTramite(tramite["slug"], client)
                 tramites.append(data["datos"])
             except Exception as e:
+                print(e)
                 errores.append({**tramite, "error": str(e)})
             pbar.update(1)
 
@@ -155,6 +158,7 @@ def detectarAdiciones(df1, df2, timestamp):
         eventos.sort_values(["timestamp", "id", "tipo"]).to_csv(FILENAME, index=False)
 
 
+
 async def main():
     """
     Lista todos los trámites disponibles y descarga
@@ -165,7 +169,6 @@ async def main():
     """
 
     FILENAME = Path("tramites.jsonl")
-    RETRIES = 5
 
     # Listar tramites
     pendientes = listarTramites()
@@ -174,18 +177,9 @@ async def main():
     # Estampa de tiempo
     timestamp = datetime.now(timezone.utc).isoformat(timespec="minutes")
 
-    tramites = []
-    for intento in range(1, RETRIES + 1):
-        print(f"{len(pendientes)} trámites pendientes")
-        ok, pendientes = await getTramites(pendientes)
-        tramites.extend(ok)
-        if not pendientes:
-            break
-        if intento < RETRIES:
-            print("Reintentando errores ...")
-            await asyncio.sleep(0.5 * intento)
+    tramites, errores = await getTramites(pendientes)
 
-    print(f"{len(tramites)} registros, {len(pendientes)} errores")
+    print(f"{len(tramites)} registros, {len(errores)} errores")
 
     # Consolidar con datos recogidos previamente
     if FILENAME.exists():
@@ -198,13 +192,13 @@ async def main():
 
     # Guardar trámites y errores
     tramites_sorted = sorted(tramites, key=lambda d: d["id"])
-    for data, filename in zip([tramites_sorted, pendientes], ["tramites", "errores"]):
+    for data, filename in zip([tramites_sorted, errores], ["tramites", "errores"]):
         if data:
             with jsonlines.open(f"{filename}.jsonl", "w") as f:
                 for entry in data:
                     f.write(entry)
     print(
-        f"Datos guardados: {len(tramites_sorted)} trámites | {len(pendientes)} errores."
+        f"Datos guardados: {len(tramites_sorted)} trámites | {len(errores)} errores."
     )
 
 
