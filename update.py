@@ -8,7 +8,7 @@ import jsonlines
 from datetime import datetime, timezone
 import pandas as pd
 from pathlib import Path
-from utils import async_http_retry
+from utils import async_httpx_retry
 
 
 def listarTramites(pageSize=30):
@@ -37,7 +37,7 @@ def listarTramites(pageSize=30):
     return tramites
 
 
-@async_http_retry(max_retries=5, delay=0.5)
+@async_httpx_retry(max_retries=5, base_delay=0.5)
 async def getTramite(tramite_slug, client):
     """
     Descarga datos de un trámite.

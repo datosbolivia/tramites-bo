@@ -7,7 +7,9 @@ import functools
 import httpx
 
 
-def async_http_retry(max_retries: int = 3, delay: float = 1.0):
+TRANSIENT = {408, 425, 429, 500, 502, 503, 504}
+
+def async_httpx_retry(max_retries: int = 3, base_delay: float = 0.5):
     """
     Decorator for async HTTP requests with retry functionality.
     
@@ -18,21 +20,20 @@ def async_http_retry(max_retries: int = 3, delay: float = 1.0):
     def decorator(func):
         @functools.wraps(func)
         async def wrapper(*args, **kwargs):
-            last_exception = None
-            current_delay = delay
-            
             for attempt in range(max_retries + 1):
                 try:
                     return await func(*args, **kwargs)
-                except (httpx.HTTPError, httpx.InvalidURL, httpx.StreamError, asyncio.TimeoutError) as e:
-                    last_exception = e
-                    if attempt == max_retries:
-                        break
-                    print(f"Attempt {attempt + 1} failed: {e}. Retrying in {current_delay}s...")
-                    await asyncio.sleep(current_delay)
-                    current_delay *= 2 # exponentially backoff
-            
-            print(f"All {max_retries} retry attempts failed")
-            raise last_exception
+                except httpx.InvalidURL:
+                    raise
+                except httpx.HTTPStatusError as e:
+                    if e.response.status_code in TRANSIENT and attempt < max_retries:
+                        await asyncio.sleep(base_delay * (2 ** attempt))
+                        continue
+                    raise
+                except (httpx.RequestError, asyncio.TimeoutError):
+                    if attempt < max_retries:
+                        await asyncio.sleep(base_delay * (2 ** attempt))
+                        continue
+                    raise
         return wrapper
     return decorator
