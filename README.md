@@ -3,6 +3,7 @@ Datos de trámites en entidades del gobierno boliviano tomados directamente del 
 Incluye:
 
 - [Datos de cada trámite en su forma original en formato jsonl](tramites.jsonl)
+  - Especificación de los datos en [datapackage.json](datapackage.json)
 - [Una bitácora de trámites que aparecen o desaparecen en corridas consecutivas](adiciones.csv)
 - [Una bitácora de trámites que cambian entre corridas consecutivas](modificaciones.csv)
 

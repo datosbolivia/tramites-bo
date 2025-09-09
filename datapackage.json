@@ -1,0 +1,123 @@
+{
+  "profile": "data-package",
+  "name": "tramites-bo",
+  "title": "Datos de trámites en entidades del gobierno boliviano tomados directamente del portal oficial www.gob.bo",
+  "version": "1.0.0",
+  "license": {
+    "name": "CC-BY-1.0",
+    "title": "CC0 1.0 Universal"
+  },
+  "keywords": [
+    "bolivia",
+    "trámites",
+    "gobierno",
+    "servicios",
+    "entidades",
+    "procedures",
+    "government",
+    "services"
+  ],
+  "resources": [
+    {
+      "name": "trámites-bo jsonl",
+      "profile": "data-package",
+      "format": "jsonl",
+      "mediatype": "application/jsonl",
+      "encoding": "UTF-8",
+      "path": "tramites.jsonl",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "id": "integer",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "estado",
+            "id": "string"
+          },
+          {
+            "name": "fechaActualización",
+            "id": "date",
+            "format": "%d/%m/%Y"
+          },
+          {
+            "name": "nombre",
+            "id": "string"
+          },
+          {
+            "name": "slug",
+            "id": "string"
+          },
+          {
+            "name": "sigla",
+            "id": "string"
+          },
+          {
+            "name": "descripcion",
+            "id": "string"
+          },
+          {
+            "name": "marcoLegal",
+            "id": "string"
+          },
+          {
+            "name": "palabrasClave",
+            "id": "string"
+          },
+          {
+            "name": "like",
+            "id": "number"
+          },
+          {
+            "name": "dislike",
+            "id": "number"
+          },
+          {
+            "name": "esPresencial",
+            "type": "boolean"
+          },
+          {
+            "name": "esVirtual",
+            "type": "boolean"
+          },
+          {
+            "name": "resultado",
+            "id": "string"
+          },
+          {
+            "name": "enlaces",
+            "type": "string",
+            "format": "array"
+          },
+          {
+            "name": "eventosVida",
+            "type": "array"
+          },
+          {
+            "name": "herramientas",
+            "type": "array"
+          },
+          {
+            "name": "documentos",
+            "type": "array"
+          },
+          {
+            "name": "modalidades",
+            "type": "array"
+          },
+          {
+            "name": "ubicaciones",
+            "type": "array",
+            "description": "Locations where the procedure is available"
+          }
+        ],
+        "primaryKey": "id"
+      },
+      "created": "2025-09-09"
+    }
+  ]
+}
