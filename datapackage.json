@@ -1,5 +1,4 @@
 {
-  "profile": "data-package",
   "name": "tramites-bo",
   "title": "Datos de trámites en entidades del gobierno boliviano tomados directamente del portal oficial www.gob.bo",
   "version": "1.0.0",
@@ -19,8 +18,7 @@
   ],
   "resources": [
     {
-      "name": "trámites-bo jsonl",
-      "profile": "data-package",
+      "name": "trámites",
       "format": "jsonl",
       "mediatype": "application/jsonl",
       "encoding": "UTF-8",
@@ -29,7 +27,7 @@
         "fields": [
           {
             "name": "id",
-            "id": "integer",
+            "type": "integer",
             "constraints": {
               "required": true,
               "unique": true
@@ -37,44 +35,44 @@
           },
           {
             "name": "estado",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "fechaActualización",
-            "id": "date",
+            "type": "date",
             "format": "%d/%m/%Y"
           },
           {
             "name": "nombre",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "slug",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "sigla",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "descripcion",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "marcoLegal",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "palabrasClave",
-            "id": "string"
+            "type": "array"
           },
           {
             "name": "like",
-            "id": "number"
+            "type": "integer"
           },
           {
             "name": "dislike",
-            "id": "number"
+            "type": "integer"
           },
           {
             "name": "esPresencial",
@@ -85,16 +83,23 @@
             "type": "boolean"
           },
           {
+            "name": "entidad",
+            "type": "object"
+          },
+          {
             "name": "resultado",
-            "id": "string"
+            "type": "string"
           },
           {
             "name": "enlaces",
-            "type": "string",
-            "format": "array"
+            "type": "array"
           },
           {
-            "name": "eventosVida",
+            "name": "categorias",
+            "type": "array"
+          },
+          {
+            "name": "eventosVtypea",
             "type": "array"
           },
           {
@@ -111,8 +116,7 @@
           },
           {
             "name": "ubicaciones",
-            "type": "array",
-            "description": "Locations where the procedure is available"
+            "type": "array"
           }
         ],
         "primaryKey": "id"
