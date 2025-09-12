@@ -1,0 +1,126 @@
+{
+  "name": "tramites-bo",
+  "title": "Datos de trámites en entidades del gobierno boliviano tomados directamente del portal oficial www.gob.bo",
+  "version": "1.0.0",
+  "licenses": [{
+    "name": "CC-BY-1.0",
+    "title": "CC0 1.0 Universal"
+  }],
+  "keywords": [
+    "bolivia",
+    "trámites",
+    "gobierno",
+    "servicios",
+    "entidades",
+    "procedures",
+    "government",
+    "services"
+  ],
+  "resources": [
+    {
+      "name": "tramites",
+      "format": "jsonl",
+      "mediatype": "application/jsonl",
+      "encoding": "UTF-8",
+      "path": "tramites.jsonl",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "constraints": {
+              "required": true,
+              "unique": true
+            }
+          },
+          {
+            "name": "estado",
+            "type": "string"
+          },
+          {
+            "name": "fechaActualización",
+            "type": "date",
+            "format": "%d/%m/%Y"
+          },
+          {
+            "name": "nombre",
+            "type": "string"
+          },
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "sigla",
+            "type": "string"
+          },
+          {
+            "name": "descripcion",
+            "type": "string"
+          },
+          {
+            "name": "marcoLegal",
+            "type": "string"
+          },
+          {
+            "name": "palabrasClave",
+            "type": "array"
+          },
+          {
+            "name": "like",
+            "type": "integer"
+          },
+          {
+            "name": "dislike",
+            "type": "integer"
+          },
+          {
+            "name": "esPresencial",
+            "type": "boolean"
+          },
+          {
+            "name": "esVirtual",
+            "type": "boolean"
+          },
+          {
+            "name": "entidad",
+            "type": "object"
+          },
+          {
+            "name": "resultado",
+            "type": "string"
+          },
+          {
+            "name": "enlaces",
+            "type": "array"
+          },
+          {
+            "name": "categorias",
+            "type": "array"
+          },
+          {
+            "name": "eventosVida",
+            "type": "array"
+          },
+          {
+            "name": "herramientas",
+            "type": "array"
+          },
+          {
+            "name": "documentos",
+            "type": "array"
+          },
+          {
+            "name": "modalidades",
+            "type": "array"
+          },
+          {
+            "name": "ubicaciones",
+            "type": "array"
+          }
+        ],
+        "primaryKey": "id"
+      }
+    }
+  ]
+}
