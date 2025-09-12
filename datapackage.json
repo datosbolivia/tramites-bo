@@ -2,10 +2,10 @@
   "name": "tramites-bo",
   "title": "Datos de trámites en entidades del gobierno boliviano tomados directamente del portal oficial www.gob.bo",
   "version": "1.0.0",
-  "license": {
+  "licenses": [{
     "name": "CC-BY-1.0",
     "title": "CC0 1.0 Universal"
-  },
+  }],
   "keywords": [
     "bolivia",
     "trámites",
@@ -18,7 +18,7 @@
   ],
   "resources": [
     {
-      "name": "trámites",
+      "name": "tramites",
       "format": "jsonl",
       "mediatype": "application/jsonl",
       "encoding": "UTF-8",
@@ -120,8 +120,7 @@
           }
         ],
         "primaryKey": "id"
-      },
-      "created": "2025-09-09"
+      }
     }
   ]
 }
