@@ -13,6 +13,6 @@ Puedes inspeccionar cómo exactamente estos datos son descargados y correr tu pr
 
 
 ```sh
-pip install requests httpx[http2] asyncio tqdm jsonlines pandas
+pip install requests httpx[http2] asyncio tqdm jsonlines pandas deepdiff
 python update.py
 ```
