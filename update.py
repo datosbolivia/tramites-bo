@@ -186,6 +186,7 @@ def detectarAdiciones(df1, df2, timestamp):
     # El formato de la bitácora
     def formatear(df, evento, timestamp):
         n = df[["id", "entidad", "nombre"]].copy()
+        n["entidad"] = n["entidad"].str["nombre"]
         n.columns = ["id", "entidad", "nombre"]
         n.insert(0, "tipo", evento)
         n.insert(0, "timestamp", timestamp)
