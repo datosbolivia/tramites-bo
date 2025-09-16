@@ -144,7 +144,7 @@ def detectarModificaciones(df1, df2, timestamp):
                             }
                         )
             else:
-                # Si los valores sin simples
+                # Si los valores son simples
                 for id_tramite, viejo, nuevo in zip(
                     old.index[modified].values,
                     old[modified].values,
