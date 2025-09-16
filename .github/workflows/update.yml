@@ -24,7 +24,7 @@ jobs:
       - name: dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install requests httpx[http2] asyncio tqdm jsonlines pandas
+          pip install requests httpx[http2] asyncio tqdm jsonlines pandas deepdiff
       - name: correr
         run: |
           python update.py

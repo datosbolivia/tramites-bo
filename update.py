@@ -9,6 +9,8 @@ from datetime import datetime, timezone
 import pandas as pd
 from pathlib import Path
 from utils import async_httpx_retry
+from deepdiff import DeepDiff
+import json
 
 
 def listarTramites(pageSize=30):
@@ -82,43 +84,91 @@ def detectarModificaciones(df1, df2, timestamp):
     bitácora de estos trámites más una estampa de tiempo.
     """
 
+    def listarCamposCompuestos():
+        """
+        Listar campos cuyos valores esperamos
+        que sean arrays u objetos.
+        """
+        with open("datapackage.json", "r") as f:
+            datapackage = json.load(f)
+        return [
+            field["name"]
+            for field in datapackage["resources"][0]["schema"]["fields"]
+            if field["type"] in ["array", "object"]
+        ]
+
     FILENAME = Path("modificaciones.csv")
 
     # Alinear trámites
     _df1, _df2 = df1.set_index("id").copy(), df2.set_index("id").copy()
     nombres = _df1.nombre.to_dict()
-    entidades = _df1["entidad.nombre"].to_dict()
+    entidades = _df1["entidad"].apply(lambda _: _["nombre"]).to_dict()
     cols = [c for c in _df1.columns if c in _df2.columns and c != "id"]
     idx = _df1.index.intersection(_df2.index)
     _df1, _df2 = _df1.loc[idx, cols], _df2.loc[idx, cols]
 
     # Comparar cada columna e identificar cambios
-    parts = []
+    cambios = []
+    camposCompuestos = listarCamposCompuestos()
     for col in cols:
         old, new = _df1[col], _df2[col]
         modified = old.ne(new) & ~(old.isna() & new.isna())
+
+        # Si existen modificaciones
         if modified.any():
-            parts.append(
-                pd.DataFrame(
-                    {
-                        "timestamp": timestamp,
-                        "id": old.index[modified].values,
-                        "entidad": [entidades[v] for v in old.index[modified].values],
-                        "nombre": [nombres[v] for v in old.index[modified].values],
-                        "columna": col,
-                        "viejo": old[modified].values,
-                        "nuevo": new[modified].values,
-                    }
-                )
-            )
+
+            # Si los valores son arrays u objetos
+            if col in camposCompuestos:
+                for id_tramite, v1, v2 in zip(
+                    old.index[modified].values,
+                    old[modified].values,
+                    new[modified].values,
+                ):
+                    # Detectar cambios detallados y agregar cada uno en una fila
+                    diff = DeepDiff(v1, v2)
+                    for key in diff["values_changed"].keys():
+                        campo = f"{col}{key.replace('root', '')}"
+                        viejo, nuevo = [
+                            diff["values_changed"][key][v]
+                            for v in ["old_value", "new_value"]
+                        ]
+                        cambios.append(
+                            {
+                                "timestamp": timestamp,
+                                "id": id_tramite,
+                                "entidad": entidades[id_tramite],
+                                "nombre": nombres[id_tramite],
+                                "campo": campo,
+                                "viejo": viejo,
+                                "nuevo": nuevo,
+                            }
+                        )
+            else:
+                # Si los valores son simples
+                for id_tramite, viejo, nuevo in zip(
+                    old.index[modified].values,
+                    old[modified].values,
+                    new[modified].values,
+                ):
+                    cambios.append(
+                        {
+                            "timestamp": timestamp,
+                            "id": id_tramite,
+                            "entidad": entidades[id_tramite],
+                            "nombre": nombres[id_tramite],
+                            "campo": col,
+                            "viejo": viejo,
+                            "nuevo": nuevo,
+                        }
+                    )
 
     # Guardar cambios
-    print(f"{len(parts)} trámites modificados")
-    if len(parts) > 0:
-        modificaciones = pd.concat(parts, ignore_index=True)
+    print(f"{len(cambios)} modificaciones")
+    if len(cambios) > 0:
+        modificaciones = pd.DataFrame(cambios)
         if FILENAME.exists():
             modificaciones = pd.concat([pd.read_csv(FILENAME), modificaciones])
-        modificaciones.sort_values(["timestamp", "id", "columna"]).to_csv(
+        modificaciones.sort_values(["timestamp", "id", "campo"]).to_csv(
             FILENAME, index=False
         )
 
@@ -135,7 +185,7 @@ def detectarAdiciones(df1, df2, timestamp):
 
     # El formato de la bitácora
     def formatear(df, evento, timestamp):
-        n = df[["id", "entidad.nombre", "nombre"]].copy()
+        n = df[["id", "entidad", "nombre"]].copy()
         n.columns = ["id", "entidad", "nombre"]
         n.insert(0, "tipo", evento)
         n.insert(0, "timestamp", timestamp)
@@ -183,9 +233,9 @@ async def main():
 
     # Consolidar con datos recogidos previamente
     if FILENAME.exists():
-        tramites_df = pd.json_normalize(tramites)
+        tramites_df = pd.DataFrame(tramites)
         with jsonlines.open(FILENAME, "r") as f:
-            tramites_previos = pd.json_normalize([line for line in f])
+            tramites_previos = pd.DataFrame([line for line in f])
 
         detectarAdiciones(tramites_previos, tramites_df, timestamp)
         detectarModificaciones(tramites_previos, tramites_df, timestamp)
