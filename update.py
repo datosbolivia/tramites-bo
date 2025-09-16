@@ -87,7 +87,7 @@ def detectarModificaciones(df1, df2, timestamp):
     def listarCamposCompuestos():
         """
         Listar campos cuyos valores esperamos
-        que sean arrays u objectos.
+        que sean arrays u objetos.
         """
         with open("datapackage.json", "r") as f:
             datapackage = json.load(f)
