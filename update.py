@@ -175,7 +175,7 @@ def detectarModificaciones(df1, df2, timestamp):
         )
 
 
-def detectarAdicionesElminiaciones(df1, df2, timestamp):
+def detectarAdiciones(df1, df2, timestamp):
     """
     Detecta trámites que aparecen o desaparecen
     entre dos corridas consecutivas df1 y df2.
@@ -241,7 +241,7 @@ async def main():
         with jsonlines.open(FILENAME, "r") as f:
             tramites_previos = pd.DataFrame([line for line in f])
 
-        detectarAdicionesEliminaciones(tramites_previos, tramites_df, timestamp)
+        detectarAdiciones(tramites_previos, tramites_df, timestamp)
         detectarModificaciones(tramites_previos, tramites_df, timestamp)
 
     # Guardar trámites y errores
