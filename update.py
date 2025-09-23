@@ -173,7 +173,7 @@ def detectarModificaciones(df1, df2, timestamp):
         modificaciones.sort_values(["timestamp", "id", "campo"]).to_csv(
             FILENAME, index=False
         )
-#
+
 
 def detectarAdicionesElminiaciones(df1, df2, timestamp):
     """
