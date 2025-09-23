@@ -36,6 +36,7 @@ def listarTramites(pageSize=30):
                 page += 1
         except Exception as e:
             print(f"{e}")
+    tramites = list({d["slug"]: d for d in tramites}.values())
     return tramites
 
 
@@ -112,22 +113,20 @@ def detectarModificaciones(df1, df2, timestamp):
     camposCompuestos = listarCamposCompuestos()
     for col in cols:
         old, new = _df1[col], _df2[col]
-        differences = old.ne(new) & ~(old.isna() & new.isna())
+        modified = old.ne(new) & ~(old.isna() & new.isna())
 
-        # Si existen diferencias
-        if differences.any():
-            modified = old.index.intersection(new.index)
-
+        # Si existen modificaciones
+        if modified.any():
             # Si los valores son arrays u objetos
             if col in camposCompuestos:
                 for id_tramite, v1, v2 in zip(
-                        modified.values,
-                        old[modified.values].values,
-                        new[modified.values].values
+                    old.index[modified].values,
+                    old[modified].values,
+                    new[modified].values,
                 ):
                     # Detectar cambios detallados y agregar cada uno en una fila
                     diff = DeepDiff(v1, v2)
-                    for key in diff.get("values_changed", {}).keys():
+                    for key in diff["values_changed"].keys():
                         campo = f"{col}{key.replace('root', '')}"
                         viejo, nuevo = [
                             diff["values_changed"][key][v]
@@ -147,22 +146,21 @@ def detectarModificaciones(df1, df2, timestamp):
             else:
                 # Si los valores son simples
                 for id_tramite, viejo, nuevo in zip(
-                        modified.values,
-                        old[modified.values].values,
-                        new[modified.values].values
+                    old.index[modified].values,
+                    old[modified].values,
+                    new[modified].values,
                 ):
-                    if nuevo != viejo:
-                        cambios.append(
-                            {
-                                "timestamp": timestamp,
-                                "id": id_tramite,
-                                "entidad": entidades[id_tramite],
-                                "nombre": nombres[id_tramite],
-                                "campo": col,
-                                "viejo": viejo,
-                                "nuevo": nuevo,
-                            }
-                        )
+                    cambios.append(
+                        {
+                            "timestamp": timestamp,
+                            "id": id_tramite,
+                            "entidad": entidades[id_tramite],
+                            "nombre": nombres[id_tramite],
+                            "campo": col,
+                            "viejo": viejo,
+                            "nuevo": nuevo,
+                        }
+                    )
 
     # Guardar cambios
     print(f"{len(cambios)} modificaciones")
@@ -211,7 +209,6 @@ def detectarAdiciones(df1, df2, timestamp):
         eventos.sort_values(["timestamp", "id", "tipo"]).to_csv(FILENAME, index=False)
 
 
-
 async def main():
     """
     Lista todos los trámites disponibles y descarga
@@ -232,7 +229,6 @@ async def main():
 
     tramites, errores = await getTramites(pendientes)
 
-
     print(f"{len(tramites)} registros, {len(errores)} errores")
 
     # Consolidar con datos recogidos previamente
@@ -251,9 +247,7 @@ async def main():
             with jsonlines.open(f"{filename}.jsonl", "w") as f:
                 for entry in data:
                     f.write(entry)
-    print(
-        f"Datos guardados: {len(tramites_sorted)} trámites | {len(errores)} errores."
-    )
+    print(f"Datos guardados: {len(tramites_sorted)} trámites | {len(errores)} errores.")
 
 
 if __name__ == "__main__":
