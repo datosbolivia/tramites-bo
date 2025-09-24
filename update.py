@@ -36,6 +36,7 @@ def listarTramites(pageSize=30):
                 page += 1
         except Exception as e:
             print(f"{e}")
+    tramites = list({d["slug"]: d for d in tramites}.values())
     return tramites
 
 
@@ -116,7 +117,6 @@ def detectarModificaciones(df1, df2, timestamp):
 
         # Si existen modificaciones
         if modified.any():
-
             # Si los valores son arrays u objetos
             if col in camposCompuestos:
                 for id_tramite, v1, v2 in zip(
@@ -209,7 +209,6 @@ def detectarAdiciones(df1, df2, timestamp):
         eventos.sort_values(["timestamp", "id", "tipo"]).to_csv(FILENAME, index=False)
 
 
-
 async def main():
     """
     Lista todos los trámites disponibles y descarga
@@ -248,9 +247,7 @@ async def main():
             with jsonlines.open(f"{filename}.jsonl", "w") as f:
                 for entry in data:
                     f.write(entry)
-    print(
-        f"Datos guardados: {len(tramites_sorted)} trámites | {len(errores)} errores."
-    )
+    print(f"Datos guardados: {len(tramites_sorted)} trámites | {len(errores)} errores.")
 
 
 if __name__ == "__main__":
