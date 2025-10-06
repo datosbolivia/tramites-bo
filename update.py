@@ -126,23 +126,25 @@ def detectarModificaciones(df1, df2, timestamp):
                 ):
                     # Detectar cambios detallados y agregar cada uno en una fila
                     diff = DeepDiff(v1, v2)
-                    for key in diff["values_changed"].keys():
-                        campo = f"{col}{key.replace('root', '')}"
-                        viejo, nuevo = [
-                            diff["values_changed"][key][v]
-                            for v in ["old_value", "new_value"]
-                        ]
-                        cambios.append(
-                            {
-                                "timestamp": timestamp,
-                                "id": id_tramite,
-                                "entidad": entidades[id_tramite],
-                                "nombre": nombres[id_tramite],
-                                "campo": campo,
-                                "viejo": viejo,
-                                "nuevo": nuevo,
-                            }
-                        )
+                    for change_class in ["values_changed", "type_changes"]:
+                        if change_class in diff.keys():
+                            for key in diff[change_class].keys():
+                                campo = f"{col}{key.replace('root', '')}"
+                                viejo, nuevo = [
+                                    diff[change_class][key][v]
+                                    for v in ["old_value", "new_value"]
+                                ]
+                                cambios.append(
+                                    {
+                                        "timestamp": timestamp,
+                                        "id": id_tramite,
+                                        "entidad": entidades[id_tramite],
+                                        "nombre": nombres[id_tramite],
+                                        "campo": campo,
+                                        "viejo": viejo,
+                                        "nuevo": nuevo,
+                                    }
+                                )
             else:
                 # Si los valores son simples
                 for id_tramite, viejo, nuevo in zip(
