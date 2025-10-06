@@ -306,3 +306,48 @@ timestamp,tipo,id,entidad,nombre
 2025-09-28T04:14+00:00,aparece,2767,Servicio Nacional Textil,Servicios Comercialización
 2025-09-28T04:14+00:00,aparece,2768,Servicio Nacional Textil,Servicios de Embellecimiento
 2025-09-28T04:14+00:00,aparece,2769,Servicio Nacional Textil,Servicios de Desarrollo de Producto
+2025-10-06T04:11+00:00,aparece,1913,Ministerio de Defensa,TRIBUNAL PERMANENTE DE JUSTICIA MILITAR
+2025-10-06T04:11+00:00,desaparece,2655,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes,Solicitud de Otorgación de Licencia de Servicio Postal y Certificado Anual de Operaciones(CAO)
+2025-10-06T04:11+00:00,desaparece,2656,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes,Solicitud de Otorgación de Licencia de Servicio Postal y Certificado Anual de Operaciones(CAO) - Transporte Aéreo
+2025-10-06T04:11+00:00,aparece,2677,Instituto Nacional De Laboratorio De Salud,Análisis Fisicoquímico de Agua
+2025-10-06T04:11+00:00,desaparece,2750,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de virus respiratorios (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,desaparece,2751,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de arbovirus (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,desaparece,2752,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de virus zoonóticos (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,desaparece,2753,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de patógenos entéricos virales (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,desaparece,2754,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de virus exantemáticos (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,desaparece,2755,Instituto Nacional De Laboratorio De Salud,"Diagnóstico de otros virus (EJEMPLO, SUJETO A MODIFICACIÓN)"
+2025-10-06T04:11+00:00,aparece,2771,Instituto Nacional De Laboratorio De Salud,Cursos de capacitación con 4 horas de duración
+2025-10-06T04:11+00:00,aparece,2772,Instituto Nacional De Laboratorio De Salud,Tratamiento de residuos líquidos químicos por litro
+2025-10-06T04:11+00:00,aparece,2773,Instituto Nacional De Laboratorio De Salud,"CAPACITACIÓN CON 24 HORAS DE DURACIÓN, EN GESTIÓN DEL BIORIESGO POR PERSONA"
+2025-10-06T04:11+00:00,aparece,2774,Instituto Nacional De Laboratorio De Salud,CERTIFICACIÓN DE MUESTRA INTERNACIONAL
+2025-10-06T04:11+00:00,aparece,2776,Defensoria del Pueblo,Formulario de denuncia
+2025-10-06T04:11+00:00,aparece,2777,Instituto Nacional De Laboratorio De Salud,DIAGNOSTICO PARASITOLOGICO ZOONÓTICO POR ELISA
+2025-10-06T04:11+00:00,aparece,2779,Instituto Nacional De Laboratorio De Salud,Vacuna Antirrábica de uso Veterinario en Cultivo de Células
+2025-10-06T04:11+00:00,aparece,2787,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 18  -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2793,Defensoria del Pueblo,Servicio de denuncia de vulneración de derechos humanos
+2025-10-06T04:11+00:00,aparece,2798,Instituto Nacional De Laboratorio De Salud,"HER-2 POR FISH -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2799,Instituto Nacional De Laboratorio De Salud,"FISH:CROMOSOMA X -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2800,Instituto Nacional De Laboratorio De Salud,"FISH: CROMOSOMA Y -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2801,Instituto Nacional De Laboratorio De Salud,"FISH: DELECION GEN SRY -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2802,Instituto Nacional De Laboratorio De Salud,"FISH: SÍNDROME DI GEORGE DELECION 22q11 -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2803,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 13 -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2804,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 21 -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2805,Instituto Nacional De Laboratorio De Salud,"BRCA 1 Y BRCA 2 POR SECUENCIACÍON NGS -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2806,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2807,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO DE KITS DE VPH PARA DETECCIÓN DE GENOTIPOS DE ALTO RIESGO -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2808,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2809,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2810,Instituto Nacional De Laboratorio De Salud,"PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2811,Instituto Nacional De Laboratorio De Salud,"PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2812,Instituto Nacional De Laboratorio De Salud,"PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2813,Instituto Nacional De Laboratorio De Salud,"CARIOTIPO CON BANDEO GTG - ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2814,Instituto Nacional De Laboratorio De Salud,"ALFAFETOPROTEÍNA (AFP) POR ELISA  -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2815,Instituto Nacional De Laboratorio De Salud,"ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2816,Instituto Nacional De Laboratorio De Salud,"CA 15-3 POR ELISA -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2817,Instituto Nacional De Laboratorio De Salud,"CA 19-9 POR ELISA -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2818,Instituto Nacional De Laboratorio De Salud,"CA-125 POR ELISA -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2819,Instituto Nacional De Laboratorio De Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS
+2025-10-06T04:11+00:00,aparece,2820,Instituto Nacional De Laboratorio De Salud,"DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2821,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO -  ""INLASA"""
+2025-10-06T04:11+00:00,aparece,2825,Instituto Nacional De Laboratorio De Salud,Desinfección ambiental por termoniebla empresas públicas y privadas
+2025-10-06T04:11+00:00,aparece,2827,Insumos Bolivia,VENTA DE PALMITO 800 GRAMOS
