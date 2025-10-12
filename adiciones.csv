@@ -351,3 +351,34 @@ timestamp,tipo,id,entidad,nombre
 2025-10-06T04:11+00:00,aparece,2821,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO -  ""INLASA"""
 2025-10-06T04:11+00:00,aparece,2825,Instituto Nacional De Laboratorio De Salud,Desinfección ambiental por termoniebla empresas públicas y privadas
 2025-10-06T04:11+00:00,aparece,2827,Insumos Bolivia,VENTA DE PALMITO 800 GRAMOS
+2025-10-12T04:13+00:00,desaparece,2147,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,VERIFICA TU REGISTRO EN  CIUDADANÍA DIGITAL
+2025-10-12T04:13+00:00,aparece,2655,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes,Solicitud de Otorgación de Licencia de Servicio Postal y Certificado Anual de Operaciones(CAO) como actividad principal
+2025-10-12T04:13+00:00,aparece,2656,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes,Solicitud de Otorgación de Licencia de Servicio Postal y Certificado Anual de Operaciones(CAO) - Transporte Aéreo como actividad secundaria
+2025-10-12T04:13+00:00,aparece,2657,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes,Solicitud de Otorgación de Licencia de Servicio Postal y Certificado Anual de Operaciones(CAO) - Transporte Terrestre como actividad secundaria
+2025-10-12T04:13+00:00,aparece,2778,Instituto Nacional De Laboratorio De Salud,"LABORATORIO DE PRODUCCION DE INMUNOGLOBULINAS 
+SUEROS ANTIOFIDICOS, ANTIARACNIDOS Y  ANTIRRABICOS."
+2025-10-12T04:13+00:00,desaparece,2787,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 18  -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2798,Instituto Nacional De Laboratorio De Salud,"HER-2 POR FISH -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2799,Instituto Nacional De Laboratorio De Salud,"FISH:CROMOSOMA X -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2800,Instituto Nacional De Laboratorio De Salud,"FISH: CROMOSOMA Y -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2801,Instituto Nacional De Laboratorio De Salud,"FISH: DELECION GEN SRY -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2802,Instituto Nacional De Laboratorio De Salud,"FISH: SÍNDROME DI GEORGE DELECION 22q11 -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2803,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 13 -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2804,Instituto Nacional De Laboratorio De Salud,"FISH:TRISOMÍA 21 -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2805,Instituto Nacional De Laboratorio De Salud,"BRCA 1 Y BRCA 2 POR SECUENCIACÍON NGS -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2806,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2807,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO DE KITS DE VPH PARA DETECCIÓN DE GENOTIPOS DE ALTO RIESGO -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2808,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2809,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2810,Instituto Nacional De Laboratorio De Salud,"PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2811,Instituto Nacional De Laboratorio De Salud,"PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2812,Instituto Nacional De Laboratorio De Salud,"PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2813,Instituto Nacional De Laboratorio De Salud,"CARIOTIPO CON BANDEO GTG - ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2814,Instituto Nacional De Laboratorio De Salud,"ALFAFETOPROTEÍNA (AFP) POR ELISA  -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2815,Instituto Nacional De Laboratorio De Salud,"ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2816,Instituto Nacional De Laboratorio De Salud,"CA 15-3 POR ELISA -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2817,Instituto Nacional De Laboratorio De Salud,"CA 19-9 POR ELISA -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2818,Instituto Nacional De Laboratorio De Salud,"CA-125 POR ELISA -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2820,Instituto Nacional De Laboratorio De Salud,"DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO -  ""INLASA"""
+2025-10-12T04:13+00:00,desaparece,2821,Instituto Nacional De Laboratorio De Salud,"EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO -  ""INLASA"""
+2025-10-12T04:13+00:00,aparece,2843,Transportes Aéreos Bolivianos,Transporte Aereo  de Carga
