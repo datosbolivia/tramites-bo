@@ -2850,3 +2850,21 @@ Testimonio de Poder vigente (personas naturales)."
 2025-11-30T04:27+00:00,1832,Ministerio de Educación,"Título de Auxiliar en Enfermería de Institutos Técnicos y Tecnológicos, Escuela Nacional de Salud, Escuela Técnica de Salud Boliviano Japonesa de Cooperación Andina.",entidad['logo'],https://www.gob.bo/ws/api/archivos/78598177-59ed-4c5e-a1b8-bdaf7d777b0f.jpg,https://www.gob.bo/ws/api/archivos/daecf0ba-816d-4dc5-b77c-f45552bdf53d.jpg
 2025-11-30T04:27+00:00,2147,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,VERIFICA TU REGISTRO EN  CIUDADANÍA DIGITAL,fechaActualización,30/10/2025,28/11/2025
 2025-11-30T04:27+00:00,2147,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,VERIFICA TU REGISTRO EN  CIUDADANÍA DIGITAL,nombre,VERIFICA TU REGISTRO EN  CIUDADANÍA DIGITAL,Verifica tu registro en Ciudadanía Digital
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,fechaActualización,17/09/2025,05/12/2025
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][1]['comentario'],Depósito de Bs. 100 ,Formulario de Solicitud de Trámite (Firma del Interesado con bolígrafo azul)
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][1]['nombre'],Comprobante de Pago,Formulario
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][2]['comentario'],Formulario de Solicitud de Trámite (Firma del Interesado con bolígrafo azul),"Fotocopia simple de la Cédula de Identidad, firmada por el interesado"
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][2]['nombre'],Formulario,Cédula de Identidad
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][3]['comentario'],"Fotocopia simple de la Cédula de Identidad, firmada por el interesado","Depósito de Bs. 100;  (para el Dpto. de La Paz sacar fotocopia y canjear en Tesoreria, 2do piso Ministerio de Defensa)"
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][3]['nombre'],Cédula de Identidad,Comprobante de Pago
+2025-12-07T04:28+00:00,2015,Ministerio de Defensa,CERTIFICADO ESPECIAL POR PERDIDA O ANULACION,modalidades[0]['publico'][0]['requisitos'][4]['comentario'],,"Especificación de la fotografía --
+Tamaño: 4 cm x 4 cm --
+Fondo: color rojo sólido --
+Vestimenta:
+Traje formal color oscuro (negro) --
+Camisa color blanco,
+con corbata (de preferencia sobria, acorde al traje)
+"
+2025-12-07T04:28+00:00,2016,Ministerio de Defensa,RECTIFICACIÓN DE DATOS,fechaActualización,17/09/2025,05/12/2025
+2025-12-07T04:28+00:00,2510,Instituto Nacional de Salud Ocupacional,Servicio de Apostillado de Documentos,fechaActualización,04/09/2025,04/12/2025
+2025-12-07T04:28+00:00,2518,Instituto Nacional de Salud Ocupacional,CONTROL PERIODICO DE SALUD,fechaActualización,04/09/2025,04/12/2025
