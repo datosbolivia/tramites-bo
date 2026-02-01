@@ -3116,3 +3116,23 @@ de Educación Jovenes y Adultos",entidad['logo'],https://www.gob.bo/ws/api/archi
 2026-01-25T04:45+00:00,1386,Dirección General de Aeronáutica Civil,SOLICITUD DE LICENCIA PILOTO PRIVADO,fechaActualización,20/01/2025,20/01/2026
 2026-01-25T04:45+00:00,1387,Dirección General de Aeronáutica Civil,SOLICITUD DUPLICADO DE LICENCIA O CAMBIO DE NOMBRE DE TITULAR,fechaActualización,20/01/2025,20/01/2026
 2026-01-25T04:45+00:00,1389,Dirección General de Aeronáutica Civil,SOLICITUD DE LICENCIA TRIPULANTES DE CABINA,fechaActualización,20/01/2025,20/01/2026
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,descripcion,..,Venta de Harina al Sector Panificador a Precio diferenciado
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,fechaActualización,15/01/2026,26/01/2026
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,marcoLegal,..,-
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][0]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][0]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][1]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][1]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][2]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][2]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][3]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][3]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][4]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][4]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][5]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][5]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][6]['finManiana'],16:30,23:59
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['horario'][6]['inicioManiana'],08:30,00:00
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,modalidades[0]['publico'][0]['procedimiento'],<p>Registrarse en Linea</p>,"<p><strong>PROCEDIMIENTO DE RESERVA PARA EL SECTOR PANIFICADOR</strong></p><ol><li><p><strong>Registro en el Portal:</strong> Ingrese al sitio web oficial <a target=""_blank"" rel=""noopener noreferrer nofollow"" href=""http://www.siepanificadores.emapa.gob.bo"">www.siepanificadores.emapa.gob.bo</a> y realice su registro utilizando sus credenciales de <strong>Ciudadanía Digital</strong>.</p></li><li><p><strong>Verificación y Aprobación:</strong> Una vez completado el registro, la solicitud será evaluada por EMAPA. Deberá aguardar la confirmación oficial de habilitación en el sistema.</p></li><li><p><strong>Gestión de Reservas:</strong> Tras la aprobación, podrá efectuar la reserva de insumos, seleccionando el almacén correspondiente y el horario de su preferencia para el recojo programado.</p></li></ol>"
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,nombre,Compra de Harina en Linea,COMPRA DE HARINA EN LINEA - EMAPA
+2026-02-01T05:19+00:00,3111,Empresa de Apoyo a la Producción de Alimentos,Compra de Harina en Linea,slug,compra-de-harina-en-linea,compra-de-harina-en-linea-emapa
