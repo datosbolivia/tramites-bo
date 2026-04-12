@@ -4224,3 +4224,964 @@ Reglamento de afiliación, desafiliación y re afiliación para la seguridad soc
 2026-03-29T05:40+00:00,3347,Unidad de Análisis de Políticas Sociales y Económicas,"Servicio de consulta estatal, publicación y difusión de  información económica, social y sectorial",categorias[7]['slug'],asistencia-tecnica,impuestos
 2026-03-29T05:40+00:00,3347,Unidad de Análisis de Políticas Sociales y Económicas,"Servicio de consulta estatal, publicación y difusión de  información económica, social y sectorial",categorias[9]['nombre'],Vivienda,Transporte
 2026-03-29T05:40+00:00,3347,Unidad de Análisis de Políticas Sociales y Económicas,"Servicio de consulta estatal, publicación y difusión de  información económica, social y sectorial",categorias[9]['slug'],vivienda,transporte
+2026-04-12T05:49+00:00,1531,Ministerio de Desarrollo Productivo y Economía Plural,AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
+2026-04-12T05:49+00:00,1531,Ministerio de Desarrollo Productivo y Economía Plural,AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['sigla'],MIN-DPEP,MIN-DPRyA
+2026-04-12T05:49+00:00,1531,Ministerio de Desarrollo Productivo y Economía Plural,AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
+2026-04-12T05:49+00:00,1534,Ministerio de Desarrollo Productivo y Economía Plural,REGISTRO UNICO DE IMPORTADOR,entidad['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
+2026-04-12T05:49+00:00,1534,Ministerio de Desarrollo Productivo y Economía Plural,REGISTRO UNICO DE IMPORTADOR,entidad['sigla'],MIN-DPEP,MIN-DPRyA
+2026-04-12T05:49+00:00,1534,Ministerio de Desarrollo Productivo y Economía Plural,REGISTRO UNICO DE IMPORTADOR,entidad['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
+2026-04-12T05:49+00:00,1712,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
+2026-04-12T05:49+00:00,1712,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['sigla'],MIN-DPEP,MIN-DPRyA
+2026-04-12T05:49+00:00,1712,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
+2026-04-12T05:49+00:00,1714,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
+2026-04-12T05:49+00:00,1714,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['sigla'],MIN-DPEP,MIN-DPRyA
+2026-04-12T05:49+00:00,1714,Ministerio de Desarrollo Productivo y Economía Plural,LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,fechaActualización,24/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],Acido úrico en orina,Depuración de creatinina (clearence de orina)
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][0]['costo'],37.00,67.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],Calcio en orina de 24 horas,Microalbuminuria
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][10]['costo'],35.00,94.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],Microalbuminuria,Morfología de Globulos Rojos en orina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][11]['costo'],94.00,30.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],Morfología de Globulos Rojos en orina,Calcio en orina de 24 horas
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][12]['costo'],30.00,36.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],Creatinina,Fósforo en orina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][1]['costo'],35.00,63.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],Nitrógeno uréico/NUS,Acido úrico en orina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][2]['costo'],38.00,43.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"Electrólitos (Sodio, Potasio, Cloro)",Creatinina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][3]['costo'],138.00,40.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],Examen General de Orina,"Electrólitos (Sodio, Potasio, Cloro)"
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][4]['costo'],27.00,203.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],Proteinuria de 24 horas,Examen General de Orina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][5]['costo'],30.00,29.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],Creatinina en orina,Proteinuria de 24 horas
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][6]['costo'],35.00,36.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],depuración de creatinina (clearence de orina),Creatinina en orina
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][7]['costo'],60.00,40.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],Fósforo en orina,Nitrógeno uréico/NUS
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][8]['costo'],35.00,38.00
+2026-04-12T05:49+00:00,2670,Instituto Nacional de Laboratorios de Salud,PERFIL RENAL,modalidades[0]['publico'][0]['costos'][9]['costo'],37.00,43.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],Análisis Fisicoquímico Básico (20 parámetros básicos en conjunto),pH 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][0]['costo'],595.00,60.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],CALCIO ,HIERRO  
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][10]['costo'],70.00,60.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],CLORO LIBRE ,Manganeso
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][11]['costo'],65.00,75.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],COBRE ,Nitritos
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][12]['costo'],70.00,60.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],FLUORURO ,Toma de muestra de agua potable (Municipio La Paz)
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][13]['costo'],70.00,250.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],FOSFATOS ,CLORUROS 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][14]['costo'],70.00,91.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],HIERRO  ,ALUMINIO 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][15]['costo'],60.00,96.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][16]['conceptoPago'],MAGNESIO ,CALCIO 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][16]['costo'],70.00,85.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][17]['conceptoPago'],Manganeso,COBRE 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][17]['costo'],75.00,48.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][18]['conceptoPago'],Nitritos,FLUORURO 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][18]['costo'],60.00,50.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][19]['conceptoPago'],Nitratos,MAGNESIO 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][19]['costo'],75.00,141.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],pH ,COLOR 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][1]['costo'],60.00,52.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][20]['conceptoPago'],Sulfatos,Nitratos
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][20]['costo'],60.00,59.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][21]['conceptoPago'],Demanda Química de Oxigeno,Sulfatos
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][21]['costo'],132.00,48.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][22]['conceptoPago'],Cromo total,Demanda Química de Oxigeno
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][22]['costo'],100.00,215.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][23]['conceptoPago'],Amonio,Cromo total
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][23]['costo'],70.00,188.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][24]['conceptoPago'],Cianuro,Amonio
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][24]['costo'],90.00,194.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][25]['conceptoPago'],Indice de Langelier ,Cianuro
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][25]['costo'],300.00,63.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][26]['conceptoPago'],Temperatura,Indice de Langelier 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][26]['costo'],10.00,385.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][27]['conceptoPago'],Toma de muestra (agua potable),Temperatura
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][27]['costo'],250.00,15.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],CONDUCTIVIDAD ELECTRICA ,ALCALINIDAD TOTAL 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][2]['costo'],60.00,120.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],TURBIDEZ ,CONDUCTIVIDAD 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],SOLIDOS TOTALES DISUELTOS ,TURBIDEZ 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],COLOR ,SOLIDOS TOTALES DISUELTOS 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],ALCALINIDAD TOTAL ,Legalización de fotocopias
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][6]['costo'],90.00,50.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][7]['costo'],70.00,114.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],CLORUROS ,CLORO LIBRE 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][8]['costo'],100.00,65.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],ALUMINIO ,FOSFATOS 
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['costos'][9]['costo'],75.00,70.00
+2026-04-12T05:49+00:00,2677,Instituto Nacional de Laboratorios de Salud,ANÁLISIS FISICOQUÍMICO  DE AGUA,modalidades[0]['publico'][0]['procedimiento'],"<p><strong>PASO 1: Solicitar la cotización del servicio según parámetros a evaluar</strong><br />Puede solicitar la cotización a través de los siguientes medios:</p><ul><li><p>Teléfonos: 2226670 - 2225194 - 2224078</p></li><li><p>Celular - WhatsApp: 72054697 - 74045981</p></li><li><p>Correo: <a target=""_blank"" rel=""noopener noreferrer nofollow"" href=""mailto:saludambientalinlasa@gmail.com"">ambiental.inlasa@minisalud.gob.bo</a></p></li></ul><p><strong>PASO 2: Realizar el pago según cotización</strong></p><p>a) Caja de INLASA (presencial)</p><p>b) Transferencia o depósito a la cuenta de INLASA <em>(Banco Union. N° cuenta: 10000012647844 - INLASA Recaudaciones. NIT: 1001419025)</em></p><p><strong>PASO 3: Entregar la muestra</strong></p><p>Presentando la Factura y Carnet de Identidad en Recepción de Muestras del Laboratorio de Salud Ambiental del Instituto nacional de Laboratorios de Salud (INLASA).<br />Av. Saavedra, Pasaje Rafael Zubieta N.º 1889.Zona Miraflores (al lado del Hospital del niño).</p>","<p><strong>PASO 1: Solicitar la cotización del servicio según parámetros a evaluar</strong><br />Puede solicitar la cotización a través de los siguientes medios:</p><ul><li><p>Teléfonos: 2226670 - 2225194 - 2224078</p></li><li><p>Celular - WhatsApp: 67057758 - 74045981</p></li><li><p>Correo: <a target=""_blank"" rel=""noopener noreferrer nofollow"" href=""mailto:saludambientalinlasa@gmail.com"">ambiental.inlasa@minisalud.gob.bo</a></p></li></ul><p><strong>PASO 2: Realizar el pago según cotización</strong></p><p>a) Caja de INLASA (presencial)</p><p>b) Transferencia o depósito a la cuenta de INLASA <em>(Banco Union. N° cuenta: 10000012647844 - INLASA Recaudaciones. NIT: 1001419025)</em></p><p><strong>PASO 3: Entregar la muestra</strong></p><p>Presentando la Factura y Carnet de Identidad en Recepción de Muestras del Laboratorio de Salud Ambiental del Instituto nacional de Laboratorios de Salud (INLASA).<br />Av. Saavedra, Pasaje Rafael Zubieta N.º 1889.Zona Miraflores (al lado del Hospital del niño).</p>"
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,fechaActualización,24/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,modalidades[0]['publico'][0]['costos'][0]['costo'],35.00,36.00
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,modalidades[0]['publico'][0]['costos'][1]['costo'],36.00,63.00
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,modalidades[0]['publico'][0]['costos'][2]['costo'],146.00,180.00
+2026-04-12T05:49+00:00,2678,Instituto Nacional de Laboratorios de Salud,PERFIL METABÓLICO ÓSEO,modalidades[0]['publico'][0]['costos'][3]['costo'],160.00,203.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][0]['costo'],36.00,48.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],TIEMPO PARCIAL DE TROMBOPLASTINA ACTIVADA (TTPA),DIMERO-D
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][1]['costo'],50.00,163.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],DIMERO-D,TIEMPO DE RECALCIFICACION Y TIEMPO DE SANGRÍA
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][2]['costo'],163.00,38.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],FIBRINOGENO,TIEMPO PARCIAL DE TROMBOPLASTINA ACTIVADA (TTPA)
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][3]['costo'],35.00,54.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"COAGULOGRAMA (TIEMPO DE: SANGRIA, RECALCIFICACION Y PROTROMBINA, RECUENTO DE PLAQUETAS)",FIBRINOGENO
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][4]['costo'],71.00,54.00
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],TIEMPO DE RECALCIFICACION Y TIEMPO DE SANGRÍA,"COAGULOGRAMA (TIEMPO DE: SANGRIA, RECALCIFICACION Y PROTROMBINA, RECUENTO DE PLAQUETAS)"
+2026-04-12T05:49+00:00,2681,Instituto Nacional de Laboratorios de Salud,EVALUACION DE LA HEMOSTASIA,modalidades[0]['publico'][0]['costos'][5]['costo'],38.00,83.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,fechaActualización,24/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],Albúmina,Calcio
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][1]['costo'],32.00,36.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],Fosfatasa alcalina,Perfil lipidico
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][2]['costo'],37.00,138.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],Creatinina,Albúmina
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][4]['costo'],35.00,34.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],"Electrolitos (Sodio, Potasio y Cloro)",Fosfatasa alcalina
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][5]['costo'],138.00,49.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],Glucosa,Creatinina
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][6]['costo'],39.00,40.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],Calcio,"Electrolitos (Sodio, Potasio y Cloro)"
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][7]['costo'],35.00,203.00
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],Perfil lipidico,Glucosa
+2026-04-12T05:49+00:00,2684,Instituto Nacional de Laboratorios de Salud,PERFIL METABOLICO,modalidades[0]['publico'][0]['costos'][8]['costo'],120.00,40.00
+2026-04-12T05:49+00:00,2690,Instituto Nacional de Laboratorios de Salud,PERFIL PANCREÁTICO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2690,Instituto Nacional de Laboratorios de Salud,PERFIL PANCREÁTICO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2690,Instituto Nacional de Laboratorios de Salud,PERFIL PANCREÁTICO,modalidades[0]['publico'][0]['costos'][0]['costo'],36.00,66.00
+2026-04-12T05:49+00:00,2690,Instituto Nacional de Laboratorios de Salud,PERFIL PANCREÁTICO,modalidades[0]['publico'][0]['costos'][2]['costo'],39.00,40.00
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,modalidades[0]['publico'][0]['costos'][0]['costo'],39.00,54.00
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],TROPONINA I POR QUIMIOLUMINISCENCIA,LACTATO DESHIDROGENASA (LDH)
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,modalidades[0]['publico'][0]['costos'][2]['costo'],176.00,37.00
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],LACTATO DESHIDROGENASA (LDH),TROPONINA I POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2691,Instituto Nacional de Laboratorios de Salud,PERFIL CARDIACO,modalidades[0]['publico'][0]['costos'][3]['costo'],37.00,202.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][0]['costo'],37.00,49.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],GAMMA GLUTAMIL TRANSFERASA,ALBÚMINA
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][1]['costo'],38.00,34.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],TRANSAMINASAS GOT Y GPT,TIEMPO DE PROTROMBINA
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][2]['costo'],68.00,48.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],BILIRRUBINAS TOTAL Y FRACCIONADAS,PROTEINAS TOTALES
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][3]['costo'],37.00,27.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],ALBÚMINA,GAMMA GLUTAMIL TRANSFERASA
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][4]['costo'],32.00,38.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],TIEMPO DE PROTROMBINA,TRANSAMINASAS GOT Y GPT
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][5]['costo'],36.00,68.00
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],PROTEINAS TOTALES,BILIRRUBINAS TOTAL Y FRACCIONADAS
+2026-04-12T05:49+00:00,2703,Instituto Nacional de Laboratorios de Salud,PERFIL HEPÁTICO,modalidades[0]['publico'][0]['costos'][6]['costo'],26.00,42.00
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][0]['costo'],39.00,40.00
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],PRUEBA DE TOLERANCIA A LA GLUCOSA,HEMOGLOBINA A1C (GLICOHEMOGLOBINA)
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][1]['costo'],106.00,119.00
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],INSULINA,PRUEBA DE TOLERANCIA A LA GLUCOSA
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][2]['costo'],153.00,108.00
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],GLICEMIA POSTPRANDIAL ,INSULINA
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][3]['costo'],62.00,197.00
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],HEMOGLOBINA A1C (GLICOHEMOGLOBINA),GLICEMIA POSTPRANDIAL 
+2026-04-12T05:49+00:00,2707,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DIABETES,modalidades[0]['publico'][0]['costos'][4]['costo'],95.00,63.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][0]['costo'],34.00,50.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],HEMOGRAMA COMPLETO,EXAMEN GENERAL DE ORINA
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][1]['costo'],43.00,29.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"COAGULOGRAMA (TIEMPO DE: SANGRIA, RECALCIFICACION Y PROTROMBINA, RECUENTO DE PLAQUETAS)",RECUENTO DE PLAQUETAS
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][2]['costo'],71.00,38.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],GLUCOSA EN SANGRE,HEMOGRAMA COMPLETO
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][3]['costo'],39.00,60.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],CREATININA SÉRICA,"COAGULOGRAMA (TIEMPO DE: SANGRIA, RECALCIFICACION Y PROTROMBINA, RECUENTO DE PLAQUETAS)"
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][4]['costo'],35.00,83.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],EXAMEN GENERAL DE ORINA,GLUCOSA EN SANGRE
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][5]['costo'],27.00,40.00
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],RECUENTO DE PLAQUETAS,CREATININA SÉRICA
+2026-04-12T05:49+00:00,2709,Instituto Nacional de Laboratorios de Salud,PERFIL BÁSICO PRE OPERATORIO,modalidades[0]['publico'][0]['costos'][6]['costo'],38.00,40.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][0]['costo'],60.00,66.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],HEMOGRAMA COMPLETO,FERRITINA POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][1]['costo'],43.00,185.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],HEMOGLOBINA Y HEMATOCRITO,HIERRO SÉRICO
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][2]['costo'],33.00,39.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],RECUENTO DE RETICULOCITOS,HEMOGRAMA COMPLETO
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][3]['costo'],39.00,60.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],VITAMINA B12,HEMOGLOBINA Y HEMATOCRITO
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][4]['costo'],174.00,33.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],FERRITINA POR QUIMIOLUMINISCENCIA,RECUENTO DE RETICULOCITOS
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][5]['costo'],143.00,39.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],TRANSFERRINA,VITAMINA B12
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][6]['costo'],106.00,189.00
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],HIERRO SÉRICO,TRANSFERRINA
+2026-04-12T05:49+00:00,2713,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE ANEMIAS,modalidades[0]['publico'][0]['costos'][7]['costo'],37.00,106.00
+2026-04-12T05:49+00:00,2720,Instituto Nacional de Laboratorios de Salud,PERFIL LIPÍDICO,fechaActualización,24/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2720,Instituto Nacional de Laboratorios de Salud,PERFIL LIPÍDICO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2720,Instituto Nacional de Laboratorios de Salud,PERFIL LIPÍDICO,modalidades[0]['publico'][0]['costos'][0]['costo'],120.00,138.00
+2026-04-12T05:49+00:00,2720,Instituto Nacional de Laboratorios de Salud,PERFIL LIPÍDICO,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],Triglicéridos,Colesterol
+2026-04-12T05:49+00:00,2731,Instituto Nacional de Laboratorios de Salud,PRUEBAS INMUNOHEMATOLOGICAS,fechaActualización,24/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2731,Instituto Nacional de Laboratorios de Salud,PRUEBAS INMUNOHEMATOLOGICAS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2731,Instituto Nacional de Laboratorios de Salud,PRUEBAS INMUNOHEMATOLOGICAS,modalidades[0]['publico'][0]['costos'][2]['costo'],34.00,50.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][0]['costo'],90.00,125.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],FSH POR QUIMIOLUMINISCENCIA,TESTOSTERONA TOTAL POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][1]['costo'],90.00,126.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],PROGESTERONA POR QUIMIOLUMINISCENCIA,FSH POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][2]['costo'],90.00,133.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],ESTRADIOL POR QUIMIOLUMINISCENCIA,PROGESTERONA POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][3]['costo'],90.00,102.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],PROLACTINA POR QUIMIOLUMINISCENCIA,ESTRADIOL POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][4]['costo'],91.00,133.00
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],TESTOSTERONA TOTAL POR QUIMIOLUMINISCENCIA,PROLACTINA POR QUIMIOLUMINISCENCIA
+2026-04-12T05:49+00:00,2732,Instituto Nacional de Laboratorios de Salud,PERFIL HORMONAL FEMENINO,modalidades[0]['publico'][0]['costos'][5]['costo'],91.00,126.00
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,descripcion,"Pruebas de laboratorio que incluyen: 
+- Eosinofilos nasales, ayudan a identificar alergias respiratorias o rinitis alérgica.
+- Velocidad de eritrosedimentación (VES), indica presencia de inflamación o infección en el organismo.
+- Widal, prueba orientativa para fiebre tifoidea (infección por Salmonella).
+- Test de embarazo, detecta o confirma embarazo mediante la medición de la hormona gonadotropina coriónica.
+- Subunidad beta de la hormona gonadotropina coriónica humana (B-hCG), se mide en sangre para confirmar el embarazo temprano, monitorear su evolución (duplica sus niveles cada 48-72h) y detectar complicaciones como embarazos ectópicos o abortos. También se utiliza como marcador tumoral. ","Pruebas de laboratorio que incluyen: 
+- Eosinofilos nasales, ayudan a identificar alergias respiratorias o rinitis alérgica.
+- Velocidad de eritrosedimentación (VES), indica presencia de inflamación o infección en el organismo.
+- Widal, prueba orientativa para fiebre tifoidea (infección por Salmonella).
+- Test de embarazo, detecta o confirma embarazo mediante la medición de la hormona gonadotropina coriónica.
+- Subunidad beta de la hormona gonadotropina coriónica humana (B-hCG), se mide en sangre para confirmar el embarazo temprano, monitorear su evolución (duplica sus niveles cada 48-72h) y detectar complicaciones como embarazos ectópicos o abortos. También se utiliza como marcador tumoral.
+Leucograma: Evalua los globulos blancos o leucocitos. "
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],VELOCIDAD DE ERITROSEDIMENTACIÓN GLOBULAR (VES),LEUCOGRAMA
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][1]['costo'],24.00,36.00
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],REACCION DE WIDAL,VELOCIDAD DE ERITROSEDIMENTACIÓN GLOBULAR (VES)
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][2]['costo'],33.00,24.00
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],BHCG CUANTITATIVA POR QUIMIOLUMINISCENCIA,REACCION DE WIDAL
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['costos'][4]['costo'],95.00,37.00
+2026-04-12T05:49+00:00,2735,Instituto Nacional de Laboratorios de Salud,OTRAS PRUEBAS COMPLEMENTARIAS,modalidades[0]['publico'][0]['procedimiento'],"<p><strong>PASO 1: APERSONARSE A VENTANILLA DE CAJA DE INLASA</strong></p><p>a)       Para usuarios del SUS (personas naturales provenientes de centros de salud, clínicas hospitales, etc.): El personal de CAJA revisará la fotocopia simple de la cédula de identidad y sellará el Formulario D8 (original y primera copia).</p><p>-          El costo de la prueba es cubierto por el SUS</p><p>b)      Para usuarios particulares (personas naturales de consultorios, clínicas, hospitales): El personal de CAJA revisará su orden médica e indicará el monto a cancelar para posterior al pago de los servicios, emitir la factura correspondiente.</p><p><strong>PASO 2: APERSONARSE AL ÁREA DE TOMA DE MUESTRA</strong></p><p>a)       El personal de Toma de Muestra le solicitará su orden médica o formulario D8 sellado (según corresponda) y la fotocopia de carnet con la cual procederá con el registro de su información.</p><p>b)      Se procede con la toma de la muestra de ambas fosas nasales, previa revisión de condiciones adecuadas de obtención de muestra.</p><p>c)      Se procede con la recepción o la toma de la muestra sanguínea previa revisión de condiciones adecuadas de obtención de muestra, según corresponda.</p><p>d)       Se entrega el comprobante de atención y, se indica la fecha y requisitos para la entrega resultados en 24 horas.<br /><br /><strong>HORARIO DE TOMA DE MUESTRA <br /></strong>De lunes a viernes de 7:30 a 10:00 <br /><br /><strong>HORARIO DE RECOJO DE RESULTADOS<br /></strong>De lunes a viernes de 12:30 a 13:45</p>","<p><strong>PASO 1: APERSONARSE A VENTANILLA DE CAJA DE INLASA</strong></p><p>a)       Para usuarios del SUS (personas naturales provenientes de centros de salud, clínicas hospitales, etc.): El personal de CAJA revisará la fotocopia simple de la cédula de identidad y sellará el Formulario D8 (original y primera copia).</p><p>-          El costo de la prueba es cubierto por el SUS</p><p>b)      Para usuarios particulares (personas naturales de consultorios, clínicas, hospitales): El personal de CAJA revisará su orden médica e indicará el monto a cancelar para posterior al pago de los servicios, emitir la factura correspondiente.</p><p><strong>PASO 2: APERSONARSE AL ÁREA DE TOMA DE MUESTRA</strong></p><p>a)       El personal de Toma de Muestra le solicitará su orden médica o formulario D8 sellado (según corresponda) y la fotocopia de carnet con la cual procederá con el registro de su información.</p><p>b)      Se procede con la toma de la muestra de ambas fosas nasales, previa revisión de condiciones adecuadas de obtención de muestra.</p><p>c) Se procede con la recepción o la toma de la muestra sanguínea previa revisión de condiciones adecuadas de obtención de muestra, según corresponda.</p><p>d)       Se entrega el comprobante de atención y, se indica la fecha y requisitos para la entrega resultados en 24 horas.<br /><br /><strong>HORARIO DE TOMA DE MUESTRA <br /></strong>De lunes a viernes de 7:30 a 10:00 <br /><br /><strong>HORARIO DE RECOJO DE RESULTADOS<br /></strong>De lunes a viernes de 12:30 a 13:45</p>"
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,fechaActualización,25/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,modalidades[0]['publico'][0]['costos'][0]['costo'],68.00,123.00
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,modalidades[0]['publico'][0]['costos'][1]['costo'],87.00,123.00
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,modalidades[0]['publico'][0]['costos'][2]['costo'],85.00,123.00
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,modalidades[0]['publico'][0]['costos'][3]['costo'],85.00,123.00
+2026-04-12T05:49+00:00,2742,Instituto Nacional de Laboratorios de Salud,PERFIL TIROIDEO,modalidades[0]['publico'][0]['costos'][4]['costo'],92.00,127.00
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,descripcion,"Diagnóstico de virus respiratorios por RT-PCR en tiempo real Adenovirus, Bocavirus, Enterovirus, Metapneumovirus, Rhinovirus, SARS-CoV-2, virus Influenza A, virus Influenza B, virus Parainfluenza 1, virus Parainfluenza 2, virus Parainfluenza 3, virus Parainfluenza 4 y Virus Sincitial Respiratorio.","Diagnóstico de virus respiratorios por RT-PCR en tiempo real: Adenovirus, Bocavirus, Enterovirus, Metapneumovirus, Rhinovirus, SARS-CoV-2, virus Influenza A, virus Influenza B, virus Parainfluenza 1, virus Parainfluenza 2, virus Parainfluenza 3, virus Parainfluenza 4 y Virus Sincitial Respiratorio."
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][0]['costo'],250.00,300.00
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],"LVIR-052, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS","LVIR-051, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-002, RT-PCR EN TIEMPO REAL PARA DETECCION DE INFLUENZA A Y B","LVIR-006, RT-PCR EN TIEMPO REAL PARA VIRUS PARAINFLUENZA 1, 2, 3, 4"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][1]['costo'],300.00,400.00
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-003, RT-PCR EN TIEMPO REAL PARA INFLUENZA A/B-SARSCOV2-VRS","LVIR-002, RT-PCR EN TIEMPO REAL PARA DETECCION DE INFLUENZA A Y B"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][2]['costo'],400.00,300.00
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"LVIR-004, RT-PCR EN TIEMPO REAL PARA VIRUS SINCITIAL RESPIRATORIO","LVIR-003, RT-PCR EN TIEMPO REAL PARA INFLUENZA A/B-SARSCOV2-VRS"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][3]['costo'],300.00,400.00
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"LVIR-005, RT-PCR EN TIEMPO REAL PARA SARS-MERS","LVIR-004, RT-PCR EN TIEMPO REAL PARA VIRUS SINCITIAL RESPIRATORIO"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],"LVIR-006, RT-PCR EN TIEMPO REAL PARA VIRUS PARAINFLUENZA 1, 2, 3, 4","LVIR-005, RT-PCR EN TIEMPO REAL PARA SARS-MERS"
+2026-04-12T05:49+00:00,2750,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS RESPIRATORIOS,palabrasClave[12],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],"LVIR-007, RT-PCR EN TIEMPO REAL PARA DETECCION DE DENGUE, ZIKA Y CHIKUNGUNYA","LVIR-014, RT-PCR EN TIEMPO REAL PARA VIRUS ZIKA"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][0]['costo'],400.00,300.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],"LVIR-038, ELISA PARA ZIKA IgG","LVIR-047, PRUEBA RAPIDA PARA DENGUE"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][10]['costo'],150.00,70.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],"LVIR-047, PRUEBA RAPIDA PARA DENGUE","LVIR-012, RT-PCR EN TIEMPO REAL PARA VIRUS CHIKUNGUNYA"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][11]['costo'],70.00,300.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],"LVIR-050, RT-PCR CONVENCIONAL PARA  ALFAVIRUS","LVIR-013, RT-PCR EN TIEMPO REAL PARA VIRUS DENGUE"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][12]['costo'],200.00,300.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],"LVIR-051, RT-PCR EN TIEMPO REAL PARA VIRUS OROPOUCHE","LVIR-050, RT-PCR EN TIEMPO REAL PARA VIRUS OROPOUCHE"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],"LVIR-055, RT-PCR EN TIEMPO REAL PARA VIRUS DEL NILO OCCIDENTAL","LVIR-054, RT-PCR EN TIEMPO REAL PARA VIRUS DEL NILO OCCIDENTAL"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],"LVIR-056, RT-PCR EN TIEMPO REAL PARA VIRUS MAYARO","LVIR-055, RT-PCR EN TIEMPO REAL PARA VIRUS MAYARO"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][16]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-012, RT-PCR EN TIEMPO REAL PARA VIRUS CHIKUNGUNYA","LVIR-049, RT-PCR CONVENCIONAL PARA  ALFAVIRUS"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-013, RT-PCR EN TIEMPO REAL PARA VIRUS DENGUE","LVIR-007, RT-PCR EN TIEMPO REAL PARA DETECCION DE DENGUE, ZIKA Y CHIKUNGUNYA"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][2]['costo'],250.00,400.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"LVIR-014, RT-PCR EN TIEMPO REAL PARA VIRUS ZIKA","LVIR-027, ELISA NS1 PARA DENGUE "
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][3]['costo'],250.00,125.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"LVIR-027, ELISA NS1 PARA DENGUE ","LVIR-028, ELISA PARA CHIKUNGUNYA IgM"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],"LVIR-028, ELISA PARA CHIKUNGUNYA IgM","LVIR-029, ELISA PARA ZIKA IgM"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][5]['costo'],125.00,150.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],"LVIR-029, ELISA PARA ZIKA IgM","LVIR-030, ELISA PARA DENGUE IgM"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][6]['costo'],150.00,125.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],"LVIR-030, ELISA PARA DENGUE IgM","LVIR-036, ELISA PARA CHIKUNGUNYA IgG"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],"LVIR-036, ELISA PARA CHIKUNGUNYA IgG","LVIR-037, ELISA PARA DENGUE IgG"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],"LVIR-037, ELISA PARA DENGUE IgG","LVIR-038, ELISA PARA ZIKA IgG"
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,modalidades[0]['publico'][0]['costos'][9]['costo'],125.00,150.00
+2026-04-12T05:49+00:00,2751,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE ARBOVIRUS,palabrasClave[13],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,descripcion,"Diagnóstico de virus zoonóticos mediante técnicas de laboratorio.
+
+RT-PCR en tiempo real: virus Machupo, virus Chapare 2019, Hantavirus y virus de la rabia (Lyssavirus).
+
+ELISA: Hantavirus (IgM e IgG).
+
+Inmunofluorescencia directa (IFD): virus de la rabia (Lyssavirus).","Diagnóstico de enfermedades transmitidas por roedores y virus de la rabia mediante técnicas de laboratorio.
+
+RT-PCR EN TIEMPO REAL: virus Machupo, virus Chapare 2019, Hantavirus y virus de la rabia (Lyssavirus).
+
+ELISA: Hantavirus (IgM e IgG).
+
+INMUNOFLUORESCENCIA DIRECTA (IFD): virus de la rabia (Lyssavirus)."
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,marcoLegal,"Resolución Administrativa de Aranceles INLASA/UJ N°01/2025
+","Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][0]['costo'],250.00,300.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-016, RT-PCR EN TIEMPO REAL PARA VIRUS CHAPARE 2019","LVIR-017, RT-PCR EN TIEMPO REAL PARA HANTAVIRUS"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][1]['costo'],250.00,300.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-017, RT-PCR EN TIEMPO REAL PARA HANTAVIRUS","LVIR-025, ELISA PARA HANTAVIRUS IgG"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][2]['costo'],300.00,125.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"LVIR-025, ELISA PARA HANTAVIRUS IgG","LVIR-026, ELISA PARA HANTAVIRUS IgM"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"LVIR-026, ELISA PARA HANTAVIRUS IgM","LVIR-032, INMUNOFLUORESCENCIA DIRECTA PARA RABIA"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][4]['costo'],125.00,100.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],"LVIR-032, INMUNOFLUORESCENCIA DIRECTA PARA RABIA","LVIR-016, RT-PCR EN TIEMPO REAL PARA VIRUS CHAPARE 2019"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][5]['costo'],180.00,300.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],"LVIR-053, RT-PCR EN TIEMPO REAL PARA LYSSAVIRUS (RABIA)","LVIR-052, RT-PCR EN TIEMPO REAL PARA LYSSAVIRUS (RABIA)"
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,modalidades[0]['publico'][0]['costos'][6]['costo'],350.00,400.00
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,nombre,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,DIAGNÓSTICO DE ENFERMEDADES TRANSMITIDAS POR ROEDORES Y RABIA HUMANA
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,palabrasClave[8],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2752,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS ZOONÓTICOS,slug,diagnostico-de-virus-zoonoticos,diagnostico-de-enfermedades-transmitidas-por-roedores-y-rabia-humana
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,descripcion,"Diagnóstico de patógenos entéricos virales mediante técnicas de laboratorio.
+
+RT-PCR en tiempo real: Adenovirus, Rotavirus, Norovirus, Sapovirus, Astrovirus. 
+
+ PRUEBA RÁPIDA: Adenovirus, Rotavirus y Norovirus.","Diagnóstico de patógenos entéricos virales mediante técnicas de laboratorio.
+
+RT-PCR EN TIEMPO REAL: Adenovirus, Rotavirus, Norovirus, Sapovirus, Astrovirus. 
+
+ELISA: Rotavirus.
+
+PRUEBA RÁPIDA: Adenovirus, Rotavirus y Norovirus."
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],"LVIR-010, PCR EN TIEMPO REAL PARA ADENOVIRUS","LVIR-018, RT-PCR EN TIEMPO REAL PARA ROTAVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-018, RT-PCR EN TIEMPO REAL PARA ROTAVIRUS","LVIR-010, PCR EN TIEMPO REAL PARA ADENOVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][1]['costo'],250.00,300.00
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-020, PANEL VIRAL GASTROINTESTINAL POR PCR EN TIEMPO REAL","LVIR-031, ELISA PARA ANTIGENO DE ROTAVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][2]['costo'],700.00,125.00
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"LVIR-031, ELISA PARA ANTIGENO DE ROTAVIRUS","LVIR-048, PRUEBA RAPIDA PARA ROTAVIRUS/NOROVIRUS/ADENOVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][3]['costo'],125.00,150.00
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"LVIR-048, PRUEBA RAPIDA PARA ROTAVIRUS/NOROVIRUS/ADENOVIRUS","LVIR-053, RT-PCR EN TIEMPO REAL PARA NOROVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][4]['costo'],150.00,300.00
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],"LVIR-054, RT-PCR EN TIEMPO REAL PARA NOROVIRUS","LVIR-020, PANEL VIRAL GASTROINTESTINAL POR PCR EN TIEMPO REAL"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][5]['costo'],350.00,400.00
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],"LVIR-052, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS","LVIR-051, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS"
+2026-04-12T05:49+00:00,2753,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE PATÓGENOS ENTÉRICOS VIRALES,palabrasClave[8],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,descripcion,"Diagnóstico de virus exantemáticos mediante técnicas de laboratotorio.
+
+RT-PCR en tiempo real: Enterovirus, Mpox, Parvovirus B19, virus Herpes Simple 1, virus Herpes Simple 2 y virus Varicela Zoster.  ","Diagnóstico de virus exantemáticos mediante RT-PCR en tiempo real: Enterovirus, Mpox, Parvovirus B19, virus Herpes Simple 1, virus Herpes Simple 2 y virus Varicela Zoster.  "
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],"LVIR-022, PCR EN TIEMPO REAL PARA VIRUS HERPES SIMPLE 1 Y 2","LVIR-021, PCR EN TIEMPO REAL PARA VIRUELA SÍMICA"
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][0]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-023, PCR EN TIEMPO REAL PARA VIRUS VARICELA ZOSTER","LVIR-022, PCR EN TIEMPO REAL PARA VIRUS HERPES SIMPLE 1 Y 2"
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][1]['costo'],350.00,400.00
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-046, PCR EN TIEMPO REAL PARA PARVOVIRUS B19","LVIR-051, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS"
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][2]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"LVIR-021, PCR EN TIEMPO REAL PARA MPOX (VIRUELA SÍMICA)","LVIR-023, PCR EN TIEMPO REAL PARA VIRUS VARICELA ZOSTER"
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"LVIR-052, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS","LVIR-046, PCR EN TIEMPO REAL PARA PARVOVIRUS B19"
+2026-04-12T05:49+00:00,2754,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE VIRUS EXANTEMÁTICOS,palabrasClave[9],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,descripcion,"Diagnóstico de otros virus mediante técnicas de laboratorio.
+
+RT-PCR en tiempo real: Adenovirus, Citomegalovirus, Herpes virus humano 6, 7 y 8, Parvovirus B19, Virus BK, Virus Epstein-Barr, Virus Herpes Simple 1 y 2, Virus JC y Virus Varicela Zoster.
+
+ELISA: Virus Epstein-Barr (IgM). ","Diagnóstico de otros virus mediante técnicas de laboratorio.
+
+RT-PCR EN TIEMPO REAL: Adenovirus, Citomegalovirus, Herpes virus humano 6, Herpes virus humano 7, Herpes virus humano 8, Parvovirus B19, Virus BK, Virus Epstein-Barr, Virus Herpes Simple 1 y 2, Virus JC y Virus Varicela Zoster.
+
+ELISA: Parvovirus B19 (anticuerpos IgM e IgG) y Virus Epstein-Barr (anticuerpos IgM e IgG)."
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],"LVIR-010, PCR EN TIEMPO REAL PARA ADENOVIRUS","LVIR-022, PCR EN TIEMPO REAL PARA VIRUS HERPES SIMPLE 1 Y 2"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][0]['costo'],300.00,400.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],"LVIR-043, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS JC","LVIR-041, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS BK"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][10]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],"LVIR-044, PCR EN TIEMPO REAL PARA EPSTEIN BARR VIRUS","LVIR-058, ELISA PARA PARVOVIRUS B19 IgG"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][11]['costo'],350.00,125.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],"LVIR-045, PANEL VIRAL DE MENINGITIS/ENCEFALITIS POR PCR EN TIEMPO REAL","LVIR-059, ELISA PARA PARVOVIRUS B19 IgM"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][12]['costo'],700.00,125.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],"LVIR-046, PCR EN TIEMPO REAL PARA PARVOVIRUS B19","LVIR-060, ELISA PARA EPSTEIN BARR VIRUS IgG"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][13]['costo'],350.00,125.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],"LVIR-052, RT-PCR EN TIEMPO REAL PARA ENTEROVIRUS","LVIR-043, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS JC"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],"LVIR-057, ELISA PARA EPSTEIN BARR VIRUS IgM","LVIR-044, PCR EN TIEMPO REAL PARA EPSTEIN BARR VIRUS"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][15]['costo'],125.00,300.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],"LVIR-022, PCR EN TIEMPO REAL PARA VIRUS HERPES SIMPLE 1 Y 2","LVIR-023, PCR EN TIEMPO REAL PARA VIRUS VARICELA ZOSTER"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][1]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],"LVIR-023, PCR EN TIEMPO REAL PARA VIRUS VARICELA ZOSTER","LVIR-010, PCR EN TIEMPO REAL PARA ADENOVIRUS"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][2]['costo'],350.00,300.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],"LVIR-040, PCR EN TIEMPO REAL PARA CITOMEGALOVIRUS","LVIR-042, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS BK Y JC"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][7]['costo'],350.00,400.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],"LVIR-041, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS BK ","LVIR-045, PANEL VIRAL DE MENINGITIS/ENCEFALITIS POR PCR EN TIEMPO REAL"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][8]['costo'],350.00,700.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],"LVIR-042, PCR EN TIEMPO REAL PARA DETECCION DE VIRUS BK Y JC","LVIR-040, PCR EN TIEMPO REAL PARA CITOMEGALOVIRUS"
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,modalidades[0]['publico'][0]['costos'][9]['costo'],400.00,300.00
+2026-04-12T05:49+00:00,2755,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE OTROS VIRUS,palabrasClave[14],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2756,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE RABIA ANIMAL PARA VIGILANCIA EPIDEMIOLÓGICA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2756,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE RABIA ANIMAL PARA VIGILANCIA EPIDEMIOLÓGICA,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2756,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE RABIA ANIMAL PARA VIGILANCIA EPIDEMIOLÓGICA,modalidades[0]['publico'][0]['emisionFactura'],,Servicio de Emisión de Facturas Electrónicas
+2026-04-12T05:49+00:00,2756,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE RABIA ANIMAL PARA VIGILANCIA EPIDEMIOLÓGICA,modalidades[0]['publico'][0]['tieneCosto'],False,True
+2026-04-12T05:49+00:00,2756,Instituto Nacional de Laboratorios de Salud,DIAGNÓSTICO DE RABIA ANIMAL PARA VIGILANCIA EPIDEMIOLÓGICA,palabrasClave[5],laboratorio,Laboratorio
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['costos'][0]['costo'],42.00,45.00
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['horario'][0]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['horario'][1]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['horario'][2]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['horario'][3]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2781,Instituto Nacional de Laboratorios de Salud,ANALISIS DE PAPANICOLAOU,modalidades[0]['publico'][0]['horario'][4]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['costos'][0]['costo'],116.00,120.00
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['costos'][1]['costo'],162.00,175.00
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['costos'][2]['costo'],246.00,267.00
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['horario'][0]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['horario'][1]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['horario'][2]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['horario'][3]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2786,Instituto Nacional de Laboratorios de Salud,ESTUDIO DE ANATOMIA PATOLOGICA,modalidades[0]['publico'][0]['horario'][4]['finManiana'],13:00,13:30
+2026-04-12T05:49+00:00,2787,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 18 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][100]['conceptoPago'],COLIFORMES FECALES/TERMOTOLERANTES,MESÓFILOS ANAEROBIOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][100]['costo'],220.00,121.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][101]['conceptoPago'],PERFIL DE ÁCIDOS GRASOS,ESCHERICHIA COLI
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][101]['costo'],560.00,170.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][102]['conceptoPago'],CLORURO DE SODIO (EN SAL),SALMONELLA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][102]['costo'],105.00,390.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][103]['conceptoPago'],MESÓFILOS ANAEROBIOS,"ANALISIS DE AGUA POTABLE, VERTIENTE, POZO"
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][103]['costo'],120.00,375.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][104]['conceptoPago'],"AFLATOXINAS TOTALES (B1, B2, G1, G2) POR ELISA",CLOSTRIDIUM PERFRINGENS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][104]['costo'],385.00,249.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][105]['conceptoPago'],ESCHERICHIA COLI,SUBTIPIFICACIÓN DE SALMONELLA 
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][105]['costo'],150.00,600.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][106]['conceptoPago'],ENTEROBACTERIAS,ESCHERICHIA COLI O157:H7
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][106]['costo'],180.00,591.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][107]['conceptoPago'],STAPHYLOCOCCUS AUREUS,CONFIRMACIÓN  DE OTROS PATÓGENOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][107]['costo'],220.00,300.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][108]['conceptoPago'],MOHOS Y LEVADURAS,PRUEBA DE SENSIBILIDAD Y RESISTENCIA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][108]['costo'],160.00,155.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][109]['conceptoPago'],SALMONELLA,LACTOSA 
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][109]['costo'],400.00,108.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],AZÚCAR REDUCTOR,NITRITO DE SODIO (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][10]['costo'],94.00,216.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][110]['conceptoPago'],ANALISIS DE AGUA POTABLE,NITROGENO AMONIACAL 
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][110]['costo'],350.00,102.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][111]['conceptoPago'],CLOSTRIDIUM SULFITO REDUCTORES,SÓLIDOS TOTALES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][111]['costo'],220.00,81.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][112]['conceptoPago'],CLOSTRIDIUM PERFRINGENS,SAPONINA MÉTODO FAO (SEMICUANTITATIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][112]['costo'],220.00,86.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][113]['conceptoPago'],ESTERILIDAD COMERCIAL  AEROBIOS Y ANAEROBIOS MESOFILOS,BROMATO DE POTASIO (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][113]['costo'],240.00,150.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][114]['conceptoPago'],ESTERILIDAD COMERCIAL AEROBIOS Y ANAEROBIOS TERMOFILOS,STAPHYLOCOCCUS AUREUS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][114]['costo'],240.00,220.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][115]['conceptoPago'],LISTERIA MONOCYTOGENES,MOHOS Y LEVADURAS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][115]['costo'],400.00,160.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][116]['conceptoPago'],BACILLUS CEREUS,CLOSTRIDIUM SULFITO REDUCTORES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][117]['conceptoPago'],PSEUDOMONA AERUGINOSA,ESTERILIDAD COMERCIAL  AEROBIOS Y ANAEROBIOS MESOFILOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][117]['costo'],220.00,240.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][118]['conceptoPago'],CONFIRMACIÓN DE CEPAS DE SALMONELLA,ESTERILIDAD COMERCIAL AEROBIOS Y ANAEROBIOS TERMOFILOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][118]['costo'],600.00,240.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][119]['conceptoPago'],ESCHERICHIA COLI O157:H7,LISTERIA MONOCYTOGENES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][119]['costo'],900.00,400.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],AZÚCAR NO REDUCTOR,MESÓFILOS AEROBIOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][11]['costo'],184.00,121.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][120]['conceptoPago'],CAMPYLOBACTER JEJUNI,BACILLUS CEREUS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][120]['costo'],500.00,220.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][121]['conceptoPago'],CONFIRMACIÓN SEROLÓGICA DE OTROS PATÓGENOS,PSEUDOMONA AERUGINOSA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][121]['costo'],300.00,220.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][122]['conceptoPago'],PRUEBA DE SENSIBILIDAD Y RESISTENCIA,CAMPYLOBACTER JEJUNI
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][122]['costo'],150.00,500.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][125]['conceptoPago'],MODIFICACIÓN DE DATOS DEL CLIENTE EN EL INFORME DE ENSAYO A SOLICITUD DEL MISMO,DETECCIÓN DE ESPECIE POR PCR
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][125]['costo'],20.00,579.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][126]['conceptoPago'],FORMULARIO DE INGRESO (POR MUESTRA),MODIFICACIÓN DE DATOS DEL CLIENTE EN EL INFORME DE ENSAYO A SOLICITUD DEL MISMO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][126]['costo'],25.00,20.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][127]['conceptoPago'],EXTRACTO ETÉREO,FORMULARIO DE INGRESO (POR MUESTRA)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][127]['costo'],107.00,25.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][128]['conceptoPago'],LACTOSA (AZUCARES REDUCTORES),EXTRACTO ETÉREO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][128]['costo'],108.00,107.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][129]['conceptoPago'],NITROGENO AMONIACAL (NITROGENO BASICO VOLATIL TOTAL),VITAMINA A POR ESPECTROFOTOMETRÍA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][129]['costo'],102.00,185.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],CONTENIDO APARENTE DE SACAROSA,COLIFORMES TOTALES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][12]['costo'],184.00,160.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][130]['conceptoPago'],VITAMINA A POR ESPECTROFOTOMETRÍA,ANÁLISIS DE SAL COMPLETO (INCLUYE TODOS LOS PARAMETROS DE ANALISIS DE SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][130]['costo'],185.00,585.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][131]['conceptoPago'],SÓLIDOS TOTAL,CARATERÍSTICAS ORGANÓLEPTICAS EN MIEL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][131]['costo'],81.00,60.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][132]['conceptoPago'],SAPONINA MÉTODO FAO (SEMICUANTITATIVO,INDICE DE YODO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][132]['costo'],86.00,213.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][133]['conceptoPago'],ANÁLISIS DE SAL COMPLETO (INCLUYE TODOS LOS PARAMETROS DE ANALISIS DE SAL),PUNTO DE CONGELACIÓN (PARA LECHE CRUDA)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][133]['costo'],585.00,132.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][134]['conceptoPago'],BROMATO DE POTASIO,GLIADINA POR ELISA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][134]['costo'],150.00,372.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],ANCHO DE GRANO,COLIFORMES FECALES/TERMOTOLERANTES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][13]['costo'],36.00,227.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],ALDEHIDOS,ACIDEZ TOTAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][14]['costo'],161.00,100.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],ALCOHOLES SUPERIORES,ACIDEZ VOLATIL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][15]['costo'],97.00,95.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][16]['conceptoPago'],ACTIVIDAD UREASICA,ACIDEZ FIJA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][16]['costo'],169.00,94.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][17]['conceptoPago'],ANHÍDRIDO SULFUROSO TOTAL,AZÚCAR TOTAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][17]['costo'],180.00,184.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][18]['conceptoPago'],CAFEÍNA,AZÚCAR REDUCTOR
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][18]['costo'],157.00,94.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][19]['conceptoPago'],CARACTERÍSTICAS ORGANOLÉPTICAS,AZÚCAR NO REDUCTOR
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][19]['costo'],40.00,184.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][20]['conceptoPago'],CENIZAS TOTALES,ANCHO DE GRANO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][20]['costo'],100.00,36.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][21]['conceptoPago'],CENIZAS INSOLUBLES EN ACIDO CLORHIDRICO,ALDEHIDOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][21]['costo'],105.00,161.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][22]['conceptoPago'],CENIZAS SOLUBLES EN AGUA,ALCOHOLES SUPERIORES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][22]['costo'],105.00,97.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][23]['conceptoPago'],CENIZAS POR CONDUCTIVIDAD,ACTIVIDAD UREASICA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][23]['costo'],100.00,169.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][24]['conceptoPago'],CARBOHIDRATOS TOTALES (CALCULO),ANHÍDRIDO SULFUROSO TOTAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][24]['costo'],41.00,180.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][25]['conceptoPago'],ALMIDÓN CUANTITATIVO,CAFEÍNA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][25]['costo'],132.00,157.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][26]['conceptoPago'],ALMIDÓN CUALITATIVO,CARACTERÍSTICAS ORGANOLÉPTICAS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][26]['costo'],82.00,40.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][27]['conceptoPago'],CLASIFICACIÓN DE GRANOS,CENIZAS TOTALES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][27]['costo'],118.00,100.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][28]['conceptoPago'],CLORURO (COMO CLORURO DE SODIO),CENIZAS INSOLUBLES EN ACIDO CLORHIDRICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][28]['costo'],111.00,105.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][29]['conceptoPago'],DENSIDAD,CENIZAS SOLUBLES EN AGUA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][29]['costo'],78.00,105.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][30]['conceptoPago'],DENSIDAD RELATIVA,CENIZAS POR CONDUCTIVIDAD
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][30]['costo'],78.00,100.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][31]['conceptoPago'],ACTIVIDAD DIASTÁTICA,CARBOHIDRATOS TOTALES (CALCULO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][31]['costo'],178.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][32]['conceptoPago'],DETECCIÓN DE ESPECIE,ALMIDÓN CUANTITATIVO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][32]['costo'],579.00,132.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][33]['conceptoPago'],ESTERES,ALMIDÓN CUALITATIVO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][33]['costo'],101.00,82.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][34]['conceptoPago'],EXTRACTO SOLUBLE EN AGUA,CLASIFICACIÓN DE GRANOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][34]['costo'],86.00,118.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][35]['conceptoPago'],EXTRACTO SECO,CLORURO (COMO CLORURO DE SODIO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][35]['costo'],60.00,111.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][36]['conceptoPago'],EXTRACTO ALCOHÓLICO,DENSIDAD
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][36]['costo'],92.00,78.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][37]['conceptoPago'],EXTRACTO APARENTE,DENSIDAD RELATIVA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][37]['costo'],41.00,78.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][38]['conceptoPago'],EXTRACTO DEL MOSTO ORIGINAL,ACTIVIDAD DIASTÁTICA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][38]['costo'],41.00,178.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][39]['conceptoPago'],FIBRA CRUDA,DETECCIÓN DE ESPECIE
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][39]['costo'],123.00,579.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][40]['conceptoPago'],GRASA TOTAL,ESTERES
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][40]['costo'],157.00,101.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][41]['conceptoPago'],GRADO ALCOHÓLICO,EXTRACTO SOLUBLE EN AGUA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][41]['costo'],107.00,86.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][42]['conceptoPago'],GLUTEN HUMEDO,EXTRACTO SECO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][42]['costo'],87.00,60.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][43]['conceptoPago'],GLUTEN SECO,EXTRACTO ALCOHÓLICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][43]['costo'],93.00,92.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][44]['conceptoPago'],GRADO POLARIMÉTRICO,EXTRACTO APARENTE
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][44]['costo'],79.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][45]['conceptoPago'],GLUCOXIDASA,EXTRACTO DEL MOSTO ORIGINAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][45]['costo'],146.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][46]['conceptoPago'],GOMA BASE RESIDUAL,FIBRA CRUDA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][46]['costo'],52.00,123.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][47]['conceptoPago'],GRADO DE FERMENTACIÓN REAL,GRASA TOTAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][47]['costo'],41.00,157.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][48]['conceptoPago'],HUMEDAD,GRADO ALCOHÓLICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][48]['costo'],81.00,107.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][49]['conceptoPago'],INDICE DE REFRACCIÓN,GLUTEN HUMEDO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][49]['costo'],71.00,87.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][50]['conceptoPago'],ÍNDICE DE SAPONIFICACIÓN,GLUTEN SECO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][50]['costo'],105.00,93.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][51]['conceptoPago'],ÍNDICE DE PERÓXIDOS,GRADO POLARIMÉTRICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][51]['costo'],160.00,79.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][52]['conceptoPago'],ÍNDICE DE ACIDEZ,GLUCOXIDASA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][52]['costo'],80.00,146.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][53]['conceptoPago'],NITROGENO AMÍNICO (ÍNDICE FORMOL),GOMA BASE RESIDUAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][53]['costo'],127.00,52.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][54]['conceptoPago'],ÍNDICE DE WALRAUCH,GRADO DE FERMENTACIÓN REAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][54]['costo'],170.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][55]['conceptoPago'],IMPUREZAS MECÁNICAS,HUMEDAD
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][55]['costo'],95.00,81.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][56]['conceptoPago'],LONGITUD DE GRANO,INDICE DE REFRACCIÓN
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][56]['costo'],41.00,71.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][57]['conceptoPago'],MATERIA INSAPONIFICABLE,ÍNDICE DE ACIDEZ
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][57]['costo'],143.00,80.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][58]['conceptoPago'],IMPUREZAS Y CUERPOS EXTRAÑOS / PUREZA FÍSICA,ÍNDICE DE WALRAUCH
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][58]['costo'],85.00,170.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][59]['conceptoPago'],PRUEBA DE COCCIÓN,IMPUREZAS MECÁNICAS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][59]['costo'],85.00,95.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],VITAMINA B2 ( RIBOFLAVINA),MATERIA INSAPONIFICABLE
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][5]['costo'],510.00,231.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][60]['conceptoPago'],PRUEBA DE GELIFICACIÓN,LONGITUD DE GRANO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][60]['costo'],52.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][61]['conceptoPago'],PESO POR HECTOLITRO,IMPUREZAS Y CUERPOS EXTRAÑOS / PUREZA FÍSICA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][61]['costo'],57.00,85.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][62]['conceptoPago'],PECTINA CUALITATIVA,PRUEBA DE COCCIÓN
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][62]['costo'],81.00,85.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][63]['conceptoPago'],PECTINA CUANTITATIVA,PRUEBA DE GELIFICACIÓN
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][63]['costo'],135.00,52.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][64]['conceptoPago'],PUNTO DE FUSIÓN,PESO POR HECTOLITRO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][64]['costo'],55.00,57.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][65]['conceptoPago'],pH/ ACIDEZ IÓNICA,PECTINA CUALITATIVA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][65]['costo'],66.00,81.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][66]['conceptoPago'],PERDIDA POR ROZAMIENTO,PECTINA CUANTITATIVA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][66]['costo'],63.00,135.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][67]['conceptoPago'],PRUEBA DE KREISS / RANCIDEZ,PUNTO DE FUSIÓN
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][67]['costo'],73.00,55.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][68]['conceptoPago'],PRUEBA DE EBER/ GAS SULFHÍDRICO,pH/ ACIDEZ IÓNICA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][69]['conceptoPago'],PROTEÍNAS / NITROGENO TOTAL,PERDIDA POR ROZAMIENTO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][69]['costo'],162.00,63.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],ACIDEZ TOTAL,FIBRA DIETARÍA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][6]['costo'],100.00,500.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][70]['conceptoPago'],PROLINA,PRUEBA DE KREISS / RANCIDEZ
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][70]['costo'],352.00,73.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][71]['conceptoPago'],SÓLIDOS SOLUBLES (GRADO BRIX),PRUEBA DE EBER/ GAS SULFHÍDRICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][71]['costo'],102.00,66.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][72]['conceptoPago'],SÓLIDOS NO GRASOS,PROTEÍNAS / NITROGENO TOTAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][72]['costo'],85.00,162.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][73]['conceptoPago'],VALOR ENERGÉTICO,PROLINA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][73]['costo'],41.00,352.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][74]['conceptoPago'],CALCIO,SÓLIDOS SOLUBLES (GRADO BRIX)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][74]['costo'],130.00,102.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][75]['conceptoPago'],FÓSFORO,SÓLIDOS NO GRASOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][75]['costo'],120.00,85.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][76]['conceptoPago'],HIERRO,VALOR ENERGÉTICO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][76]['costo'],120.00,41.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][77]['conceptoPago'],ZINC,CALCIO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][78]['conceptoPago'],FIBRA DIETARÍA,FÓSFORO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][78]['costo'],450.00,120.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][79]['conceptoPago'],ANÁLISIS SENSORIAL,HIERRO
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][79]['costo'],400.00,120.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],ACIDEZ VOLATIL,AFLOTOXINA M1 EN LECHE POR ELISA
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][7]['costo'],95.00,415.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][80]['conceptoPago'],VITAMINA B3 (NIACINA),ANÁLISIS SENSORIAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][80]['costo'],510.00,400.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][81]['conceptoPago'],VITAMINA B9 (ÁCIDO FOLICO),VITAMINA B3 (NIACINA)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][82]['conceptoPago'],VITAMINA C,VITAMINA B9 (ÁCIDO FOLICO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][82]['costo'],110.00,510.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][83]['conceptoPago'],YODO (EN SAL),VITAMINA C
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][83]['costo'],60.00,110.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][84]['conceptoPago'],HUMEDAD (EN SAL),YODO (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][84]['costo'],80.00,60.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][85]['conceptoPago'],SUSTANCIAS DESHIDRATANTES (EN SAL),HUMEDAD (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][85]['costo'],110.00,80.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][86]['conceptoPago'],SULFATOS (EN SAL),SUSTANCIAS DESHIDRATANTES (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][86]['costo'],70.00,110.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][87]['conceptoPago'],CALCIO Y MAGNESIO (EN SAL),SULFATOS (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][87]['costo'],160.00,70.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][88]['conceptoPago'],KIT PARA DETERMINACIÓN CUALITATIVA DE YODO EN SAL,CALCIO Y MAGNESIO (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][88]['costo'],70.00,160.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][89]['conceptoPago'],TABLA BOLIVIANA DE COMPOSICIÓN DE ALIMENTOS,KIT PARA DETERMINACIÓN CUALITATIVA DE YODO EN SAL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][89]['costo'],100.00,70.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],ACIDEZ FIJA,BENZOATO (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][8]['costo'],94.00,182.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][90]['conceptoPago'],METANOL,TABLA BOLIVIANA DE COMPOSICIÓN DE ALIMENTOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][90]['costo'],150.00,100.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][91]['conceptoPago'],AFLOTOXINA M1 EN LECHE POR ELISA,METANOL
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][91]['costo'],372.00,150.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][92]['conceptoPago'],BENZOATO (ADITIVO),CICLAMATO (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][92]['costo'],160.00,170.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][93]['conceptoPago'],SACARINA (ADITIVO),COLORANTES (ADITIVOS)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][93]['costo'],178.00,150.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][94]['conceptoPago'],CICLAMATO (ADITIVO),CARAMELO (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][94]['costo'],170.00,95.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][95]['conceptoPago'],COLORANTES (ADITIVOS),PERFIL DE ÁCIDOS GRASOS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][95]['costo'],150.00,560.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][96]['conceptoPago'],NITRITO DE SODIO (ADITIVO),CLORURO DE SODIO (EN SAL)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][96]['costo'],215.00,105.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][97]['conceptoPago'],CARAMELO (ADITIVO),"AFLATOXINAS TOTALES (B1, B2, G1, G2) POR ELISA"
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][97]['costo'],95.00,385.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][98]['conceptoPago'],MESÓFILOS AEROBIOS,ENTEROBACTERIAS
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][98]['costo'],120.00,180.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][99]['conceptoPago'],COLIFORMES TOTALES,ZINC
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][99]['costo'],150.00,140.00
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],AZÚCAR TOTAL,SACARINA (ADITIVO)
+2026-04-12T05:49+00:00,2788,Instituto Nacional de Laboratorios de Salud,ANALISIS DE ALIMENTOS,modalidades[0]['publico'][0]['costos'][9]['costo'],184.00,200.00
+2026-04-12T05:49+00:00,2789,Instituto Nacional de Laboratorios de Salud,TOMA DE MUESTRA DE PAPANICOLAOU,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2789,Instituto Nacional de Laboratorios de Salud,TOMA DE MUESTRA DE PAPANICOLAOU,modalidades[0]['publico'][0]['costos'][0]['costo'],15.00,17.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],Antiestreptolisina(ASO),Antiestreptolisina O (ASO)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][0]['costo'],40.00,48.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],Inmunoglobulina G IgG,Inmunoglobulina G (IgG)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][10]['costo'],75.00,90.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],Inmunoglobulina A IgA,Inmunoglobulina A (IgA)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][11]['costo'],75.00,90.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],LIA para Anticuerpos antinucleares extractables Perfil ENA,Anticuerpos antinucleares extraíbles del Núcleo (ENA)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][12]['costo'],300.00,400.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][1]['costo'],40.00,48.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],Proteina C Reactiva Semicuantitativa,Anticuerpos Anti DNA
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][2]['costo'],40.00,180.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],Anticuerpos Anti DNA,Anticuerpos Antinucleares ANA (IFI)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][3]['costo'],113.00,100.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],Anticuerpos Anticitoplasmaticos (ANCA) LIA,Complemento C3
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][4]['costo'],300.00,90.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],Anticuerpos Anticitrulinados (ANTI CCP),Complemento C4
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][5]['costo'],114.00,90.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],Anticuerpos Antinucleares ANA (IFI),Proteína C Reactiva Semicuantitativa (PCR)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][6]['costo'],85.00,48.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],Complemento C3,Anticuerpos Anticitoplasmáticos (ANCA)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][7]['costo'],75.00,400.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],Complemento C4,Anticuerpos Anticitrulinados (Anti CCP)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][8]['costo'],75.00,180.00
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],Inmunoglobulina M IgM,Inmunoglobulina M (IgM)
+2026-04-12T05:49+00:00,2794,Instituto Nacional de Laboratorios de Salud,PRUEBAS BÁSICAS Y PRUEBAS PARA ENFERMEDADES AUTOINMUNES,modalidades[0]['publico'][0]['costos'][9]['costo'],75.00,90.00
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],ELISA para Anticuerpos ANTI HTLV,ELISA para Anticuerpos Anti HTLV
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][0]['costo'],148.00,164.00
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][1]['costo'],140.00,170.00
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][2]['costo'],140.00,170.00
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][3]['costo'],550.00,800.00
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],ELISA PARA SARS-CoV-2 (COVID -19) IgG,ELISA para RUBÉOLA IgM 
+2026-04-12T05:49+00:00,2795,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA ENFERMEDADES INFECCIOSAS (INMUNOLOGIA),modalidades[0]['publico'][0]['costos'][4]['costo'],150.00,164.00
+2026-04-12T05:49+00:00,2796,Instituto Nacional de Laboratorios de Salud,PRUEBA DE ANTÍGENO PROSTATICO (PSA),fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2796,Instituto Nacional de Laboratorios de Salud,PRUEBA DE ANTÍGENO PROSTATICO (PSA),marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2796,Instituto Nacional de Laboratorios de Salud,PRUEBA DE ANTÍGENO PROSTATICO (PSA),modalidades[0]['publico'][0]['costos'][0]['costo'],94.00,96.00
+2026-04-12T05:49+00:00,2796,Instituto Nacional de Laboratorios de Salud,PRUEBA DE ANTÍGENO PROSTATICO (PSA),modalidades[0]['publico'][0]['costos'][1]['costo'],114.00,115.00
+2026-04-12T05:49+00:00,2798,Instituto Nacional de Laboratorios de Salud,HER-2 POR FISH - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2798,Instituto Nacional de Laboratorios de Salud,HER-2 POR FISH - INLASA,modalidades[0]['publico'][0]['costos'][0]['costo'],1966.00,2200.00
+2026-04-12T05:49+00:00,2798,Instituto Nacional de Laboratorios de Salud,HER-2 POR FISH - INLASA,nombre,HER-2 POR FISH - INLASA,HER-2 POR FISH
+2026-04-12T05:49+00:00,2798,Instituto Nacional de Laboratorios de Salud,HER-2 POR FISH - INLASA,slug,her-2-por-fish-inlasa,her-2-por-fish
+2026-04-12T05:49+00:00,2799,Instituto Nacional de Laboratorios de Salud,FISH:CROMOSOMA X - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2799,Instituto Nacional de Laboratorios de Salud,FISH:CROMOSOMA X - INLASA,nombre,FISH:CROMOSOMA X - INLASA,FISH:CROMOSOMA X
+2026-04-12T05:49+00:00,2799,Instituto Nacional de Laboratorios de Salud,FISH:CROMOSOMA X - INLASA,slug,fish-cromosoma-x-inlasa,fish-cromosoma-x
+2026-04-12T05:49+00:00,2800,Instituto Nacional de Laboratorios de Salud,FISH: CROMOSOMA Y - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2800,Instituto Nacional de Laboratorios de Salud,FISH: CROMOSOMA Y - INLASA,nombre,FISH: CROMOSOMA Y - INLASA,FISH: CROMOSOMA Y
+2026-04-12T05:49+00:00,2800,Instituto Nacional de Laboratorios de Salud,FISH: CROMOSOMA Y - INLASA,slug,fish-cromosoma-y-inlasa,fish-cromosoma-y
+2026-04-12T05:49+00:00,2801,Instituto Nacional de Laboratorios de Salud,FISH: DELECION GEN SRY - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2801,Instituto Nacional de Laboratorios de Salud,FISH: DELECION GEN SRY - INLASA,nombre,FISH: DELECION GEN SRY - INLASA,FISH: DELECION GEN SRY
+2026-04-12T05:49+00:00,2801,Instituto Nacional de Laboratorios de Salud,FISH: DELECION GEN SRY - INLASA,slug,fish-delecion-gen-sry-inlasa,fish-delecion-gen-sry
+2026-04-12T05:49+00:00,2802,Instituto Nacional de Laboratorios de Salud,FISH: SÍNDROME DI GEORGE DELECION 22q11 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2802,Instituto Nacional de Laboratorios de Salud,FISH: SÍNDROME DI GEORGE DELECION 22q11 - INLASA,nombre,FISH: SÍNDROME DI GEORGE DELECION 22q11 - INLASA,FISH: SÍNDROME DI GEORGE DELECION 22q11
+2026-04-12T05:49+00:00,2802,Instituto Nacional de Laboratorios de Salud,FISH: SÍNDROME DI GEORGE DELECION 22q11 - INLASA,slug,fish-sindrome-di-george-delecion-22q11-inlasa,fish-sindrome-di-george-delecion-22q11
+2026-04-12T05:49+00:00,2803,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 13 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2803,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 13 - INLASA,nombre,FISH: TRISOMÍA 13 - INLASA,FISH: TRISOMÍA 13
+2026-04-12T05:49+00:00,2803,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 13 - INLASA,slug,fish-trisomia-13-inlasa,fish-trisomia-13
+2026-04-12T05:49+00:00,2804,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 21 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2804,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 21 - INLASA,nombre,FISH: TRISOMÍA 21 - INLASA,FISH: TRISOMÍA 21
+2026-04-12T05:49+00:00,2804,Instituto Nacional de Laboratorios de Salud,FISH: TRISOMÍA 21 - INLASA,slug,fish-trisomia-21-inlasa,fish-trisomia-21
+2026-04-12T05:49+00:00,2805,Instituto Nacional de Laboratorios de Salud,BRCA 1 Y BRCA 2 POR SECUENCIACÍON NGS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2805,Instituto Nacional de Laboratorios de Salud,BRCA 1 Y BRCA 2 POR SECUENCIACÍON NGS,modalidades[0]['publico'][0]['costos'][0]['costo'],6425.00,4909.00
+2026-04-12T05:49+00:00,2806,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2806,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 - INLASA,nombre,EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 - INLASA,EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2
+2026-04-12T05:49+00:00,2806,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO DE KITS DE RT-qPCR PARA LA DETECCIÓN SARS-COV-2 - INLASA,slug,evaluacion-del-desempeno-de-kits-de-rt-qpcr-para-la-deteccion-sars-cov-2-inlasa,evaluacion-del-desempeno-de-kits-de-rt-qpcr-para-la-deteccion-sars-cov-2
+2026-04-12T05:49+00:00,2808,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2808,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL - INLASA,nombre,EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL - INLASA,EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL
+2026-04-12T05:49+00:00,2808,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA MEDIOS DE TRANSPORTE VIRAL - INLASA,slug,evaluacion-del-desempeno-para-medios-de-transporte-viral-inlasa,evaluacion-del-desempeno-para-medios-de-transporte-viral
+2026-04-12T05:49+00:00,2809,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2809,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 - INLASA,nombre,EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 - INLASA,EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2
+2026-04-12T05:49+00:00,2809,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DEL DESEMPEÑO PARA PRUEBAS DE RÁPIDAS ANTIGÉNICAS PARA LA DETECCIÓN DE SARS-COV-2 - INLASA,slug,evaluacion-del-desempeno-para-pruebas-de-rapidas-antigenicas-para-la-deteccion-de-sars-cov-2-inlasa,evaluacion-del-desempeno-para-pruebas-de-rapidas-antigenicas-para-la-deteccion-de-sars-cov-2
+2026-04-12T05:49+00:00,2810,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2810,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  INLASA,nombre,PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  INLASA,PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE
+2026-04-12T05:49+00:00,2810,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA LA DETECCIÓN DE NEISSERIA GONORRHOEAE -  INLASA,slug,pcr-en-tiempo-real-para-la-deteccion-de-neisseria-gonorrhoeae-inlasa,pcr-en-tiempo-real-para-la-deteccion-de-neisseria-gonorrhoeae
+2026-04-12T05:49+00:00,2811,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2811,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO - INLASA,modalidades[0]['publico'][0]['costos'][0]['costo'],190.00,280.00
+2026-04-12T05:49+00:00,2811,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO - INLASA,nombre,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO - INLASA,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO
+2026-04-12T05:49+00:00,2811,Instituto Nacional de Laboratorios de Salud,PCR EN TIEMPO REAL PARA VIRUS PAPILOMA HUMANO DE ALTO RIESGO - INLASA,slug,pcr-en-tiempo-real-para-virus-papiloma-humano-de-alto-riesgo-inlasa,pcr-en-tiempo-real-para-virus-papiloma-humano-de-alto-riesgo
+2026-04-12T05:49+00:00,2812,Instituto Nacional de Laboratorios de Salud,PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2812,Instituto Nacional de Laboratorios de Salud,PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA - INLASA,nombre,PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA - INLASA,PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA
+2026-04-12T05:49+00:00,2812,Instituto Nacional de Laboratorios de Salud,PCR PARA HELICOBACTER PILORY CON RESISTENCIA A LA CLARITROMICINA - INLASA,slug,pcr-para-helicobacter-pilory-con-resistencia-a-la-claritromicina-inlasa,pcr-para-helicobacter-pilory-con-resistencia-a-la-claritromicina
+2026-04-12T05:49+00:00,2813,Instituto Nacional de Laboratorios de Salud,CARIOTIPO CON BANDEO GTG,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2813,Instituto Nacional de Laboratorios de Salud,CARIOTIPO CON BANDEO GTG,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],CARIOTIPO TRADICIONAL CON BANDEO GTG,CARIOTIPO CON BANDEO GTG
+2026-04-12T05:49+00:00,2813,Instituto Nacional de Laboratorios de Salud,CARIOTIPO CON BANDEO GTG,modalidades[0]['publico'][0]['costos'][0]['costo'],600.00,654.00
+2026-04-12T05:49+00:00,2814,Instituto Nacional de Laboratorios de Salud,ALFAFETOPROTEÍNA (AFP) POR ELISA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2814,Instituto Nacional de Laboratorios de Salud,ALFAFETOPROTEÍNA (AFP) POR ELISA - INLASA,nombre,ALFAFETOPROTEÍNA (AFP) POR ELISA - INLASA,ALFAFETOPROTEÍNA (AFP) POR ELISA
+2026-04-12T05:49+00:00,2814,Instituto Nacional de Laboratorios de Salud,ALFAFETOPROTEÍNA (AFP) POR ELISA - INLASA,slug,alfafetoproteina-afp-por-elisa-inlasa,alfafetoproteina-afp-por-elisa
+2026-04-12T05:49+00:00,2815,Instituto Nacional de Laboratorios de Salud,ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2815,Instituto Nacional de Laboratorios de Salud,ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA - INLASA,nombre,ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA - INLASA,ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA
+2026-04-12T05:49+00:00,2815,Instituto Nacional de Laboratorios de Salud,ANTÍGENO CARCINOEMBRIONARIO CEA (ACE) POR ELISA - INLASA,slug,antigeno-carcinoembrionario-cea-ace-por-elisa-inlasa,antigeno-carcinoembrionario-cea-ace-por-elisa
+2026-04-12T05:49+00:00,2816,Instituto Nacional de Laboratorios de Salud,CA 15-3 POR ELISA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2816,Instituto Nacional de Laboratorios de Salud,CA 15-3 POR ELISA - INLASA,nombre,CA 15-3 POR ELISA - INLASA,CA 15-3 POR ELISA
+2026-04-12T05:49+00:00,2816,Instituto Nacional de Laboratorios de Salud,CA 15-3 POR ELISA - INLASA,slug,ca-15-3-por-elisa-inlasa,ca-15-3-por-elisa
+2026-04-12T05:49+00:00,2817,Instituto Nacional de Laboratorios de Salud,CA 19-9 POR ELISA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2817,Instituto Nacional de Laboratorios de Salud,CA 19-9 POR ELISA - INLASA,nombre,CA 19-9 POR ELISA - INLASA,CA 19-9 POR ELISA
+2026-04-12T05:49+00:00,2817,Instituto Nacional de Laboratorios de Salud,CA 19-9 POR ELISA - INLASA,slug,ca-19-9-por-elisa-inlasa,ca-19-9-por-elisa
+2026-04-12T05:49+00:00,2818,Instituto Nacional de Laboratorios de Salud,CA-125 POR ELISA - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2818,Instituto Nacional de Laboratorios de Salud,CA-125 POR ELISA - INLASA,nombre,CA-125 POR ELISA - INLASA,CA-125 POR ELISA
+2026-04-12T05:49+00:00,2818,Instituto Nacional de Laboratorios de Salud,CA-125 POR ELISA - INLASA,slug,ca-125-por-elisa-inlasa,ca-125-por-elisa
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,Resolución Administrativa de Aranceles INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],Detección de gen endógeno de especie vegetal y dos secuencias,Detección de gen endógeno y cuatro secuencias OGM en productos de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][0]['costo'],700.00,1387.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],Detección de secuencia Promotor 35S (P35S) ,Detección de gen endógeno y dos secuencias OGM en productos de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][1]['costo'],550.00,997.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],Detección de secuencia Terminador NOS (TNOS),Detección de gen endógeno en productos de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][2]['costo'],550.00,636.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],Cuantificación por secuencia,Detección de una secuencia OGM en productos de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][3]['costo'],880.00,636.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"Cuantificación de secuencias P35S, FMV, TNOS, PAT y un gen endógeno de especie vegetal",Cuantificación de una secuencia OGM en productos de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][4]['costo'],2220.00,1528.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],Cuantificación secuencia Promotor 35S (P35S),Cuantificación de cuatro secuencias OGM de un producto de especie vegetal
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['costos'][5]['costo'],880.00,2937.00
+2026-04-12T05:49+00:00,2819,Instituto Nacional de Laboratorios de Salud,DETECCION Y CUANTIFICACION DE ORGANISMOS GENÉTICAMENTE MODIFICADOS,modalidades[0]['publico'][0]['procedimiento'],"<p><strong>PASO 1: Solicitar la cotización del servicio según parámetros a evaluar</strong><br />Puede solicitar la cotización a través de los siguientes medios:</p><ul><li><p>Teléfonos: 2226670 - 2225194 - 2224078</p></li><li><p>Celular - WhatsApp: 72054697 - 74045981</p></li><li><p>Correo: <a target=""_blank"" rel=""noopener noreferrer nofollow"" href=""mailto:saludambientalinlasa@gmail.com"">ambiental.inlasa@minisalud.gob.bo</a></p></li></ul><p><strong>PASO 2: Realizar el pago según cotización</strong></p><p>a) Caja de INLASA (presencial)</p><p>b) Transferencia o depósito a la cuenta de INLASA <em>(Banco Union. N° cuenta: 10000012647844 - INLASA Recaudaciones. NIT: 1001419025)</em></p><p><strong>PASO 3: Entregar la muestra</strong></p><p>Presentando la Factura y Carnet de Identidad en Recepción de Muestras del Laboratorio de Salud Ambiental del Instituto nacional de Laboratorios de Salud (INLASA).<br />Av. Saavedra, Pasaje Rafael Zubieta N.º 1889.Zona Miraflores (al lado del Hospital del niño).</p>","<p><strong>PASO 1: Solicitar la cotización del servicio según parámetros a evaluar</strong><br />Puede solicitar la cotización a través de los siguientes medios:</p><ul><li><p>Teléfonos: 2226670 - 2225194 - 2224078</p></li><li><p>Celular - WhatsApp: 67057758 - 74045981</p></li><li><p>Correo: <a target=""_blank"" rel=""noopener noreferrer nofollow"" href=""mailto:saludambientalinlasa@gmail.com"">ambiental.inlasa@minisalud.gob.bo</a></p></li></ul><p><strong>PASO 2: Realizar el pago según cotización</strong></p><p>a) Caja de INLASA (presencial)</p><p>b) Transferencia o depósito a la cuenta de INLASA <em>(Banco Union. N° cuenta: 10000012647844 - INLASA Recaudaciones. NIT: 1001419025)</em></p><p><strong>PASO 3: Entregar la muestra</strong></p><p>Presentando la Factura y Carnet de Identidad en Recepción de Muestras del Laboratorio de Salud Ambiental del Instituto nacional de Laboratorios de Salud (INLASA).<br />Av. Saavedra, Pasaje Rafael Zubieta N.º 1889.Zona Miraflores (al lado del Hospital del niño).</p>"
+2026-04-12T05:49+00:00,2820,Instituto Nacional de Laboratorios de Salud,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2820,Instituto Nacional de Laboratorios de Salud,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO - INLASA,modalidades[0]['publico'][0]['costos'][0]['costo'],280.00,400.00
+2026-04-12T05:49+00:00,2820,Instituto Nacional de Laboratorios de Salud,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO - INLASA,nombre,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO - INLASA,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO
+2026-04-12T05:49+00:00,2820,Instituto Nacional de Laboratorios de Salud,DETECCION DE GENOTIPOS DE ALTO Y BAJO RIESGO DEL VIRUS DEL PAPILOMA HUMANO - INLASA,slug,deteccion-de-genotipos-de-alto-y-bajo-riesgo-del-virus-del-papiloma-humano-inlasa,deteccion-de-genotipos-de-alto-y-bajo-riesgo-del-virus-del-papiloma-humano
+2026-04-12T05:49+00:00,2821,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO - INLASA,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2821,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO - INLASA,modalidades[0]['publico'][0]['costos'][0]['costo'],18000.00,22331.00
+2026-04-12T05:49+00:00,2821,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO - INLASA,nombre,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO - INLASA,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO
+2026-04-12T05:49+00:00,2821,Instituto Nacional de Laboratorios de Salud,EVALUACIÓN DE DESEMPEÑO DE KITS DE EXTRACCIÓN DEL MATERIAL GENÉTICO - INLASA,slug,evaluacion-de-desempeno-de-kits-de-extraccion-del-material-genetico-inlasa,evaluacion-de-desempeno-de-kits-de-extraccion-del-material-genetico
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,fechaActualización,26/02/2026,09/04/2026
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,marcoLegal,Resolución Administrativa de Aranceles INLASA/UJ N°01/2025,"Resolución Administrativa de Aranceles INLASA/UJ N° 05/2026
+"
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],MEDIO MOVILIDAD DE GRAIGIE POR 1 ML,MEDIO SIM (SULFURO-INDOL-MOTILIDAD) POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],MEDIO SIM (SULFURO-INDOL-MOTILIDAD) POR 1 ML,MEDIO TIOGLICOLATO POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],MEDIO TIOGLICOLATO POR 1 ML ,AGAR BAIRD PARKER POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],AGAR BAIRD PARKER POR 1 ML,AGAR CITRATO SIMMONS POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],AGAR CITRATO SIMMONS POR 1 ML ,AGAR CHOCOLATE BASE GC POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],AGAR CHOCOLATE BASE GC POR 1 ML,AGAR GELATINA POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][16]['conceptoPago'],AGAR GELATINA POR 1 ML ,AGAR LYCINE IRON AGAR (LIA) POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][17]['conceptoPago'],AGAR LYCINE IRON AGAR (LIA) POR 1 ML,AGAR MAC CONKEYC/CRISTAL VIOLETA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][18]['conceptoPago'],AGAR MAC CONKEYC/CRISTAL VIOLETA POR 1 ML,AGAR MANITOL SALADO POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][19]['conceptoPago'],AGAR MANITOL SALADO POR 1 ML ,AGAR MUELLER HINTON POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][20]['conceptoPago'],AGAR MUELLER HINTON POR 1 ML,AGAR NUTRITIVO POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][21]['conceptoPago'],AGAR NUTRITIVO POR 1 ML,AGAR OGA (OXITETRACICLINA  GLUCOSA AGAR) POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][22]['conceptoPago'],AGAR OGA (OXITETRACICLINA  GLUCOSA AGAR) POR 1 ML,AGAR PLATE COUNT AGAR (PCA) POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][23]['conceptoPago'],AGAR PLATE COUNT AGAR (PCA) POR 1 ML,AGAR ROJO VIOLETA BILIS POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][24]['conceptoPago'],AGAR ROJO VIOLETA BILIS POR 1 ML ,AGAR SABOURAUD DEXTROSA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][25]['conceptoPago'],AGAR SABOURAUD DEXTROSA POR 1 ML,AGAR SABOURAUD + CLORANFENICOL POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][25]['costo'],1.00,2.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][26]['conceptoPago'],AGAR SABOURAUD + CLORANFENICOL POR 1 ML,AGAR SALMONELLA SHIGELLA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][26]['costo'],2.00,1.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][27]['conceptoPago'],AGAR SALMONELLA SHIGELLA POR 1 ML,AGAR SANGRE AL 5% BASE SOYA TRIPTICASA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][28]['conceptoPago'],AGAR SANGRE AL 5% BASE SOYA TRIPTICASA POR 1 ML,AGAR SOYA TRIPTICASA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][29]['conceptoPago'],AGAR SOYA TRIPTICASA POR 1 ML,AGAR SOFT POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][30]['conceptoPago'],AGAR SORBITOL MAC CONKEY POR 1 ML ,AGAR TRIPLE SUGAR IRON AGAR (TSI) POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][31]['conceptoPago'],AGAR SOFT POR 1 ML ,AGAR UREA BASE POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][31]['costo'],1.00,2.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][32]['conceptoPago'],AGAR TRIPLE SUGAR IRON AGAR (TSI) POR 1 ML,AGAR XLD POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][33]['conceptoPago'],AGAR UREA BASE POR 1 ML,SANGRE DE CORDERO TOTAL POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][33]['costo'],2.00,9.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][34]['conceptoPago'],AGAR XLD POR 1 ML,AGAR  MAC CONKEY SORBITOLPOR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][35]['conceptoPago'],SANGRE DE CORDERO TOTAL POR 1 ML,AGAR SANGRE AL 5% BASE COLUMBIA 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][35]['costo'],9.00,1.50
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][36]['conceptoPago'],MEDIO DE TRANSPORTE VIRAL + HISOPO,CALDO SOYA TRIPTICASA POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][36]['costo'],13.00,1.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][37]['conceptoPago'],CALDO TETRATEONATO POR 1 ML,MEDIO DE TRANSPORTE VIRAL + HISOPO
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][37]['costo'],1.00,13.00
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],CALSO SOYA TRIPTICASA POR 1 ML,CALDO TIOGLICOLATO POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],CALDO TIOGLICOLATO POR 1 ML,SOLUCION FISIOLOGICA AL 0.85 % POR 1 ML 
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],SOLUCION FISIOLOGICA AL 0.85 % POR 1 ML ,SOLUCION FISIOLOGICA AL 0.9 % POR 1 ML
+2026-04-12T05:49+00:00,2824,Instituto Nacional de Laboratorios de Salud,VENTA DE MEDIOS DE CULTIVO,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],SOLUCION FISIOLOGICA AL 0.9 % POR 1 ML,MEDIO MOVILIDAD DE GRAIGIE POR 1 ML
+2026-04-12T05:49+00:00,2826,Instituto Nacional de Laboratorios de Salud,VENTA DE VACUNA ANTIRRÁBICA DE USO HUMANO EN CEREBRO DE RATÓN LACTANTE,fechaActualización,26/02/2026,06/04/2026
+2026-04-12T05:49+00:00,2826,Instituto Nacional de Laboratorios de Salud,VENTA DE VACUNA ANTIRRÁBICA DE USO HUMANO EN CEREBRO DE RATÓN LACTANTE,modalidades[0]['publico'][0]['costos'][0]['costo'],100.00,110.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][0]['costo'],100.00,116.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][10]['conceptoPago'],CULTIVO PARA GÉRMENES COMUNES Y ANTIBIOGRAMA,CULTIVO DE LÍQUIDO CEFALORAQUIDEO
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][10]['costo'],120.00,150.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][11]['conceptoPago'],CULTIVO SECRECIÓN  FARINGEA,CULTIVO DE LÍQUIDO SEMINAL 
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][11]['costo'],120.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][12]['conceptoPago'],CULTIVO SECRECIÓN NASAL,CULTIVO DE OTROS LIQUIDOS ORGANICOS
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][12]['costo'],120.00,138.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][13]['conceptoPago'],CULTIVO SECRECIÓN ÓTICA,CULTIVO PARA GÉRMENES COMUNES Y ANTIBIOGRAMA
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][13]['costo'],120.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][14]['conceptoPago'],HEMOCULTIVO SERIADO (DOS MUESTRAS),CULTIVO SECRECIÓN  FARINGEA
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][14]['costo'],240.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][15]['conceptoPago'],HEMOCULTIVO SERIADO (TRES MUESTRAS),CULTIVO SECRECIÓN NASAL
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][15]['costo'],350.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][16]['conceptoPago'],PRUEBA DE LA UREASA PARA EL DIAGNOSTICO DE HELICOBACTER PYLORI,CULTIVO SECRECIÓN ÓTICA
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][16]['costo'],70.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][17]['conceptoPago'],PRUEBAS RAPIDAS PARA DIAGNOSTICO BACTERIOLOGICO,HEMOCULTIVO SERIADO (DOS MUESTRAS)
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][17]['costo'],140.00,376.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][18]['conceptoPago'],UROCULTIVO RECUENTO DE COLONIA Y ANTIBIOGRAMA,HEMOCULTIVO SERIADO (TRES MUESTRAS)
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][18]['costo'],90.00,554.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][19]['conceptoPago'],CULTIVO DE SECRECIONES / EXUDADOS,UROCULTIVO RECUENTO DE COLONIA Y ANTIBIOGRAMA
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][19]['costo'],120.00,100.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][1]['costo'],240.00,250.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][20]['conceptoPago'],CULTIVO DE Campylobacter spp.,CULTIVO DE SECRECIONES / EXUDADOS
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][20]['costo'],340.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][21]['conceptoPago'],CULTIVO PARA INVESTIGACIÓN DE S. agalactiae ,CULTIVO DE Campylobacter spp.
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][21]['costo'],120.00,365.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][22]['conceptoPago'],DIAGNOSTICO E IDENTIFICACION  DE ENFERMEDADES TRANSMITIDAS POR ALIMENTOS (ETAS),CULTIVO PARA INVESTIGACIÓN DE S. agalactiae 
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][22]['costo'],120.00,132.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][23]['conceptoPago'],CULTIVO PARA IDENTIFICACIÓN Y/O CONFIRMACIÓN DE ESPECIES BACTERIANAS,DIAGNOSTICO E IDENTIFICACION  DE ENFERMEDADES TRANSMITIDAS POR ALIMENTOS (ETAS)
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][23]['costo'],120.00,130.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],CULTIVO DE ESPUTO O EXUDADO BRONQUIAL,PRUEBA DE LA UREASA PARA EL DIAGNOSTICO DE HELICOBACTER PYLORI
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][3]['costo'],120.00,70.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],CULTIVO DE EXUDADO CONJUNTIVAL,PRUEBAS RAPIDAS PARA DIAGNOSTICO BACTERIOLOGICO
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][4]['costo'],120.00,140.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],CULTIVO DE EXUDADO VAGINAL,CULTIVO PARA IDENTIFICACIÓN Y/O CONFIRMACIÓN DE ESPECIES BACTERIANAS
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][5]['costo'],140.00,120.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],CULTIVO DE HISOPADO URETRAL,CULTIVO DE ESPUTO O EXUDADO BRONQUIAL
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][6]['costo'],130.00,132.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],CULTIVO DE LÍQUIDO CEFALORAQUIDEO,CULTIVO DE EXUDADO CONJUNTIVAL
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][7]['costo'],140.00,132.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],CULTIVO DE LÍQUIDO SEMINAL ,CULTIVO DE EXUDADO VAGINAL
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][8]['costo'],120.00,150.00
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][9]['conceptoPago'],CULTIVO DE OTROS LIQUIDOS ORGANICOS,CULTIVO DE HISOPADO URETRAL
+2026-04-12T05:49+00:00,2829,Instituto Nacional de Laboratorios de Salud,CULTIVOS BACTERIOLÓGICOS DE MUESTRAS CLÍNICAS,modalidades[0]['publico'][0]['costos'][9]['costo'],120.00,140.00
+2026-04-12T05:49+00:00,2830,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE SUPERFICIES Y AMBIENTES,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2831,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE INFECCIONES ASOCIADAS A LA ATENCIÒN EN SALUD,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2831,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE INFECCIONES ASOCIADAS A LA ATENCIÒN EN SALUD,modalidades[0]['publico'][0]['costos'][0]['conceptoPago'],ESTUDIO DE BROTES DE IAAS POR PACIENTE,CULTIVO PARA INVESTIGACIÓN DE COLONIZACIÓN POR BACTERIAS RESISTENTES A LOS ANTIMICROBIANOS DE INTERÉS NOSOCOMIAL
+2026-04-12T05:49+00:00,2831,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE INFECCIONES ASOCIADAS A LA ATENCIÒN EN SALUD,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],ESTUDIO DE BROTES DE INFECCIONES ASOCIADAS A LA ATENCION EN SALUD,ESTUDIO DE BROTES DE IAAS POR PACIENTE
+2026-04-12T05:49+00:00,2831,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE INFECCIONES ASOCIADAS A LA ATENCIÒN EN SALUD,modalidades[0]['publico'][0]['costos'][1]['costo'],200.00,272.00
+2026-04-12T05:49+00:00,2831,Instituto Nacional de Laboratorios de Salud,ESTUDIOS BACTERIOLÒGICOS DE INFECCIONES ASOCIADAS A LA ATENCIÒN EN SALUD,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],CULTIVO PARA INVESTIGACIÓN DE COLONIZACIÓN POR BACTERIAS RESISTENTES A LOS ANTIMICROBIANOS DE INTERÉS NOSOCOMIAL,ESTUDIO MICROBIOLÓGICO DE AMBIENTES - MÉTODO PASIVO - POR MUESTRA
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],EVALUACIÓN DEL DESEMPEÑO DE DISCOS DE ANTIBIOGRAMA (POR TUBO),EVALUACIÓN DEL DESEMPEÑO DE MEDIOS DE CULTIVO BACTERIOLÓGICO (SELECTIVOS DIFERENCIALES Y ENRIQUECIDOS)
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][2]['costo'],180.00,1000.00
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],EVALUACIÓN DEL DESEMPEÑO DE MEDIOS DE CULTIVO BACTERIOLÓGICO (SELECTIVOS DIFERENCIALES Y ENRIQUECIDOS),CONTROL MICROBIOLÓGICO DE SANGRE PARA MEDIOS DE CULTIVO
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][3]['costo'],1000.00,400.00
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],CONTROL MICROBIOLÓGICO DE SANGRE PARA MEDIOS DE CULTIVO,CULTIVO PARA CONTROL DE ESTERILIDAD DE MEDIOS DE CULTIVO Y REACTIVOS (POR MUESTRA)
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][4]['costo'],400.00,200.00
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],DETERMINACIÓN DE CONCENTRACIÓN MÍNIMA  INHIBITORIA POR ANTIBIÓTICO,EVALUACIÓN DEL DESEMPEÑO DE DISCOS DE ANTIBIOGRAMA (POR TUBO)
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][5]['costo'],250.00,195.00
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],CULTIVO PARA CONTROL DE ESTERILIDAD DE MEDIOS DE CULTIVO Y REACTIVOS (POR MUESTRA),DETERMINACIÓN DE CONCENTRACIÓN MÍNIMA  INHIBITORIA POR ANTIBIÓTICO
+2026-04-12T05:49+00:00,2832,Instituto Nacional de Laboratorios de Salud,"ESTUDIOS BACTERIOLÒGICOS DE DESEMPEÑO DE DIAGNOSTICADORES, DESINFECTANTES Y MEDIOS DE CULTIVO",modalidades[0]['publico'][0]['costos'][6]['costo'],200.00,280.00
+2026-04-12T05:49+00:00,2833,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICROSCÓPICOS MICROBIANOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,modalidades[0]['publico'][0]['costos'][1]['conceptoPago'],CULTIVO MICOLOGICO ,IDENTIFICACIÓN DE HONGOS (FILAMENTOSOS Y LEVADURIFORMES)
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],IDENTIFICACIÓN MICOLÓGICA DE DERMATOFITOS ,CULTIVO MICOLOGICO 
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,modalidades[0]['publico'][0]['costos'][2]['costo'],120.00,215.00
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],IDENTIFICACIÓN DE HONGOS (FILAMENTOSOS Y LEVADURIFORMES),IDENTIFICACIÓN MICOLÓGICA DE DERMATOFITOS 
+2026-04-12T05:49+00:00,2834,Instituto Nacional de Laboratorios de Salud,ESTUDIOS MICOLÓGICOS,modalidades[0]['publico'][0]['costos'][3]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2835,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE RESISTENCIA FENOTÍPICA A LOS ANTIMICROBIANOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2835,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE RESISTENCIA FENOTÍPICA A LOS ANTIMICROBIANOS,modalidades[0]['publico'][0]['costos'][0]['costo'],150.00,169.00
+2026-04-12T05:49+00:00,2835,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE RESISTENCIA FENOTÍPICA A LOS ANTIMICROBIANOS,modalidades[0]['publico'][0]['costos'][1]['costo'],250.00,278.00
+2026-04-12T05:49+00:00,2836,Instituto Nacional de Laboratorios de Salud,MÉTODOS MICROBIOLÓGICOS AUTOMATIZADOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2836,Instituto Nacional de Laboratorios de Salud,MÉTODOS MICROBIOLÓGICOS AUTOMATIZADOS,modalidades[0]['publico'][0]['costos'][0]['costo'],250.00,360.00
+2026-04-12T05:49+00:00,2836,Instituto Nacional de Laboratorios de Salud,MÉTODOS MICROBIOLÓGICOS AUTOMATIZADOS,modalidades[0]['publico'][0]['costos'][1]['costo'],255.00,365.00
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][0]['costo'],250.00,325.00
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][1]['costo'],250.00,330.00
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][2]['conceptoPago'],PCR (REACCIÓN EN CADENA DE LA POLIMERASA) OTRAS BACTERIAS Y HONGOS ,"PCR PARA H. influenzae, N. meningitidis Y S, pneumoniae PCR EN TIEMPO REAL"
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][2]['costo'],250.00,410.00
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][3]['conceptoPago'],"PCR PARA H. influenzae, N. meningitidis Y S, pneumoniae PCR EN TIEMPO REAL","PANEL BACTERIANO RESPIRATORIO (DIAGNÓSTICO DE MYCOPLASMA PNEUMONIAE, CHLAMYDIA PNEUMONIAE Y LEGIONELLA SPP. POR PCR EN TIEMPO REAL)"
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][3]['costo'],350.00,535.00
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][4]['conceptoPago'],"PANEL BACTERIANO RESPIRATORIO (DIAGNÓSTICO DE MYCOPLASMA PNEUMONIAE, CHLAMYDIA PNEUMONIAE Y LEGIONELLA SPP. POR PCR EN TIEMPO REAL)",PCR (REACCIÓN EN CADENA DE LA POLIMERASA) OTRAS BACTERIAS Y HONGOS 
+2026-04-12T05:49+00:00,2837,Instituto Nacional de Laboratorios de Salud,ESTUDIOS DE DIAGNÓSTICO BACTERIOLÓGICO POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][4]['costo'],450.00,325.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][0]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][1]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][2]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][3]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][4]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][5]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][6]['costo'],200.00,215.00
+2026-04-12T05:49+00:00,2838,Instituto Nacional de Laboratorios de Salud,CONFIRMACIÓN DE GENES DE RESISTENCIA POR BIOLOGÍA MOLECULAR - PCR,modalidades[0]['publico'][0]['costos'][7]['costo'],250.00,270.00
+2026-04-12T05:49+00:00,2839,Instituto Nacional de Laboratorios de Salud,VENTA DE CEPAS MICROBIANAS Y REACTIVOS,fechaActualización,26/02/2026,07/04/2026
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][0]['costo'],90.00,105.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][1]['costo'],105.00,118.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][2]['costo'],115.00,130.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][3]['costo'],125.00,142.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][4]['costo'],125.00,148.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][5]['conceptoPago'],ELISA para Anticuerpos E  DE  HEPATITIS B (ANTI HBe),ELISA para Anticuerpos Anti HCV
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][5]['costo'],125.00,167.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][6]['conceptoPago'],ELISA para Anticuerpos Anti HCV,ELISA  para Anticuerpos IgM Anti-HAV
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][6]['costo'],135.00,127.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][7]['conceptoPago'],ELISA  para Anticuerpos IgM ANTI-HAV,ELISA para Anticuerpos Totales anti HAV (IgM-IgG)
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][7]['costo'],118.00,121.00
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][8]['conceptoPago'],ELISA para Anticuerpos TOTALES ANTI- HAV (IgM-IgG),ELISA para Anticuerpos e  de Hepatitis B (ANTI HBe)
+2026-04-12T05:49+00:00,2845,Instituto Nacional de Laboratorios de Salud,PRUEBAS PARA HEPATITIS VIRALES,modalidades[0]['publico'][0]['costos'][8]['costo'],113.00,148.00
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,marcoLegal,Resolución Administrativa INLASA/UJ N°01/2025,Resolución Administrativa INLASA/UJ N°05/2026
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,modalidades[0]['publico'][0]['costos'][0]['costo'],60.00,80.00
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,modalidades[0]['publico'][0]['costos'][1]['costo'],82.00,100.00
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,modalidades[0]['publico'][0]['costos'][2]['costo'],48.00,55.00
+2026-04-12T05:49+00:00,2854,Instituto Nacional de Laboratorios de Salud,PRUEBAS DE TRANSMISIÓN SEXUAL,modalidades[0]['publico'][0]['costos'][3]['costo'],75.00,95.00
+2026-04-12T05:49+00:00,3212,Instituto Nacional de Laboratorios de Salud,VENTA DE RATONES DE LABORATORIO,fechaActualización,26/02/2026,08/04/2026
+2026-04-12T05:49+00:00,3212,Instituto Nacional de Laboratorios de Salud,VENTA DE RATONES DE LABORATORIO,modalidades[0]['publico'][0]['costos'][0]['costo'],15.00,18.00
+2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
+2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['sigla'],MIN-DPEP,MIN-DPRyA
+2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
