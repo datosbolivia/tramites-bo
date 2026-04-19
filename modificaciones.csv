@@ -5185,3 +5185,29 @@ ELISA: Parvovirus B19 (anticuerpos IgM e IgG) y Virus Epstein-Barr (anticuerpos 
 2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['nombre'],Ministerio de Desarrollo Productivo y Economía Plural,"Ministerio de Desarrollo Productivo, Rural y Agua"
 2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['sigla'],MIN-DPEP,MIN-DPRyA
 2026-04-12T05:49+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['slug'],ministerio-de-desarrollo-productivo-y-economia-plural,ministerio-de-desarrollo-productivo-rural-y-agua
+2026-04-19T05:53+00:00,2890,"Empresa Pública ""Editorial del Estado Plurinacional de Bolivia""",EDICIONES DE PERIÓDICO,categorias[0]['nombre'],Educación,Empresas
+2026-04-19T05:53+00:00,2890,"Empresa Pública ""Editorial del Estado Plurinacional de Bolivia""",EDICIONES DE PERIÓDICO,categorias[0]['slug'],educacion,empresas
+2026-04-19T05:53+00:00,2890,"Empresa Pública ""Editorial del Estado Plurinacional de Bolivia""",EDICIONES DE PERIÓDICO,categorias[1]['nombre'],Empresas,Educación
+2026-04-19T05:53+00:00,2890,"Empresa Pública ""Editorial del Estado Plurinacional de Bolivia""",EDICIONES DE PERIÓDICO,categorias[1]['slug'],empresas,educacion
+2026-04-19T05:53+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,categorias[0]['nombre'],Educación,Salud
+2026-04-19T05:53+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,categorias[0]['slug'],educacion,salud
+2026-04-19T05:53+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,categorias[1]['nombre'],Salud,Educación
+2026-04-19T05:53+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,categorias[1]['slug'],salud,educacion
+2026-04-19T05:53+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,categorias[0]['nombre'],Educación,Salud
+2026-04-19T05:53+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,categorias[0]['slug'],educacion,salud
+2026-04-19T05:53+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,categorias[1]['nombre'],Salud,Educación
+2026-04-19T05:53+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,categorias[1]['slug'],salud,educacion
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[0]['nombre'],Transporte,Medio ambiente
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[0]['slug'],transporte,medio-ambiente
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[1]['nombre'],Empresas,Transporte
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[1]['slug'],empresas,transporte
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[3]['nombre'],Medio ambiente,Empresas
+2026-04-19T05:53+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[3]['slug'],medio-ambiente,empresas
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[0]['nombre'],Transporte,Medio ambiente
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[0]['slug'],transporte,medio-ambiente
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[1]['nombre'],Empresas,Identificación
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[1]['slug'],empresas,identificacion
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[2]['nombre'],Identificación,Transporte
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[2]['slug'],identificacion,transporte
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[3]['nombre'],Medio ambiente,Empresas
+2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[3]['slug'],medio-ambiente,empresas
