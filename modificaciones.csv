@@ -5211,3 +5211,11 @@ ELISA: Parvovirus B19 (anticuerpos IgM e IgG) y Virus Epstein-Barr (anticuerpos 
 2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[2]['slug'],identificacion,transporte
 2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[3]['nombre'],Medio ambiente,Empresas
 2026-04-19T05:53+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[3]['slug'],medio-ambiente,empresas
+2026-04-26T06:01+00:00,1002,Aduana Nacional,SOLICITUD DE COPIAS SIMPLES,entidad['logo'],https://www.gob.bo/ws/api/archivos/ed1bde1c-269b-4c69-a95f-9db2b03bc785.png,https://www.gob.bo/ws/api/archivos/765fe1a9-dc91-43df-a821-63fd61735118.png
+2026-04-26T06:01+00:00,1003,Aduana Nacional,SOLICITUD DE LEGALIZACIONES Y/O AUTENTICACIONES,entidad['logo'],https://www.gob.bo/ws/api/archivos/ed1bde1c-269b-4c69-a95f-9db2b03bc785.png,https://www.gob.bo/ws/api/archivos/765fe1a9-dc91-43df-a821-63fd61735118.png
+2026-04-26T06:01+00:00,2013,Aduana Nacional,SOLICITUD DE CERTIFICACIONES DIGITALES,entidad['logo'],https://www.gob.bo/ws/api/archivos/ed1bde1c-269b-4c69-a95f-9db2b03bc785.png,https://www.gob.bo/ws/api/archivos/765fe1a9-dc91-43df-a821-63fd61735118.png
+2026-04-26T06:01+00:00,2884,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Refrenda,fechaActualización,21/11/2025,24/04/2026
+2026-04-26T06:01+00:00,2888,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para la Escuela Técnica de Salud y Subsedes,fechaActualización,21/11/2025,24/04/2026
+2026-04-26T06:01+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,fechaActualización,21/11/2025,24/04/2026
+2026-04-26T06:01+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,fechaActualización,21/11/2025,24/04/2026
+2026-04-26T06:01+00:00,3300,Aduana Nacional,Registro operadores de comercio exterior - importador (habitual),entidad['logo'],https://www.gob.bo/ws/api/archivos/ed1bde1c-269b-4c69-a95f-9db2b03bc785.png,https://www.gob.bo/ws/api/archivos/765fe1a9-dc91-43df-a821-63fd61735118.png
