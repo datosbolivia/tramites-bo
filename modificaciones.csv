@@ -5219,3 +5219,33 @@ ELISA: Parvovirus B19 (anticuerpos IgM e IgG) y Virus Epstein-Barr (anticuerpos 
 2026-04-26T06:01+00:00,2891,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Legalización - Para Instituciones Educativas Privadas,fechaActualización,21/11/2025,24/04/2026
 2026-04-26T06:01+00:00,2894,Escuela Tecnica de Salud - Boliviano - Japonesa de Cooperacion Andina,Certificado Supletorio de Egreso,fechaActualización,21/11/2025,24/04/2026
 2026-04-26T06:01+00:00,3300,Aduana Nacional,Registro operadores de comercio exterior - importador (habitual),entidad['logo'],https://www.gob.bo/ws/api/archivos/ed1bde1c-269b-4c69-a95f-9db2b03bc785.png,https://www.gob.bo/ws/api/archivos/765fe1a9-dc91-43df-a821-63fd61735118.png
+2026-05-10T06:28+00:00,3362,Agencia Nacional de Hidrocarburos,IMPORTACIÓN DE PRODUCTOS REFINADOS REGULADOS Y NO REGULADOS PARA CONSUMO PROPIO,fechaActualización,27/03/2026,04/05/2026
+2026-05-10T06:28+00:00,3362,Agencia Nacional de Hidrocarburos,IMPORTACIÓN DE PRODUCTOS REFINADOS REGULADOS Y NO REGULADOS PARA CONSUMO PROPIO,palabrasClave,,"['importacion', 'consumo propio', 'carburantes', 'diesel', 'gasolina']"
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",categorias[0]['nombre'],Transporte,Identificación
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",categorias[0]['slug'],transporte,identificacion
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",categorias[1]['nombre'],Empresas,Transporte
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",categorias[1]['slug'],empresas,transporte
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",fechaActualización,01/04/2026,04/05/2026
+2026-05-10T06:28+00:00,3371,Agencia Nacional de Hidrocarburos,"IMPORTACIÓN Y COMERCIALIZACIÓN DE DIÉSEL Y
+GASOLINAS IMPORTADOS",palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel', 'Gasolina']"
+2026-05-10T06:28+00:00,3372,Agencia Nacional de Hidrocarburos,COMERCIALIZADOCION DE COMBUSTIBLES LIIQUIDOS EN PUESTOS DE VENTA,fechaActualización,01/04/2026,04/05/2026
+2026-05-10T06:28+00:00,3372,Agencia Nacional de Hidrocarburos,COMERCIALIZADOCION DE COMBUSTIBLES LIIQUIDOS EN PUESTOS DE VENTA,nombre,COMERCIALIZADOCION DE COMBUSTIBLES LIIQUIDOS EN PUESTOS DE VENTA,COMERCIALIZADOCION DE COMBUSTIBLES LIQUIDOS EN PUESTOS DE VENTA
+2026-05-10T06:28+00:00,3372,Agencia Nacional de Hidrocarburos,COMERCIALIZADOCION DE COMBUSTIBLES LIIQUIDOS EN PUESTOS DE VENTA,palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel', 'Gasolina', 'Carburtantes']"
+2026-05-10T06:28+00:00,3372,Agencia Nacional de Hidrocarburos,COMERCIALIZADOCION DE COMBUSTIBLES LIIQUIDOS EN PUESTOS DE VENTA,slug,comercializadocion-de-combustibles-liiquidos-en-puestos-de-venta,comercializadocion-de-combustibles-liquidos-en-puestos-de-venta
+2026-05-10T06:28+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[0]['nombre'],Medio ambiente,Identificación
+2026-05-10T06:28+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,categorias[0]['slug'],medio-ambiente,identificacion
+2026-05-10T06:28+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,fechaActualización,01/04/2026,04/05/2026
+2026-05-10T06:28+00:00,3373,Agencia Nacional de Hidrocarburos,COMERCIALIZACION DE LUBRICANTES TERMINADOS,palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel', 'Gasolina', 'Carburantes']"
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[0]['nombre'],Medio ambiente,Identificación
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[0]['slug'],medio-ambiente,identificacion
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[1]['nombre'],Identificación,Transporte
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[1]['slug'],identificacion,transporte
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[2]['nombre'],Transporte,Comercio Exterior
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,categorias[2]['slug'],transporte,comercio-exterior
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,fechaActualización,01/04/2026,04/05/2026
+2026-05-10T06:28+00:00,3374,Agencia Nacional de Hidrocarburos,USUARIOS DIRECTOS Y CLIENTES DIRECTOS,palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel', 'Gasolina', 'Carburantes']"
