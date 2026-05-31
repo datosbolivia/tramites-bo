@@ -5996,3 +5996,22 @@ GASOLINAS IMPORTADOS",palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel'
 2026-05-24T06:54+00:00,3417,Aduana Nacional,PRECIOS REFERENCIALES DE VEHÍCULOS,fechaActualización,06/05/2026,22/05/2026
 2026-05-24T06:54+00:00,3418,Aduana Nacional,"ACTUALIZACIÓN DE DATOS PARAMÉTRICOS DE VEHÍCULO, MAQUINARIA AUTOPROPULSADA, REMOLQUE Y SEMIRREMOLQUE",fechaActualización,06/05/2026,22/05/2026
 2026-05-24T06:54+00:00,3420,Aduana Nacional,REGISTRO IMPORTADOR/EXPORTADOR NO HABITUAL,fechaActualización,06/05/2026,22/05/2026
+2026-05-31T07:38+00:00,2757,Orquesta Sinfónica Nacional,TEMPORADA DE CONCIERTOS,entidad['correoElectronicoContacto'],,contacto@sinfonicabolivia.gob.bo
+2026-05-31T07:38+00:00,2757,Orquesta Sinfónica Nacional,TEMPORADA DE CONCIERTOS,entidad['logo'],https://www.gob.bo/ws/api/archivos/ec837888-3698-4269-93bf-1a1edbb77ab5.png,https://www.gob.bo/ws/api/archivos/db4a707b-6021-4347-9f7f-6eceb1ad69ca.png
+2026-05-31T07:38+00:00,3402,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE TRABAJADOR(A) - CBES,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3402,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE TRABAJADOR(A) - CBES,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3403,Caja Bancaria Estatal de Salud,REQUISITOS PARA DUPLICADO O RENOVACIÓN DE CARNET DE ASEGURADO,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3403,Caja Bancaria Estatal de Salud,REQUISITOS PARA DUPLICADO O RENOVACIÓN DE CARNET DE ASEGURADO,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3404,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE RECIÉN NACIDOS - CBES,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3404,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE RECIÉN NACIDOS - CBES,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3405,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE ESPOSA(O) O UNIÓN LIBRE - CBES,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3405,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE ESPOSA(O) O UNIÓN LIBRE - CBES,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3406,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN HIJOS/AS MENORES DE 19 AÑOS - CBES,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3406,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN HIJOS/AS MENORES DE 19 AÑOS - CBES,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3407,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE HIJOS/AS MAYORES (19 A 25 AÑOS DE EDAD) - CBES,fechaActualización,12/05/2026,27/05/2026
+2026-05-31T07:38+00:00,3407,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE HIJOS/AS MAYORES (19 A 25 AÑOS DE EDAD) - CBES,sigla,,AFILIACIÓN
+2026-05-31T07:38+00:00,3407,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE HIJOS/AS MAYORES (19 A 25 AÑOS DE EDAD) - CBES,ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3407,Caja Bancaria Estatal de Salud,REQUISITOS DE AFILIACIÓN DE HIJOS/AS MAYORES (19 A 25 AÑOS DE EDAD) - CBES,ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3409,Caja Bancaria Estatal de Salud,"REQUISITOS DE AFILIACIÓN DE RENTISTA, JUBILADO O PENSIONADO - CBES",ubicaciones[0]['ubicacion']['latitud'],-16.49361,-16.49770981055916
+2026-05-31T07:38+00:00,3409,Caja Bancaria Estatal de Salud,"REQUISITOS DE AFILIACIÓN DE RENTISTA, JUBILADO O PENSIONADO - CBES",ubicaciones[0]['ubicacion']['longitud'],-68.13469,-68.12567353913299
+2026-05-31T07:38+00:00,3427,Gobierno Autónomo Municipal de Sacaba,TRÁMITES DE CATASTRO GAM Sacaba,fechaActualización,15/05/2026,28/05/2026
