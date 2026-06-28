@@ -6062,3 +6062,18 @@ GASOLINAS IMPORTADOS",palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel'
 2026-06-21T08:21+00:00,3426,Gobierno Autónomo Municipal de Sacaba,TRAMITES URBANISMO,ubicaciones[0]['ubicacion']['longitud'],-66.03912,-66.03928740051096
 2026-06-21T08:21+00:00,3427,Gobierno Autónomo Municipal de Sacaba,TRÁMITES DE CATASTRO GAM Sacaba,ubicaciones[0]['ubicacion']['latitud'],-17.40212,-17.403975427536043
 2026-06-21T08:21+00:00,3427,Gobierno Autónomo Municipal de Sacaba,TRÁMITES DE CATASTRO GAM Sacaba,ubicaciones[0]['ubicacion']['longitud'],-66.03912,-66.03928740051096
+2026-06-28T07:43+00:00,1612,Autoridad de Fisc y Ctrol Soc de Agua Potable Saneam.Básico,Reclamación Administrativa por deficiencias en la prestación del servicio,entidad['sigla'],AAPS,APPS
+2026-06-28T07:43+00:00,2155,Direc. Dptal. de Educación Oruro,TRÁMITE DE DIPLOMA DE BACHILLER EN HUMANIDADES,fechaActualización,26/06/2025,26/06/2026
+2026-06-28T07:43+00:00,2156,Direc. Dptal. de Educación Oruro,DESIGNACIONES Y PROCESAMIENTO DE MEMORÁNDUM,fechaActualización,26/06/2025,26/06/2026
+2026-06-28T07:43+00:00,2157,Direc. Dptal. de Educación Oruro,INSCRIPCION A ESCALAFON DE LA CARRERA DOCENTE Y ASIGNACION DE QUINTA CATEGORIA PARA DOCENTES EGRESADOS DE LAS ACTUALES ESCUELAS SUPERIORES DE FORMACION DE MAESTROS Y MAESTRAS.,fechaActualización,26/06/2025,26/06/2026
+2026-06-28T07:43+00:00,2159,Direc. Dptal. de Educación Oruro,"TRÁMITE ACTUALIZACIONES DE RDA, RP - DIDEP",fechaActualización,26/06/2025,26/06/2026
+2026-06-28T07:43+00:00,2530,Institución Pública Desconcentrada de Pesca y Acuicultura,Ejecución de Proyectos de Apoyo a la Producción Piscícola,entidad['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,2610,Servicio Nacional De Sanidad Agropecuaria E Inocuidad Alimentaria,APROBACIÓN DE ETIQUETAS,modalidades[0]['publico'][0]['requisitos'][0]['entidad']['sigla'],AAPS,APPS
+2026-06-28T07:43+00:00,2860,Institución Pública Desconcentrada de Pesca y Acuicultura,Venta de pescado,entidad['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,2860,Institución Pública Desconcentrada de Pesca y Acuicultura,Venta de pescado,modalidades[0]['publico'][0]['requisitos'][0]['entidad']['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,2861,Institución Pública Desconcentrada de Pesca y Acuicultura,Servicios del Centro Piscícola Pedro Ignacio Muiba-Beni,entidad['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,2862,Institución Pública Desconcentrada de Pesca y Acuicultura,Servicios del Centro de Reproducción y alevinaje de especies Ícticas Amazónicas Cocochi Palos Blancos-La Paz,entidad['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,2863,Institución Pública Desconcentrada de Pesca y Acuicultura,Servicios del Centro Piscícola de Tiquina-La Paz,entidad['sigla'],PACU,IPD-PACU
+2026-06-28T07:43+00:00,3387,Gobierno Autónomo Municipal de El Alto de La Paz,Programa Municipal de Apoyo al Desarrollo Infantil,entidad['logo'],https://www.gob.bo/ws/api/archivos/37755e9c-6044-4e3b-9256-b32e3977dc06.png,https://www.gob.bo/ws/api/archivos/a05f1d53-0916-4e92-8bd1-3a5b806651a8.jpg
+2026-06-28T07:43+00:00,3388,Gobierno Autónomo Municipal de El Alto de La Paz,Programa de Alimentación Complementaria,entidad['logo'],https://www.gob.bo/ws/api/archivos/37755e9c-6044-4e3b-9256-b32e3977dc06.png,https://www.gob.bo/ws/api/archivos/a05f1d53-0916-4e92-8bd1-3a5b806651a8.jpg
+2026-06-28T07:43+00:00,3477,Gobierno Autónomo Municipal de El Alto de La Paz,Sistema de Urgencias Médicas El Alto,entidad['logo'],https://www.gob.bo/ws/api/archivos/37755e9c-6044-4e3b-9256-b32e3977dc06.png,https://www.gob.bo/ws/api/archivos/a05f1d53-0916-4e92-8bd1-3a5b806651a8.jpg
