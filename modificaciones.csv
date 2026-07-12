@@ -6123,3 +6123,715 @@ GASOLINAS IMPORTADOS",palabrasClave,,"['Importacion', 'Consumo Propio', 'Diesel'
 2026-07-05T06:59+00:00,3470,Agencia Nacional de Hidrocarburos,DISTRIBUCIÓN DE GLP AGRANEL,categorias[1]['slug'],empresas,migracion
 2026-07-05T06:59+00:00,3470,Agencia Nacional de Hidrocarburos,DISTRIBUCIÓN DE GLP AGRANEL,categorias[3]['nombre'],Migración,Empresas
 2026-07-05T06:59+00:00,3470,Agencia Nacional de Hidrocarburos,DISTRIBUCIÓN DE GLP AGRANEL,categorias[3]['slug'],migracion,empresas
+2026-07-12T06:30+00:00,1005,Tribunal Supremo de Justicia,Registro de Ciudadanos Digitales,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1010,Registro Internacional Boliviano De Buques,REGISTRO PROVISIONAL,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1011,Registro Internacional Boliviano De Buques,REGISTRO PROVISIONAL SUJETO A CONDICIÓN RESOLUTORIA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1012,Registro Internacional Boliviano De Buques,REGISTRO PROVISIONAL DUAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1013,Registro Internacional Boliviano De Buques,REGISTRO TEMPORAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1014,Registro Internacional Boliviano De Buques,REGISTRO PERMANENTE,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1017,Direc. Dptal. de Educación Tarija,TRAMITE DE TÍTULO EN PROVISIÓN NACIONAL Y/O TÍTULO PROFESIONAL DE MAESTRAS Y MAESTROS EGRESADOS ANTES DEL 2014,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1018,Direc. Dptal. de Educación Tarija,TRAMITE DE CERTIFICADO SUPLETORIO DE TÍTULO PROFESIONAL DE MAESTRO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1019,Registro Internacional Boliviano De Buques,REGISTRO PERMANENTE DUAL,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1020,Direc. Dptal. de Educación Tarija,TRAMITE DE INSCRIPCIÓN AL ESCALAFÓN DE LA CARRERA DOCENTE Y ASIGNACIÓN DE QUINTA CATEGORÍA PARA DOCENTES EGRESADOS DE LAS ACTUALES ESCUELAS SUPERIORES DE FORMACIÓN DE MAESTROS Y MAESTRAS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1021,Direc. Dptal. de Educación Tarija,TRAMITE DE RECONOCIMIENTO DE AÑOS DE SERVICIO DOCENTE PRESTADO UNIDADES EDUCATIVAS PARTICULARES Y EN COMIBOL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1022,Direc. Dptal. de Educación Tarija,TRAMITE DE RECONOCIMIENTO DE AÑOS DE SERVICIO DOCENTE PRESTADOS EN FRONTERA,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1023,Direc. Dptal. de Educación Tarija,TRAMITE DE RECONOCIMIENTO DE UN AÑO DE SERVICIO PARA ASCENSO DE CATEGORÍA PARA DIRECTORES ENCARGADOS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1024,Registro Internacional Boliviano De Buques,"EXTENSIÓN DE REGISTRO PROVISIONAL, ANUALIDAD DE REGISTRO PERMANENTE, RENOVACIÓN DE REGISTRO PERMANENTE EN LAS MODALIDADES NORMAL Y DUAL",fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1025,Direc. Dptal. de Educación Tarija,TRAMITE DE RESOLUCIÓN ADMINISTRATIVA CANCELADOS CON IDH,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1026,Registro Internacional Boliviano De Buques,CANCELACIÓN DE REGISTRO,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1027,Direc. Dptal. de Educación Tarija,TRAMITE DE RECONOCIMIENTO DE HORAS PARALELAS PARA DOCENTES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1028,Registro Internacional Boliviano De Buques,REFRENDOS DE TÍTULOS DE COMPETENCIA,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1030,Gobierno Autónomo Municipal de Cochabamba,Certificado de Registro Ambiental Municipal,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1031,Direc. Dptal. de Educación Tarija,LEGALIZACIÓN  DE DIPLOMA DE BACHILLER ORIGINAL  PARA ESTUDIOS EN  EL EXTERIOR,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1033,Direc. Dptal. de Educación Tarija,"TRÁMITE DE DIPLOMA DE BACHILLER SUPLETORIO  POR ROBO, EXTRAVÍO O DETERIORO",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1034,Direc. Dptal. de Educación Tarija,EMISIÓN DE DIPLOMA A TRAVÉS DE LA CONVALIDACIÓN U HOMOLOGACIÓN DE ESTUDIOS EN EL EXTRANJERO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1035,Direc. Dptal. de Educación Tarija,MODIFICACIÓN DE DATOS EN EL DIPLOMA DE BACHILLER,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1037,Direc. Dptal. de Educación Tarija,LEGALIZACIÓN  DE DIPLOMA DE BACHILLER ORIGINAL  PARA ESTUDIOS EN  EL EXTERIOR PREVIA APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1038,Direc. Dptal. de Educación Tarija,LEGALIZACIÓN DE TITULACIÓN CONJUNTA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1039,Direc. Dptal. de Educación Tarija,LEGALIZACIÓN TRÁMITE INDIVIDUAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1041,Direc. Dptal. de Educación Tarija,CERTIFICADOS DE CAPACITACIÓN,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1042,Direc. Dptal. de Educación Tarija,LEGALIZACIÓN DE CERTIFICADO DE CAPACITACIÓN,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1043,Direc. Dptal. de Educación Tarija,REGISTRO DE PERSONAL DOCENTE Y DIRECTIVO RP-DGESTTLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1044,Direc. Dptal. de Educación Tarija,REGISTRO DE PERSONAL ADMINISTRATIVO RP- DGESTTLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1046,Direc. Dptal. de Educación Tarija,CIERRE DE INSTITUTOS TÉCNICOS O TECNOLÓGICOS DE CARÁCTER PRIVADO Y/O CARRERAS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1047,Direc. Dptal. de Educación Tarija,"CIERRE DE INSTITUTOS TÉCNICOS O TECNOLÓGICOS DE CARÁCTER FISCAL, CONVENIO Y/O CARRERAS",fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1048,Gobierno Autónomo Municipal de Cochabamba,"Autorización de viaje nacional para niñas, niños y adolescentes GAMC",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1050,Fondo de Financiamiento para la Minería,"Solicitud de Préstamo al Fondo de Financiento para la Mineria- FOFIM para Mecanización hasta Bs500.000,00",fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1056,Instituto Boliviano De Metrologia,INSPECCIÓN DE VEHÍCULOS MOTORIZADOS – ZONAS FRANCAS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1063,Ministerio de Educación,Legalización de Título Profesional por Revalidación y Homologación (otorgado por el Ministerio de Educación),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1064,Ministerio de Educación,Certificación de Resolución Vicerrectoral,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1066,Ministerio de Educación,Certificación de Aprobación de Examen de Grado,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1067,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Titulo Profesional - Técnico Medio (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1069,Ministerio de Educación,Legalización de Título Profesional - Técnico Medio (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1070,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Superior (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1073,Ministerio de Educación,Legalización de Título Profesional - Técnico Superior (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1074,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Licenciatura (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1076,Agencia Estatal de Vivienda,Departamento Condominio Wiphala,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1078,Agencia Estatal de Vivienda,Urbanización Villa Tunari,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1079,Ministerio de Educación,Legalización de Título Profesional - Licenciatura (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1080,Agencia Estatal de Vivienda,Urbanización Papa Francisco,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1082,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Medio (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1084,Ministerio de Educación,Legalización de Título Profesional - Técnico Medio (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1087,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Superior (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1089,Ministerio de Educación,Legalización de Título Profesional - Técnico Superior (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1091,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Licenciatura (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1094,Dirección General de Aeronáutica Civil,SOLICITUD DE CERTIFICACIÓN DE ALTURA DE ESTRUCTURAS CERCA A AEROPUERTOS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1096,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN DE AUTORIZACIONES DE INGRESO/SALIDA DE VUELOS NO REGULARES INTERNACIONALES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1100,Agencia Estatal de Vivienda,Departamento Condominio Altos de Cotoca,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1102,Agencia Estatal de Vivienda,Departamento Condominio Patujú,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1103,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN DE AUTORIZACIONES DE SALIDA/INGRESO DE VUELOS NO REGULARES INTERNACIONALES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1104,Ministerio de Educación,Legalización de Título Profesional - Licenciatura (Escuela Boliviana Intercultural de Danza),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1105,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Medio (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1106,Ministerio de Educación,Legalización de Título Profesional - Técnico Medio (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1107,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Superior (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1108,Ministerio de Educación,Legalización de Título Profesional - Técnico Superior (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1109,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Licenciatura (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1110,Ministerio de Educación,Legalización de Título Profesional - Licenciatura (Escuela Boliviana Intercultural de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1111,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Título Profesional - Técnico Superior (Universidades Privadas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1113,Dirección del Notariado Plurinacional,Atención de solicitudes de reposición de la matriz de escrituras públicas.,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1114,Ministerio de Educación,Legalización de Título Profesional - Técnico Superior (Universidades Privadas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1115,Dirección del Notariado Plurinacional,Legalización de documentos notariales para el exterior (Apostilla),fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1116,Dirección del Notariado Plurinacional,Atención de solicitudes de reposición de firmas en la matriz de escrituras públicas.,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1118,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Títulos Profesionales (UNIBOL),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1119,Dirección del Notariado Plurinacional,Registro y conciliación de depósitos erróneos,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1120,Ministerio de Educación,Certificación de Certificado de Universidad Plena de Universidades Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1121,Ministerio de Educación,Legalización de Título Profesional (UNIBOL),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1122,Ministerio de Educación,Certificación de otros Documentos Académicos Universitarios,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1123,Ministerio de Educación,Certificación de Documentos de las Escuelas Superiores de Formación de Maestros,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1125,Ministerio de Educación,Certificación de Certificados de Calificaciones de Universidad Estatal o Privada (Por Gestión),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1128,Ministerio de Educación,Certificación de Diploma Académico (Universidades Privadas),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1129,Autoridad Jurisdiccional Administrativa Minera,Contrato Administrativo Minero,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1132,Ministerio de Educación,Legalización de Título Profesional (Universidades Privadas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1133,Seguro Social Universitario de Beni,AFILIACION DE ASEGURADOS TITULARES,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1137,Ministerio de Educación,Certificación de Resolución Rectoral del Diploma Académico Original y/o Fotocopia,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1138,Ministerio de Educación,Certificación  de Carga  Horaria  Universitaria,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1141,Ministerio de Educación,Legalización de Resolución Ministerial de Centros de Capacitación Técnica Privados - CCTP,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1143,Ministerio de Educación,Certificación de Nota Ponderada,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1146,Ministerio de Educación,Certificación de Diploma de Postgrado de Diplomado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1148,Ministerio de Educación,Certificación de Certificados de Estudio de Unidades Educativas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1150,Ministerio de Educación,Certificación de Acta de Defensa de Grado (Universidad Estatal y Privada),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1152,Ministerio de Educación,Certificación de Certificado de Vencimientos de Plan de Estudios,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1153,Ministerio de Educación,Certificación de Diploma de Postgrado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1154,Ministerio de Educación,Certificación de Récord Académico de Universidades Privadas/Públicas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1155,Ministerio de Educación,Certificación de Certificado de Récord Académico,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1156,Ministerio de Educación,Certificación de Original o Fotocopia Legalizada de Diploma de Bachiller,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1157,Ministerio de Educación,Certificación de Certificado de Internado Rotatorio Carga Horaria,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1158,Ministerio de Educación,Certificación de Diploma Académico (Universidades Estatales),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1159,Ministerio de Educación,Legalización de Resolución de Homologación de TPM Idioma Ingles Otorgados por las Universidades Públicas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1160,Ministerio de Educación,Certificación de Título Profesional (Universidades Estatales),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1161,Ministerio de Educación,Legalización de Resolución de Revalidación de Titulo Extranjero de Técnico Superior en Educación,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1164,Ministerio de Educación,Certificación de Títulos/Diplomas de Postgrado (Universidades Publicas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1166,Ministerio de Educación,Otros Documentos Académicos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1167,Ministerio de Educación,Certificación de Certificado de Juramento Original y Fotocopia,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1171,Ministerio de Educación,Certificación de Histórico de Notas según Plan de Estudios,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1173,Ministerio de Educación,Legalización de Resoluciones de Titulares por Antigüedad,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1177,Ministerio de Educación,Certificación de Histórico de Notas según Plan de Estudios con Carga Horaria,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1180,Ministerio de Educación,Certificación de  Certificado Global de Notas (Universidad Estatal o Privada),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1181,Ministerio de Educación,Certificación  de  Nómina de Docentes,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1184,Ministerio de Educación,Certificación de Certificado de Vestibulares,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1190,Ministerio de Educación,Legalización Resolución Ministerial de Licenciatura Magisterio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1195,Ministerio de Educación,Legalización Resolución Bi Ministerial,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1201,Ministerio de Educación,Legalización Licenciatura Magisterio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1204,Ministerio de Educación,Certificado de Calificaciones Postgrado,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1212,Ministerio de Educación,Certificación de Programa Analítico de Internado Rotatorio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1216,Ministerio de Educación,Legalización de Título de Técnico Medio - Educación de Adultos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1220,Ministerio de Educación,Legalización de Certificado de Competencias,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1223,Ministerio de Educación,Certificación de Libretas Escolares  o  Electrónicas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1228,Ministerio de Educación,Legalización Título de Técnico Medio Bachiller - BTH,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1231,Ministerio de Educación,Certificación Certificado de Promedio General,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1232,Ministerio de Educación,Certificación de Historial Académico de Universidades Privadas/Públicas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1233,Ministerio de Educación,Certificación otros Documentos de Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1234,Ministerio de Educación,Certificación de Plan de Estudios con Carga Horaria (Institutos),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1235,Ministerio de Educación,Certificación de Certificado de Calificaciones con Carga Horaria de Universidades Privadas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1236,Ministerio de Educación,Certificación del Certificado de Egreso de Escuelas Normalistas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1237,Ministerio de Educación,Legalización Resolución Ministerial  o  Administrativa de Auxiliar de Enfermería,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1238,Seguro Social Universitario de Beni,AFILIACION DEL ESPOSO/A O CONVIVIENTE DEL ASEGURADO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1239,Ministerio de Educación,Legalización de Resoluciones Colegios/Escuelas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1240,Seguro Social Universitario de Beni,AFILIACION DE BENEFICIARIO PAREJA EN UNION LIBRE,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1241,Ministerio de Educación,Certificación de Certificado de Internado Rotatorio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1242,Ministerio de Educación,"Certificación de Resolución Rectoral de Universidades Privadas/Estatales (enmienda, corrección y otros)",fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1243,Seguro Social Universitario de Beni,AFILIACION HIJOS Y RECIEN NACIDOS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1244,Ministerio de Educación,Legalización Resolución Ministerial de Titulo Profesional - Técnico Medio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1245,Ministerio de Educación,Legalización de Certificado Supletorio/Resolución Administrativa por extravió y/o deterioro de Título Profesional de Auxiliar de Enfermería,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1246,Ministerio de Educación,Legalización de habilitación de examen de grado (nota y formulario),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1247,Servicio Nacional De Patrimonio Del Estado,DECLARACIÓN JURADA DE BIENES DEL ESTADO,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1250,Ministerio de Educación,Certificación de Plan de Estudio con Carga Horaria,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1253,Ministerio de Educación,Legalización Resolución Ministerial de Visación,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1255,Seguro Social Universitario de Beni,AMPLIACIÓN DE BENEFICIARIOS HIJOS(AS) HASTA LOS 19 AÑOS CUMPLIDOS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1256,Ministerio de Educación,Certificación de Tabla de Equivalencia de Universidades Privadas/Públicas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1257,Ministerio de Educación,Certificación de Certificado de Plan de Estudio (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1258,Seguro Social Universitario de Beni,AMPLIACIÓN DE BENEFICIARIOS HIJOS(AS) MAYORES DE 19 AÑOS HASTA LOS 25 AÑOS CUMPLIDOS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1259,Empresa Pública Departamental De Servicios Electricos Tarija,Asignación o modificación de NIT,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1260,Empresa Pública Departamental De Servicios Electricos Tarija,Traslado de Medidor,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1262,Direc. Dptal. de Educación  Chuquisaca,Legalizacion de la Fotocopia de Diplomas de Bachiller,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1264,Seguro Social Universitario de Beni,"AFILIACION DE RENTISTAS, JUBILADOS O PENSIONADOS",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1265,Empresa Pública Departamental De Servicios Electricos Tarija,Instalación nueva para personas naturales,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1266,Ministerio de Educación,Certificación de  Tabla de Equivalencia con Carga  Horaria,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1267,Ministerio de Educación,Certificación de Certificado de Alumno Regular (Conservatorio Plurinacional de Música),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1268,Ministerio de Educación,Certificación de Certificado de Estructura General del Internado Rotatorio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1269,Ministerio de Educación,Certificado de Notas de Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1270,Ministerio de Educación,Certificación de Certificado de Notas (Escuela de Bellas Artes),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1271,Ministerio de Educación,Certificación de Certificado de Notas (Conservatorio Plurinacional de Música),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1272,Ministerio de Educación,Certificación de Resolución Administrativa por Extravío de Diploma de Bachiller,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1273,Ministerio de Educación,Legalización de Resolución Ministerial de Titulo Profesional por Revalidación y Homologación (otorgado por el Ministerio de Educación),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1275,Ministerio de Educación,Certificación de Certificado de Estructura General del Internado Rotatorio con Carga Horaria,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1278,Ministerio de Educación,Certificación de Convenio (Universidades),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1279,Ministerio de Educación,Legalización de Resoluciones Administrativas de Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1280,Ministerio de Educación,Certificación de Certificado de Alumno Regular,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1281,Ministerio de Educación,Certificación de Historial Académico de Universidades con Carga Horaria,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1282,Ministerio de Educación,Certificación de Certificados de Calificaciones de Universidad (Semestral),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1283,Ministerio de Educación,Legalización Resolución Ministerial de Titulo Profesional - Técnico Superior,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1284,Ministerio de Educación,Legalización de Título de Bachiller - Gestiones Pasadas 1971 - 1972,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1285,Empresa Municipal de Gestión de Residuos Sólidos,CERTIFICACION DE SERVICIO DE ASEO,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1286,Ministerio de Educación,Legalización de Resolución Ministerial Instituto Público,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1288,Ministerio de Educación,Certificación de Certificado Global de Notas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1289,Seguro Social Universitario de Beni,AFILIACION PARA BENEFICIARIOS DERECHOHABIENTES,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1290,Direc. Dptal. de Educación  Chuquisaca,Resolución de Unidades Educativas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1291,Ministerio de Educación,Legalización de Certificado Supletorio/Resolución Administrativa por extravió y/ o deterioro de Título Profesional de Técnico Medio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1292,Seguro Social Universitario de Beni,AFILIACION DE ESTUDIANTES UNIVERSITARIOS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1293,Ministerio de Educación,Certificación de Certificado de Notas (por Gestión) (Institutos),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1294,Seguro Social Universitario de Beni,RENOVACION DEL CARNET DE ESTUDIANTE UNIVERSITARIO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1295,Seguro Social Universitario de Beni,RENOVACION DE CARNET DE ASEGURADO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1296,Direc. Dptal. de Educación  Chuquisaca,Visación de Poderes,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1297,Ministerio de Educación,Legalización de Resolución Ministerial Instituto Privado,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1298,Empresa Municipal de Gestión de Residuos Sólidos,CONTRATO SEI,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1299,Ministerio de Educación,Legalización de Certificado Supletorio/Resolución Administrativa por extravió y/o deterioro de Título Profesional de Universidades Privadas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1300,Empresa Municipal de Gestión de Residuos Sólidos,CONTRATO RES,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1301,Seguro Social Universitario de Beni,RENOVACION DEL CARNET BENEFICIARIO HIJO(A),fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1303,Ministerio de Educación,Certificación de Certificado de Juramento (Instituto),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1304,Seguro Social Universitario de Beni,"RENOVACION DEL CARNET DE BENEFICIARIO, ESPOSO(A), PAREJA EN UNION LIBRE Y PADRES",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1305,Tribunal Supremo de Justicia,Seguimiento de Causas y Presentación de Memorial al TSJ,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1306,Direc. Dptal. de Educación  Chuquisaca,Legalización de Fotocopias de Resoluciones,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1307,Ministerio de Educación,Legalización de Certificado Supletorio/Resolución Administrativa por extravió y/o deterioro de Título Profesional de Técnico Superior de Institutos Técnicos Tecnológicos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1308,Empresa Municipal de Gestión de Residuos Sólidos,CERTIFICACION POR PAGO DE TASA DE ASEO,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1309,Servicio Nacional Del Sistema De Reparto,CERTIFICADO DE RENTISTA NO RENTISTA Y COMPENSACIÓN DE COTIZACIONES - PRESENCIAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1310,Tribunal Supremo de Justicia,Buzón Judicial del TSJ,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1311,Ministerio de Educación,Certificación de Programas Analíticos Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1313,Empresa Pública Departamental De Servicios Electricos Tarija,Atención A Reclamos De Clientes,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1314,Ministerio de Educación,Certificación del Internado Hospitalario Rotatorio (Instituto),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1315,Empresa Pública Departamental De Servicios Electricos Tarija,Cambio de Medidor por reclamo del consumidor,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1316,Ministerio de Educación,Certificación de Carga Horaria Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1317,Ministerio de Educación,Concentrado de Notas Histórico Académico Récord Académico,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1318,Ministerio de Educación,Certificación de Resolución  Rectoral,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1319,Direc. Dptal. de Educación  Chuquisaca,"Certificaciones De No Contar Con Proceso Administrativo Y Certificado De No Contar Con Imputación En Los Casos De Acoso Y Violencia Sexual Contra Estudiantes, En El Marco De Los Decretos Supremos Nº 1302 Y 1320",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1320,Ministerio de Educación,Legalización de Resoluciones Administrativas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1321,Ministerio de Educación,Legalización de Certificado Supletorio/Resolución Administrativa por extravió y/o deterioro de Título Profesional por Revalidación y Homologación,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1323,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Rectificación de Datos en Declaración Jurada,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1324,Ministerio de Educación,Legalización de Títulos Profesionales  -  Auxiliar de Enfermería,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1325,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Homologación de Licencia Indefinida,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1326,Ministerio de Educación,Certificación Plan de Estudios Institutos,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1327,Ministerio de Educación,Certificación de Certificado de Equivalencia de Notas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1328,Ministerio de Educación,Legalización de Convenio que cuente el Archivo Central,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1329,Ministerio de Educación,"Legalización de Copia de Estatuto de Universidades Privadas, Indígenas y de Régimen Especial",fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1330,Ministerio de Educación,Certificación de Programa Analítico (Universidad Estatal o Privada),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1331,Ministerio de Educación,Legalización de Títulos Profesionales - Técnico Medio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1332,Ministerio de Educación,Legalización de Copia de Resolución Ministerial de Títulos Profesionales (Universidades Privadas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1333,Ministerio de Educación,Legalización de Títulos Profesionales - Técnico   Superior,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1334,Empresa Municipal de Gestión de Residuos Sólidos,CERTIFICACION POR CAPACITACION AMBIENTAL EN CTRS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1335,Ministerio de Educación,Certificación de Certificados de Estudio Postgrado (Universidad Estatal y Privada),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1336,Ministerio de Educación,Legalización de Copia Resolución Secretarial o Ministerial (Universidades Privadas),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1337,Ministerio de Educación,Otros Documentos que cuente el Archivo Central,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1339,Ministerio de Educación,Legalización Resolución Ministerial de Apertura y/o Ampliación de Carreras,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1340,Ministerio de Educación,Certificación de Plan de Estudios (Universidad Estatal y Privada),fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1341,Ministerio de Educación,Certificación de Resolución Rectoral de Convalidación de Materias,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1342,Ministerio de Educación,Título Profesional a nivel de Licenciatura y Técnico Superior de Universidades Privadas.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1343,Ministerio de Educación,"Título Profesional a nivel de Licenciatura, Técnico Superior y Técnico Medio de la Universidad Policial Mcal. Antonio José de Sucre.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1344,Ministerio de Educación,"Título Profesional a nivel de Licenciatura y Técnico Superior de la Universidad Militar ""Mariscal Bernardino Bilbao Rioja"".",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1346,Ministerio de Educación,Título Profesional a nivel de Técnico Medio de la Escuela Nacional de Salud y Escuela Técnica de Salud Boliviano - Japonesa de Cooperación Andina.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1347,Ministerio de Educación,"Título Profesional a nivel de Técnico Medio del área de salud de Institutos Técnicos Tecnológicos de carácter Fiscal, de Convenio y Privado.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1348,Ministerio de Educación,Certificado Supletorio de Título en Provisión Nacional o Título Profesional.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1351,Autoridad de Fiscalización del Juego,Solicitud de Autorizacion de Promocion Empresarial,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1352,Autoridad de Fiscalización del Juego,Solicitud de ampliación/modificación de promociones empresariales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1353,Autoridad de Fiscalización del Juego,Solicitud de Credencial de acceso a la Plataforma AJ en linea,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1356,Direc. Dptal. de Educación  Chuquisaca,"Regularización, Rectificación y Adición de Notas",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1358,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Certificado de Egreso Supletorio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1361,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Rectificación de Nombre(s) y/o Apellido(s) en Duplicados de Boletas de Pago,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1363,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Autorización para Modificación Solicitada por el Usuario,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1366,Direc. Dptal. de Educación  Chuquisaca,ACTUALIZACIONES DE RDA A RP-DIDEP,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1369,Direc. Dptal. de Educación  Chuquisaca,Hoja de Categoría,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1372,Autoridad de Fiscalización del Juego,Solicitud de Licencia de Operaciones para Juegos de azar y sorteos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1374,Ministerio de Relaciones Exteriores,SERVICIO DE APOSTILLA,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1385,Autoridad de Fiscalización del Juego,Solicitud de Licencia de Operaciones para Juegos de Lotería,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1404,Autoridad de Fiscalización del Juego,Solicitud de registro y autorización como empresa acreditada para expedir certificados de cumplimiento,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1407,Direc. Dptal. de Educación  Chuquisaca,Inscripción Escalafón,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1408,Direc. Dptal. de Educación  Chuquisaca,Reconocimiento de Años de Servicio como Director Encargado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1409,Direc. Dptal. de Educación  Chuquisaca,Reconocimiento de Años de Servicio Prestados en Unidades Educativas con Recursos IDH,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1435,Autoridad de Fiscalización del Juego,"Solicitud de registro y autorización como fabricante acreditado de máquinas de juego o medios de juegos, de lotería, azar y sorteos.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1438,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN Y/O RENOVACIÓN DE CERTIFICADO DE AERONAVEGABILIDAD,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1440,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN DEL CERTIFICADO DE HOMOLOGACIÓN DE RUIDO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1441,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN DEL PERMISO ESPECIAL DE VUELO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1442,Dirección General de Aeronáutica Civil,SOLICITUD DE ACEPTACIÓN DEL CERTIFICADO DE TIPO (CT),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1443,Dirección General de Aeronáutica Civil,SOLICITUD DE EMISIÓN DEL CERTIFICADO DE AERONAVEGABILIDAD DE EXPORTACIÓN,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1444,Dirección General de Aeronáutica Civil,SOLICITUD DE CERTIFICACIÓN DE UNA ORGANIZACIÓN DE MANTENIMIENTO APROBADA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1445,Dirección General de Aeronáutica Civil,SOLICITUD DE ACEPTACIÓN DE TIPO SUPLEMENTARIO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1446,Dirección General de Aeronáutica Civil,SOLICITUD EXPEDICIÓN DE AUTORIZACIÓN PREVIA DE IMPORTACIÓN DE AERONAVES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1447,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Autorización de Horas Particulares,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1449,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Autorización de Horas Paralelas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1450,Direc. Dptal. de Educación  Chuquisaca,Título Profesional de Maestro(a),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1451,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Autorización de Ampliación de Carreras para Institutos Técnicos y Tecnológicos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1454,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Ratificación de Apertura y Funcionamiento de Institutos Técnicos y Tecnológicos de Carácter Privado (Sede Central y Subsede),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1455,Direc. Dptal. de Educación  Chuquisaca,"Resolución Administrativa de Apertura y Legal Funcionamiento de Institutos Técnicos y Tecnológicos de Carácter Fiscal, Convenio y Privado (Sede Central y Subsede)",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1456,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Traspaso de Estudiantes,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1457,Direc. Dptal. de Educación  Chuquisaca,Autorización de Compra de Certificados de Calificación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1458,Direc. Dptal. de Educación  Chuquisaca,Autorización de Compra de Certificados de Egreso y Capacitación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1459,Direc. Dptal. de Educación  Chuquisaca,Legalización de Certificado de Egreso y Capacitación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1460,Servicio Nacional Del Sistema De Reparto,TRÁMITE DE COMPENSACIÓN DE COTIZACIONES - PROCEDIMIENTO AUTOMÁTICO (Proceso Abreviado),fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1461,Servicio Nacional Del Sistema De Reparto,TRÁMITE DE COMPENSACIÓN DE COTIZACIONES - PROCEDIMIENTO MANUAL,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1462,Servicio Nacional Del Sistema De Reparto,TRÁMITE DE COMPENSACIÓN DE COTIZACIONES - PROCEDIMIENTO AUTOMÁTICO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1500,Direc. Dptal. de Educación  Chuquisaca,Verificación para Instituto de Educación Superior,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1501,Direc. Dptal. de Educación  Chuquisaca,Duplicado de Boleta de Pago,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1505,Dirección General de Aeronáutica Civil,"REQUISITOS PARA OTORGACIÓN 
+DE MATRICULA PROVISIONAL",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1506,Dirección General de Aeronáutica Civil,DUI/DUE,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1507,Dirección General de Aeronáutica Civil,SOLICITUD DE INSCRIPCIÓN DE TRANSFERENCIA DE AERONAVES BOLIVIANAS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1508,Dirección General de Aeronáutica Civil,"PROCEDIMIENTO PARA EL 
+REGISTRO Y HABILITACIÓN DE 
+AERÓDROMOS PRIVADOS Y 
+RESTRINGIDOS",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1510,Dirección General de Aeronáutica Civil,SOLICITUD DE CERTIFICACIÓN DE INSTRUCTOR EN SEGURIDAD DE LA AVIACÍON CIVIL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1511,Direc. Dptal. de Educación  Chuquisaca,Legalización de Boletines o Centralizadores de Notas,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1512,Direc. Dptal. de Educación  Chuquisaca,Supletorio de Certificado de Egreso,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1513,Direc. Dptal. de Educación  Chuquisaca,Regularización de Cursos Vencidos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1514,Direc. Dptal. de Educación  Chuquisaca,"REGULARIZACIÓN, RECTIFICACIÓN Y ADICIÓN DE NOTAS GESTIÓN 2014-2015-2016",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1516,Direc. Dptal. de Educación  Chuquisaca,Resolución Administrativa de Rectificación de Nombre(s) y/o Apellido(s),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1517,Direc. Dptal. de Educación  Chuquisaca,Adición o Supresión de Nombre(s) y/o Apellido(s) en Diploma de Bachiller,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1518,Direc. Dptal. de Educación  Chuquisaca,Licencia Indefinida,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1525,Direc. Dptal. de Educación  Chuquisaca,"Regularización, Rectificación y Adición de Notas antes de la Gestión 2014",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1526,Direc. Dptal. de Educación  Chuquisaca,Convalidación y Homologación de Notas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1527,Direc. Dptal. de Educación  Chuquisaca,Permuta de Cargos Docentes,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1528,Ministerio de Relaciones Exteriores,SERVICIO DE LEGALIZACIONES,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1531,"Ministerio de Desarrollo Productivo, Rural y Agua",AUTORIZACIONES PREVIAS DE IMPORTACION,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1533,Seguro Social Universitario de Oruro,Afiliación de beneficiario hijo menor a 19 años,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1534,"Ministerio de Desarrollo Productivo, Rural y Agua",REGISTRO UNICO DE IMPORTADOR,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1535,Universidad Mayor de San Simón,LEGALIZACIÓN DE FOTOCOPIA DE DIPLOMA DE BACHILLER,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1536,Universidad Mayor de San Simón,FOTOC. DIPL. BACHILLER - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1538,Contraloria General del Estado,Certificado de Información sobre Solvencia con el Fisco (Contratación de Bienes Servicios y Obras),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1541,Servicio Nacional De Verificacion De Exportaciones,REGISTRO ÚNICO DE EXPORTADORES,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1542,Servicio Nacional De Verificacion De Exportaciones,DECLARACIÓN JURADA DE ORIGEN,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1543,Servicio Nacional De Verificacion De Exportaciones,CERTIFICADOS DE ORIGEN,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1544,Servicio Nacional De Verificacion De Exportaciones,CERTIFICADO DE ORIGEN DE CAFE,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1546,Mutual de Servicios al Policía,Préstamo Anticipo Para el Sector Activo,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1552,Escuela de Gestión Pública Plurinacional,SOLICITUD DE CONSTANCIAS DE APROBACIÓN,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1553,Universidad Mayor de San Simón,TITULO EN PROVISION NACIONAL - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1554,Escuela de Gestión Pública Plurinacional,SOLICITUD DE ENVÍO DE CERTIFICADOS (FORMATO FÍSICO) A OTROS DEPARTAMENTOS (BOLIVIA),fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1555,Escuela de Gestión Pública Plurinacional,RECOJO DE CERTIFICADO (FORMATO FÍSICO) POR TERCERA PERSONA,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1556,Escuela de Gestión Pública Plurinacional,RECOJO DE CERTIFICADO (FORMATO FÍSICO) PERSONAL,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1557,Escuela de Gestión Pública Plurinacional,"SOLICITUD DE PROGRAMACIÓN DE EVENTOS DE CAPACITACIÓN ""CERRADOS""",fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1558,Escuela de Gestión Pública Plurinacional,OFERTA DE BECAS,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1559,Escuela de Gestión Pública Plurinacional,EMISIÓN DE CERTIFICADOS EN FORMATO DIGITAL,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1560,Universidad Mayor de San Simón,DIPLOMA ACADEMICO - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1562,Universidad Mayor de San Simón,CERT. DE NOTAS - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1563,Universidad Mayor de San Simón,FOTOC. TIT. PROV. NAL. - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1564,Universidad Mayor de San Simón,CERT. CONVERSION DE NOTAS - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1565,Universidad Mayor de San Simón,CERT. UNIVERSIDAD PLENA - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1566,Universidad Mayor de San Simón,DIPLOMA DE BACHILLER - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1567,Universidad Mayor de San Simón,PLAN DE ESTUDIOS - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1568,Universidad Mayor de San Simón,LEGALIZACIÓN DE FOTOCOPIA DE DIPLOMA ACADEMICO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1569,Universidad Mayor de San Simón,"LEG. FOTOC. TIT/DIPL: DOC,MASTER,DIPL,ESPEC",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1570,Escuela de Gestión Pública Plurinacional,Registro a eventos de capacitación,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1575,Universidad Mayor de San Simón,CERT. ACREDIT. DIPL. ACADEMICO - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1576,Universidad Mayor de San Simón,PROGRAMAS ANALITICOS - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1577,Universidad Mayor de San Simón,CARGA HORARIA - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1578,Universidad Mayor de San Simón,FOTOC. DIPL. ACADEMICO - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1579,Universidad Mayor de San Simón,CERT. ACREDIT. TIT. PROV. NAL. - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1580,Universidad Mayor de San Simón,CERT. AL MERCOSUR - APOSTILLA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1581,Universidad Mayor de San Simón,LEG. FOTOC. TIT. PROV. NAL. ALUM. NAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1582,Universidad Mayor de San Simón,VERIF. AUTENT. FOTOC. TIT. PROV. NACIONAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1583,Universidad Mayor de San Simón,LEG.FOTOC.DOC. VARIOS 1 EJEMPLARES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1584,Universidad Mayor de San Simón,LEG. FOTOC. RR POR EXCELENCIA UNIVERSITARIA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1586,Universidad Mayor de San Simón,VERIF. AUTENT. FOTOC. DIPL. ACADEMICO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1587,Universidad Mayor de San Simón,CERT. NO ATENTADO P/CONVOCAT DOCENCIA/AUXILIATURA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1588,Universidad Mayor de San Simón,VERIF. AUTENT. FOTOC. DIPL. BACHILLER,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1589,Universidad Mayor de San Simón,LEG.FOTOC.DOC. VARIOS 2 EJEMPLARES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1590,Universidad Mayor de San Simón,LEG. FOTOC. RR-RCU-RS-RVR,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1591,Universidad Mayor de San Simón,CERT. NO ATENTADO P/ESTUDIANTES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1593,Universidad Mayor de San Simón,BUSQUEDA DOCUMENTOS ARCHIVADOS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1594,Universidad Mayor de San Simón,VERIF. AUTENT. FOTOC. TIT. POSGRADO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1595,Universidad Mayor de San Simón,CERT. NO ATENTADO P/ELEC. DOCENTES,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1596,Universidad Mayor de San Simón,TITULO PROFESIONAL,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1597,Universidad Mayor de San Simón,DIPLOMA DE BACHILLER,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1598,Universidad Mayor de San Simón,CERTIFICADO ACADEMICO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1599,Universidad Mayor de San Simón,REVALIDA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1600,Universidad Mayor de San Simón,DIPLOMA ACADEMICO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1601,Autoridad de Fiscalización del Juego,Solicitud de Registro de distribuidor autorizado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1603,Autoridad de Fiscalización del Juego,Solicitud de registro de certificado de cumplimiento,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1608,Contraloria General del Estado,Certificado de Información sobre Solvencia con el Fisco (para posesión en el cargo),fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1609,Contraloria General del Estado,Certificado de Información sobre Solvencia con el Fisco (Para Trámites Administrativos),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1610,Contraloria General del Estado,Solicitud de Bajas y Exclusiones Temporales de registro,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1611,Contraloria General del Estado,Declaración Jurada de Bienes y Rentas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1612,Autoridad de Fisc y Ctrol Soc de Agua Potable Saneam.Básico,Reclamación Administrativa por deficiencias en la prestación del servicio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1622,Seguro Social Universitario de Oruro,"Afiliación de Beneficiarios Esposa (o), Union Libre",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1624,Seguro Social Universitario de Oruro,Afiliación del Trabajador Titular al SSU,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1625,Seguro Social Universitario de Oruro,Ampliación de prestaciones a Beneficiarios Hijos hasta cumplidos los 25 años,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1626,Instituto Nacional de Estadística,Certificación del Censo 2024,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1627,Unidad De Proyectos Especiales,Registro de Empresa - SIGA,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1642,Mutual de Servicios al Policía,Cuota Mortuoria al Fallecimiento del (la) titular en Cumplimiento de Funciones - Solicitado por la Viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1643,Mutual de Servicios al Policía,Pago del Complemento Económico - Viuda (o) - Inclusión y Habilitación,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1644,Mutual de Servicios al Policía,Pago del Complemento Económico - Huérfano (s) Absoluto (s) - Inclusión y Habilitación,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1645,Mutual de Servicios al Policía,Devolución de Aportes por Fallecimiento,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1646,Mutual de Servicios al Policía,Cuota Mortuoria al Fallecimiento del (la) titular por Riesgo Común Solicitado por la Viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1647,Mutual de Servicios al Policía,Cuota Mortuoria al Fallecimiento del (la) Cónyuge,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1648,Mutual de Servicios al Policía,Devolución de Aportes al Titular,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1649,Mutual de Servicios al Policía,Cuota mortuoria - Pago Excepcional para Gastos Funerarios y/o Sepelio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1650,Mutual de Servicios al Policía,Pago del Beneficio Fondo de Retiro Policial Solidario por Fallecimiento,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1651,Mutual de Servicios al Policía,Cuota Mortuoria - Pago Excepcional del 50% del Beneficio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1652,Mutual de Servicios al Policía,Auxilio Mortuorio por el Fallecimiento del (la) titular - Solicitado por la Viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1653,Mutual de Servicios al Policía,Auxilio Mortuorio al Fallecimiento del (la) Cónyuge,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1654,Mutual de Servicios al Policía,Auxilio Mortuorio al Fallecimiento de la Viuda (o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1655,Mutual de Servicios al Policía,Auxilio Mortuorio - Pago Excepcional para Gastos Funerarios y/o Sepelio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1656,Mutual de Servicios al Policía,Auxilio Mortuorio - Pago Excepcional del 50% del Beneficio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1657,Mutual de Servicios al Policía,Pago del Beneficio Fondo de Retiro Policial Solidario por Jubilación,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1658,Mutual de Servicios al Policía,Pago del Beneficio Fondo de Retiro Policial Solidario por Retiro Forzoso,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1659,Mutual de Servicios al Policía,Pago del Beneficio Fondo de Retiro Policial Solidario por Retiro Voluntario,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1660,Mutual de Servicios al Policía,Pago global de aportes por fallecimiento,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1661,Mutual de Servicios al Policía,Pago global de aportes por invalidez permanente,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1662,Mutual de Servicios al Policía,Pago global de aportes por jubilación debido a reincorporación,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1663,Órgano Judicial,PRESENTACIÓN NULIDAD Y ANULABILIDAD DE TÍTULO EJECUTORIAL,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1664,Gestora Pública de la Seguridad Social de Largo Plazo,Registro Biométrico de los Beneficiarios,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1666,Órgano Judicial,PRESENTACIÓN DE UNA DEMANDA CONTENCIOSA ADMINISTRATIVA,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1670,Depósitos Aduaneros Bolivianos,CONTROL DE TRÁNSITOS DE EXPORTACIÓN,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1672,Ministerio de Economía y Finanzas Públicas,CERTIFICADO DE CALIFICACIÓN DE AÑOS DE SERVICIO,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1673,Ministerio de Economía y Finanzas Públicas,CERTIFICADO DE NO SERVIDOR PÚBLICO,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1674,Ministerio de Economía y Finanzas Públicas,LEGALIZACIÓN DE CERTIFICADOS DE LA UCAS,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1679,Servicio Nacional de Meteorología e Hidrología,Venta de instrumentos meteorológicos,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1680,Gestora Pública de la Seguridad Social de Largo Plazo,Obtención de credenciales para el Asegurado,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1681,Gestora Pública de la Seguridad Social de Largo Plazo,Obtención de Credenciales para el Empleador,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1682,Gestora Pública de la Seguridad Social de Largo Plazo,Pago de Contribuciones para el Empleador,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1683,Gestora Pública de la Seguridad Social de Largo Plazo,Pago de Contribuciones para el Asegurado Independiente y/o Consultor,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1684,Gestora Pública de la Seguridad Social de Largo Plazo,Enrolamiento Biométrico,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1685,Gestora Pública de la Seguridad Social de Largo Plazo,Registro Trabajador Sector Minero Metalúrgico,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1687,Gestora Pública de la Seguridad Social de Largo Plazo,Emisión de estado de ahorro previsional,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1688,Gestora Pública de la Seguridad Social de Largo Plazo,Registro Trabajador Independiente,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1689,Gestora Pública de la Seguridad Social de Largo Plazo,Registro Trabajador Dependiente,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1690,Gestora Pública de la Seguridad Social de Largo Plazo,Registro trabajador consultor,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1691,Gestora Pública de la Seguridad Social de Largo Plazo,Emisión de Certificado de No Adeudo,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1692,Autoridad de Fiscalización de Electricidad y Tecnología Nuclear,Atención de Denuncias,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1693,Gestora Pública de la Seguridad Social de Largo Plazo,Registro Empleador,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1694,Gestora Pública de la Seguridad Social de Largo Plazo,Modificación de Registro de Beneficiario de la Renta Dignidad,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1695,Gestora Pública de la Seguridad Social de Largo Plazo,Pago a Domicilio,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1696,Gestora Pública de la Seguridad Social de Largo Plazo,Gastos Funerales,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1697,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Compensación de Cotizaciones Mensual,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1698,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Masa Hereditaria,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1699,Autoridad de Fiscalización de Electricidad y Tecnología Nuclear,Atención de Reclamaciones Administrativas,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1700,Autoridad de Fiscalización de Electricidad y Tecnología Nuclear,Tramitación de Recursos de Revocatoria contra Resoluciones Administrativas de Infracciones y Sanciones (RAIS) Impuestas por las Empresas Distribuidoras a los Consumidores,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1701,Autoridad de Fiscalización de Electricidad y Tecnología Nuclear,Tramitación de Recursos de Revocatoria contra Resoluciones Emitidas contra la Autoridad de Fiscalización de Electricidad y Tecnología Nuclear (AETN),fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1702,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Gastos Funerarios,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1703,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Pensión de Jubilación,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1704,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Pensión por Muerte,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1705,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Retiros,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1706,Gestora Pública de la Seguridad Social de Largo Plazo,Solicitud de Pensión por Invalidez,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1707,Gestora Pública de la Seguridad Social de Largo Plazo,Alta de registro de beneficiario de la Renta Dignidad,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1708,Escuela de Jueces del Estado,DESCARGA DE CERTIFICADO DE PARTICIPACION,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1709,Escuela de Jueces del Estado,DESCARGA DE CERTIFICADO DE APRENDIZAJE,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1710,Escuela de Jueces del Estado,solicitudes al correo institucional de la escuela de jueces,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1712,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1713,Mutual de Servicios al Policía,Pago global de aportes por Jubilación,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1714,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1715,Autoridad Jurisdiccional Administrativa Minera,Certificado de Área Minera Libre,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1724,Direc. Dptal. de Educación Beni,Derecho a Revisión de Archivo de Planillas Salariales y/o Fotocopia Legalizada,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1725,Direc. Dptal. de Educación Beni,"Certificado de Trabajo para el personal Directivo, Maestros, Administrativos de Unidades Educativas y Centros de Educación Alternativa y Especial",fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1726,Direc. Dptal. de Educación Beni,Fotocopia de Reporte de Acefalía,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1727,Direc. Dptal. de Educación Beni,Derecho a Registro Pre-Natal,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1728,Direc. Dptal. de Educación Beni,Derecho a Registro de Lactancia,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1729,Direc. Dptal. de Educación Beni,Legalización de Poder Notariado de Maestras(os),fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1730,Direc. Dptal. de Educación Beni,Derecho a Proceso de Memorándum,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1731,Direc. Dptal. de Educación Beni,Abono a cuenta,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1732,Direc. Dptal. de Educación Beni,Derecho a trámite de llenado de formulario preocupacional,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1733,Direc. Dptal. de Educación Beni,Modificación de Calificaciones Gestión Vigente del Subsistema de Educación Regular,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1734,Gobierno Autónomo Municipal de Sucre,SERVICIO DE TRACTOR AGRICOLA,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1735,Direc. Dptal. de Educación Beni,"Certificación de Inscripción, No Inscripción y/o  Certificación de Calificaciones de Estudiantes en el SIE",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1736,Direc. Dptal. de Educación Beni,Apostillado de documentos del Sistema Educativo,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1737,Direc. Dptal. de Educación Beni,Impresión de Diplomas de Bachiller con costo antes de la gestión 2009,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1739,Direc. Dptal. de Educación Beni,Impresión de Historial Académico de Educación Regular - Alternativa y especial,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1740,Direc. Dptal. de Educación Beni,Corrección de Datos de Diploma de Bachiller Gratuitos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1741,Direc. Dptal. de Educación Beni,Baja y reimpresión de Diploma de Bachiller gratuito,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1743,Direc. Dptal. de Educación Beni,Baja y Reimpresión de Diploma de Bachiller  con costo,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1744,Direc. Dptal. de Educación Beni,Certificado Supletorio de Diploma de Bachiller Gratuito,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1745,Direc. Dptal. de Educación Beni,Legalización de Diploma de Bachiller (Gratuito - con Costo)-DDEB,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1746,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,LICENCIAS DE FILMACIÓN EN BOLIVIA,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1747,Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo,Remate de maquinaria recuperada,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1748,Gobierno Autónomo Municipal de Sucre,INFORME TÉCNICO JURÍDICO PARA EL TRAMITE DE LICENCIA DE FUNCIONAMIENTO,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1749,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,CERTIFICADO DE RECONOCIMIENTO PREVIO DE COPRODUCCION,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1750,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,CONTRATO DE COPRODUCCIÓN,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1754,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,REGISTRO DE PELÍCULA NACIONAL,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1755,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,REGISTRO DE FILME EXTRANJERO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1756,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,"REGISTRO DE EMPRESA PRUDUCTORA, COMERCIALIZADORA Y DISTRIBUIDORA",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1757,Agencia del Desarrollo del Cine y Audiovisual Bolivianos,REGISTRO PRODUCTOR INDEPENDIENTE,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1759,Serv. Nal. de Reg. y Control de la Comer. de Minerales y Metales,Registro de Número de Identificación de Agente de Retención (N.I.A.R.),fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1760,Serv. Nal. de Reg. y Control de la Comer. de Minerales y Metales,Actualización de Número de Identificación Minera (N.I.M.),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1761,Serv. Nal. de Reg. y Control de la Comer. de Minerales y Metales,Actualización de Número de Identificación de Agente de Retención (N.I.A.R.),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1762,Serv. Nal. de Reg. y Control de la Comer. de Minerales y Metales,Formulario M-02 - Formulario de Compra Venta de Minerales y Metales,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1764,Gobierno Autónomo Municipal de Sucre,FORMULARIO DE PERMISO DE VIAJE PARA MENORES DE EDAD,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1765,Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo,Solicitud de certificado de cancelación total del crédito,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1766,Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo,Solicitud de certificado de vigencia de operación de crédito,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1767,Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo,Venta directa de maquinaria recuperada,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1812,Fondo de Desarrollo del Sist.Fin. y Apoyo al Sec.Productivo,Transferencia de la Maquinaria al Pago Final de la Deuda,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1829,Seguro Social Universitario de Oruro,Afiliación de Beneficiarios Padres,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1830,Seguro Social Universitario de Oruro,"Afiliación de Rentistas, Jubilados y Pensionados",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1831,Seguro Social Universitario de Oruro,Afiliación de Derechohabiente,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1832,Ministerio de Educación,"Título de Auxiliar en Enfermería de Institutos Técnicos y Tecnológicos, Escuela Nacional de Salud, Escuela Técnica de Salud Boliviano Japonesa de Cooperación Andina.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1865,Direc. Dptal. de Educación Beni,Legalización de Diploma de Bachiller (Gratuito - con Costo) - Ministerio de Educación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1866,Direc. Dptal. de Educación Beni,Legalización de Notas - Libretas Electrónicas por la DDE-BENI,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1867,Direc. Dptal. de Educación Beni,Legalización de Notas - Libreta Escolar DDE-BENI,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1868,Direc. Dptal. de Educación Beni,Legalización de Notas - Libretas Electrónicas por el Ministerio de Educación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1869,Direc. Dptal. de Educación Beni,Legalización de Notas - Certificados de Calificación de Estudio por el Ministerio de Educación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1870,Direc. Dptal. de Educación Beni,Certificación de Diplomas de Bachiller y Legalización de Notas que se encuentran en  Proceso de Trámite,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1871,Direc. Dptal. de Educación Beni,Derecho a Revisión de Archivo de Libros Centralizadores de Notas y/o Fotocopia Legalizada de Libros Centralizadores de Notas,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1872,Direc. Dptal. de Educación Beni,Derecho a revisión de Archivo de documentación respaldatoria de Diplomas de Bachiller (Libretas Digitales o Certificados de Estudios legalizados) y/o Fotocopia Legalizada de Libretas Digitales o Certificados de Estudios legalizados,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1875,Direc. Dptal. de Educación Beni,Certificación de otros trámites en proceso de la Dirección Departamental de Educación del Beni,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1876,Direc. Dptal. de Educación Beni,Impresión de Credencial de RDA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1877,Direc. Dptal. de Educación Beni,Titulo Profesional de Maestras(os) para egresados antes de la gestión 2014,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1878,Direc. Dptal. de Educación Beni,Legalización de Título Profesional Magisterio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1879,Direc. Dptal. de Educación Beni,Legalización Resolución Ministerial Licenciatura Magisterio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1880,Direc. Dptal. de Educación Beni,Legalización de Resoluciones de Titular por Antigüedad,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1881,Direc. Dptal. de Educación Beni,"Reconocimiento de Años de Servicios Docentes y  personal Administrativo en INS (RM. N° 285/05, 206/03 Y 464/07)",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1882,Direc. Dptal. de Educación Beni,Reconocimiento de Años de Servicios Docentes para Declarados en comisión,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1883,Direc. Dptal. de Educación Beni,Reconocimiento de Horas Paralelas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1885,Direc. Dptal. de Educación Beni,Reconocimiento de  Años de Servicios Docente prestados en Unidades Educativas Particulares y en COMIBOL.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1891,Direc. Dptal. de Educación Beni,Inscripción al Escalafón de la Carrera Docente y Asignación de Quinta Categoría para Docentes Egresados de las actuales Escuelas Superiores de Formación de Maestros y Maestros,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1892,Direc. Dptal. de Educación Beni,Certificación de Conclusión de Trámite de Título en Provisión Nacional o Titulo Profesional de Maestra o Maestro emitido por la Dirección Departamental para Títulos emitidos a partir de la gestión 2002,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1894,Direc. Dptal. de Educación Beni,"Reposición de Resoluciones Ministeriales y/o Secretarial de  Declaratoria de Titular por antigüedad (DTA), emitida antes de la gestión 2002",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1895,Direc. Dptal. de Educación Beni,Reconocimiento de un año de Servicio Docente a Maestras y Maestros que desempeñaron funciones en cargo de Director Encargado de Unidad Educativa,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,1896,Direc. Dptal. de Educación Beni,Reconocimiento de un año de Servicio Docente a Maestras y Maestros que desempeñaron funciones en cargo de Director Distrital Encargado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1897,Direc. Dptal. de Educación Beni,Rectificación o complementación de Datos en Títulos Profesionales o Títulos en Provisión Nacional de Maestros,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1898,Direc. Dptal. de Educación Beni,Reposición de Resoluciones Ministerial de Visación de Títulos Profesionales de Maestro (TPM)  emitida antes de la gestión 2002,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1899,Direc. Dptal. de Educación Beni,Copia Legalizada de la Resolución Ministerial de Visación del Título Profesional de Maestro y de la Resolución Ministerial de Declaratoria de Titular por Antigüedad,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1900,Direc. Dptal. de Educación Beni,Homologación de IPM de Idioma Ingles otorgados por las Universidades Públicas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1901,Direc. Dptal. de Educación Beni,Duplicado del Certificado de Categoría (en caso de Extravío),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1902,Gobierno Autónomo Municipal de Sucre,FORMULARIO DE DERECHO DE VISITA,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1905,"Ministerio de Trabajo, Empleo y Previsión Social",Moto Mendez,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1906,"Ministerio de Trabajo, Empleo y Previsión Social",Sistema de Inspectoria de Tramites,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1908,Direc. Dptal. de Educación Beni,"Legalización de Notas, Certificados de Calificación de Estudios  de Institutos Técnicos Tecnológicos y Artísticos de Carácter Fiscal",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1909,Direc. Dptal. de Educación Beni,Apertura de Módulos Tecnológicos Productivos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1910,Direc. Dptal. de Educación Beni,Legalización de Títulos de Técnico Medio (BTH),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1912,"Centro de Inv.Arqueológicas,Antropológicas y Adm.de Tiwanaku",SOLICITUD DE PERMISO PARA INGRESAR CON DRON AL SITIO ARQUEOLOGICO DE TIWANAKU,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1914,Fondo Nacional de Desarrollo Regional,Solicitud de Financiamiento de Proyectos,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1915,Fondo Nacional de Desarrollo Regional,Solicitud de Financiamiento para Adquisición de Bienes,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1916,Fondo Nacional de Desarrollo Regional,Solicitud de Financiamiento para Aportes Locales,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1917,Fondo Nacional de Desarrollo Regional,Solicitud de Financiamiento de Apoyo a la Reactivación de la Inversión Pública - FARIP.,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1918,Direc. Dptal. de Educación Beni,Homologación de calificaciones para personas jóvenes y adultas de Nacionalidad Boliviana con estudios en el exterior.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1919,Direc. Dptal. de Educación Beni,Resolución administrativa  de homologación  de certificado diplomas de Personas Jovenes y adultos del extranjero,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1922,Gobierno Autónomo Municipal de Sucre,TRAMITE DE DESBLOQUEO DE LA RENTA DIGNIDAD,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1923,Gobierno Autónomo Municipal de Sucre,VALORACIONES PSICOLOGICAS PARA DISPOSICION DE BIENES,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1958,Gobierno Autónomo Municipal de Sucre,PROGRAMA MUNICIPAL DE ASISTENCIA SOCIAL A LA FAMILIA,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1959,Gobierno Autónomo Municipal de Sucre,UNIDAD DE ASUNTOS ÉTNICOS GÉNERO Y GENERACIONAL,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,1960,Direc. Dptal. de Educación Beni,Homologación de Certificados de Estudios (Diplomas de Bachiller) - Nacionalidad Boliviana,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1964,Gaceta Oficial Bolivia,SUSCRIPCIÓN,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1966,Zona Franca Comercial e Industrial de Cobija,USO DE BALANZA,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1967,Zona Franca Comercial e Industrial de Cobija,ALMACENAJE DE MERCADERIA,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1968,Zona Franca Comercial e Industrial de Cobija,ALQUILER DE AUDITORIO,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1969,Zona Franca Comercial e Industrial de Cobija,EMISION DEL PARTE DE SALIDA DE MARCADERIA NACIONAL,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1970,Zona Franca Comercial e Industrial de Cobija,SEVICIO DE PARQUEO DE VEHICULO,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1971,Zona Franca Comercial e Industrial de Cobija,FOTOCOPIAS DE DOCUMENTACION,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1973,Zona Franca Comercial e Industrial de Cobija,LEGALIZACION DE POLIZA DE INTERNACION,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1974,Zona Franca Comercial e Industrial de Cobija,EXTRACTO DE INTERNACION POR GESTION,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1975,Zona Franca Comercial e Industrial de Cobija,USO DE MONTACARGAS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1976,Zona Franca Comercial e Industrial de Cobija,USO DE RAMPLAS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1978,Gaceta Oficial Bolivia,PUBLICACIÓN DE PERSONERÍAS JURÍDICAS DE ORGANIZACIONES RELIGIOSAS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1979,Gaceta Oficial Bolivia,Autorización de Publicación Oficial de Textos Legales,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1980,Direc. Dptal. de Educación Pando,INSCRIPCIÓN EN EL REGISTRO DOCENTE ADMINISTRATIVO (RDA),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1982,Zona Franca Comercial e Industrial de Cobija,"INSCRIPCIÓN, REINSCRIPCIÓN Y RENOVACIÓN DE USUARIOS DE ZOFRACOBIJA",fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1983,Zona Franca Comercial e Industrial de Cobija,ACTUALIZACIÓN DE INFORMACIÓN DE USUARIOS DE ZOFRACOBAIJA,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1990,Zona Franca Comercial e Industrial de Cobija,SECADO DE GRANOS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,1991,Zona Franca Comercial e Industrial de Cobija,ALMACENAMIENTO DE GRANOS,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,1995,Direc. Dptal. de Educación Beni,Toma de Razón de Certificados Nivel Técnico Básico y Auxiliar,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,1997,Direc. Dptal. de Educación Beni,DISCONTINUIDAD DE ESTUDIO DE EDUCACION DE JOVENES Y ADULTOS,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2003,Empresa Pública Nacional Estratégica de Yacimientos de Litio Bolivianos - YLB,"Compra de Carbonato de Litio, Cloruro de Potasio, Cloruro de 
+Magnesio Hexahidratado - Bischofita y Cloruro de Sodio",fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2009,Servicio de Impuestos Nacionales,AUTO MULTADO - FISCALIZACIÓN,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2014,Ministerio de Defensa,TRAMITE DE LIBRETAS DE REDENCIÓN “R”,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2017,Ministerio de Defensa,LIBRETA MILITAR: SERVICIO AUXILIAR “D” SERIE “O” (PERSONA CON DISCAPACIDAD),fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2019,Ministerio de Defensa,DESARCHIVO DE LIBRETA MILITAR,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2020,Servicio de Impuestos Nacionales,AGENDA DE CONSULTAS Y TRÁMITES,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2038,Universidad Mayor de San Simón,Certificado de Alumno Regular,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2039,Universidad Mayor de San Simón,Certificado de Alumno Regular (Extranjero),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2040,Universidad Mayor de San Simón,Certificado de Alumno Regular (Elecciones),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2041,Universidad Mayor de San Simón,Certificado de No Pertenencia al Estamento Estudiante,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2042,Direc. Dptal. de Educación Beni,Cambio de Estado de Gestión Vigente para estudiantes de  Unidades Educativas Fiscales y de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2043,Direc. Dptal. de Educación Beni,Modificación de datos personales en Unidades Educativas.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2044,Direc. Dptal. de Educación Beni,"Inscripción de estudiantes fuera de plazo de Gestión Vigente, con justificación y documentación de respaldo para Unidades Educativas Fiscales y de Convenio",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2045,Direc. Dptal. de Educación Beni,Ampliación o Reducción de Niveles de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2046,Direc. Dptal. de Educación Beni,Apertura de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2047,Direc. Dptal. de Educación Beni,Inclusión de calificaciones gestiones pasadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2048,Direc. Dptal. de Educación Beni,"Modificación de calificaciones ""Gestión Inmediata anterior"". (Se aplica cuando ya concluyo una gestión anterior a la actual)",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2049,Direc. Dptal. de Educación Beni,"Modificación de calificaciones ""Gestiones pasadas""",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2050,Direc. Dptal. de Educación Beni,"Modificación de calificaciones ""Gestiones pasadas con Boletín Centralizador legalizado"" desde el 2009-2020",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2051,Fondo De Solidaridad FNSE,PROYECTOS DE EQUIPAMIENTO A CENTROS DE EDUCACION ESPECIAL,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,2052,Direc. Dptal. de Educación Beni,"Traslados fuera de plazo de Gestión Vigente, con justificación y documentación de respaldo para Unidades Educativas Fiscales y de Convenio.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2053,Direc. Dptal. de Educación Beni,Casos no previsto en el Manual de procedimientos para la regularización del historial académico de estudiantes del Subsistema de Educación Regular en el Sistema de Información Educativa.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2054,Fondo De Solidaridad FNSE,PROYECTOS DE EQUIPAMIENTO A CENTROS DE HABILITACION Y REHABILITACION PARA PERSONAS CON DISCAPACIDAD,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,2055,Fondo De Solidaridad FNSE,PROGRAMA NACIONAL DE SERVICIOS SOCIALES Y LEGALES PARA PERSONAS CON DISCAPACIDAD,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,2056,Direc. Dptal. de Educación Beni,Cambio de Estado de Gestión Vigente para Unidades Educativas Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2057,Direc. Dptal. de Educación Beni,"Asociación a una Unidad Educativa Técnico Humanístico Plena-Taller, Núcleo o Módulo Tecnológico Productivo",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2058,Fondo De Solidaridad FNSE,PROYECTOS DE IMPLEMENTACION DE UNIDADES PRODUCTIVAS,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,2059,Fondo De Solidaridad FNSE,PROYECTOS DE COFINANCIMIENTO DE VIVIENDA SOCIAL PARA PERSONAS CON DISCAPACIDAD,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,2060,Direc. Dptal. de Educación Beni,"Trámites Conexos ; Adición de carrera en una Unidad Educativa Técnico Humanística Plena - Taller, Núcleo o modulo tecnológico Productivo",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2061,Direc. Dptal. de Educación Beni,"Constitución de Unidad Educativa Técnico Humanística Plena-Taller, núcleo o módulo Tecnológico Productivo",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2062,Direc. Dptal. de Educación Beni,Nivelación de Técnica Tecnológica General,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2063,Direc. Dptal. de Educación Beni,Cambio de Nombre de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2064,Direc. Dptal. de Educación Beni,"Cambio de Jurisdicción Administrativa de
+Unidades Educativas Fiscales",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2065,Direc. Dptal. de Educación Beni,Fusión de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2066,Direc. Dptal. de Educación Beni,Cambio de Infraestructura de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2067,Gobierno Autónomo Municipal de Sucre,CENTROS INTEGRALES DE DESARROLLO INFANTIL MUNICIPAL,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2068,Gobierno Autónomo Municipal de Sucre,SERVICIO LEGAL INTEGRAL MUNICIPAL,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2069,Direc. Dptal. de Educación Beni,Reposición del Certificado RUE para Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2070,Direc. Dptal. de Educación Beni,Cierre Definitivo de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2071,Direc. Dptal. de Educación Beni,Requisitos para la Regularización de Funcionamiento y Actualización de Resolución Administrativas de Unidades Educativas Fiscales,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2072,Direc. Dptal. de Educación Beni,Apertura de Unidades Educativas de Convenio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2073,Direc. Dptal. de Educación Beni,Ampliación o Reducción de Niveles de Unidades Educativas de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2074,Gobierno Autónomo Municipal de Sucre,"PROGRAMA MUNICIPAL DE PROTECCION SOCIAL PARA NIÑAS, NIÑOS Y ADOLESCENTES TRABAJADORES",fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2075,Direc. Dptal. de Educación Beni,Cambio de Dependencia de Unidades Educativas de Convenio a Fiscales.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2076,Direc. Dptal. de Educación Beni,Cambio de Nombre de Unidades Educativas de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2077,Direc. Dptal. de Educación Beni,Cambio de Jurisdicción Administrativa de Unidades Educativas de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2078,Gobierno Autónomo Municipal de Sucre,UNIDAD MUNICIPAL DE ATENCION A LAS PERSONAS CON DISCAPACIDAD,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2079,Direc. Dptal. de Educación Beni,Fusión de Unidades Educativas de Convenio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2080,Direc. Dptal. de Educación Beni,"Apertura de Unidades Educativas Privadas.
+Asociaciones o Fundaciones sin Fines de Lucro (ONG)",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2081,Direc. Dptal. de Educación Beni,"Apertura de Unidades Educativas Privadas.
+Instituciones Religiosas",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2082,Direc. Dptal. de Educación Beni,"Apertura de Unidades Educativas Privadas.
+Sociedad Anonima, Sociedad  de Responsabilidad Limitada",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2083,Direc. Dptal. de Educación Beni,"Apertura de Unidades Educativas Privadas.
+UNIPERSONAL",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2084,Direc. Dptal. de Educación Beni,Cambio de Infraestructura de Unidades Educativas de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2085,Direc. Dptal. de Educación Beni,Reposición del Certificado RUE,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2086,Direc. Dptal. de Educación Beni,"Apertura de Unidades Educativas Privadas.
+Cooperativa",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2087,Direc. Dptal. de Educación Beni,Apertura de Unidades Educativas Privadas de Convenio Suscrito Entre Estados  (DE NATURALEZA PRIVADA),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2088,Direc. Dptal. de Educación Beni,Inspección Ocular Unidades Educativas Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2089,Direc. Dptal. de Educación Beni,Ampliación o Reducción de Niveles de Unidades Educativas Privadas.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2090,Direc. Dptal. de Educación Beni,Cierre Definitivo de Unidades Educativas de Convenio.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2091,Direc. Dptal. de Educación Beni,Cambio de Nombre de Unidades Educativas Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2092,Direc. Dptal. de Educación Beni,Cambio de Infraestructura de Unidades Educativas Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2093,Direc. Dptal. de Educación Beni,Reposición del Certificado RUE - U.E. Privada,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2094,Direc. Dptal. de Educación Beni,Regularización  de Funcionamiento y Actualización de Resolución Administrativa  de  Unidades Educativas  de Convenio,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2095,Direc. Dptal. de Educación Beni,Cierre Definitivo de Unidades Educativas Privadas,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2096,Direc. Dptal. de Educación Beni,"Actualización de Resolución administrativa de Unidades Educativas Privadas de Constitución: unipersonal sociedad anónima sociedad de responsabilidad limitada instituciones religiosas,  asociaciones o fundaciones sin fines de lucro ONG de convenio suscritos entre Estados",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2098,Direc. Dptal. de Educación Beni,Inscripciones excepcionales de estudiantes que provienen  del exterior. PRIMARIA - SECUNDARIA,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2099,Direc. Dptal. de Educación Beni,Regularización del Historial Académico: a) Con Respaldo,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2100,Direc. Dptal. de Educación Beni,Regularización del Historial Académico sin respaldo POST BACHILLERATO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2101,Direc. Dptal. de Educación Beni,Regularización del Historial Académico Sin respaldo PRE-BACHILLERATO,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2102,Direc. Dptal. de Educación Beni,Estudiante con más de un estado final de promovido y/o retenido en un mismo año de escolaridad.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2103,Direc. Dptal. de Educación Beni,Nivelación por rezago escolar o desventaja social,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2104,Gobierno Autónomo Municipal de Sucre,SERVICO HOSPICIO HOGAR 25 DE MAYO,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2105,Gobierno Autónomo Municipal de Sucre,DEFENSORIA DE LA NIÑEZ Y ADOLESCENCIA,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2106,Gobierno Autónomo Municipal de Sucre,PROGRAMA MUNICIPAL DEL ADULTO MAYOR,fechaActualización,07/07/2025,07/07/2026
+2026-07-12T06:30+00:00,2107,Gobierno Autónomo Municipal de Sucre,SERVICIO DE ALBERGUE TRANSITORIO MUNICIPAL,fechaActualización,08/07/2025,08/07/2026
+2026-07-12T06:30+00:00,2108,Direc. Dptal. de Educación Beni,Legalización de certificados de Calificación de Estudios  de Institutos Técnicos Tecnológicos y Artísticos de Carácter Carácter Privado,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2109,Direc. Dptal. de Educación Beni,Legalización de Historial Académico de Calificaciones,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2110,Direc. Dptal. de Educación Beni,Fotocopia Legalizada de Actas de Modalidad de Graduación,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2111,Direc. Dptal. de Educación Beni,"Toma de Razón de Certificados de Egreso de Institutos Técnicos Tecnológicos de Carácter Fiscal, Convenio, Privado y Artístico. 
+(TITULACIÓN INDIVIDUAL)",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2113,Direc. Dptal. de Educación Beni,Registro de Calificaciones de gestiones pasadas a partir 2015 Educación Jovenes y Adultos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2114,Direc. Dptal. de Educación Beni,"Apertura, modificación y cierre  de Centros de Educación Especial",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2115,Direc. Dptal. de Educación Beni,Actualización  de RUE Educación Alternativa,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2116,Direc. Dptal. de Educación Beni,Recepción y envío de solicitudes de Legalización de Certificación de Competencias,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2117,Direc. Dptal. de Educación Beni,Homologación de Calificaciones para personas jóvenes y adultas de Nacionalidad Boliviana con estudios en el exterior SEAyE.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2118,Direc. Dptal. de Educación Beni,"Homologación de Certificados de Estudios (Diplomas de Bachiller) - Extranjero
+Educación Jovenes y Adultos",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2119,Direc. Dptal. de Educación Beni,"Homologación de Certificados de Estudios (Diplomas de Bachiller) - Nacionalidad Boliviana
+Educación Jovenes y Adultos.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2120,Direc. Dptal. de Educación Beni,Toma de Razón de Certificados Nivel Técnico Básico y Auxiliar Educación Jovenes y Adultos sin toma de razón,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2121,Direc. Dptal. de Educación Beni,Legalización de Certificados Nivel Técnico Básico y Auxiliar con toma de razón de Educación Jovenes y Adultos,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2122,Direc. Dptal. de Educación Beni,"Inscripciones e Inserción de Calificaciones de gestiones pasadas A partir 2015
+de Educación Jovenes y Adultos",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2123,Direc. Dptal. de Educación Beni,"Impresión de Certificado Técnico  Básico - Auxiliar, Rezagado de Educación Jovenes y Adultos",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2124,Direc. Dptal. de Educación Beni,Toma de razón de Certificados Nivel Básico y Auxiliar en Educación Permanente,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2125,Direc. Dptal. de Educación Beni,Legalización de Certificados Nivel Básico y Auxiliar en Educación Permanente,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2126,Direc. Dptal. de Educación Beni,Apertura de Sedes y Subsedes de Centros de Capacitación Técnica Privados,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2127,Direc. Dptal. de Educación Beni,Legalización de Fotocopia de Certificado de Capacitación Técnica Privados,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2128,Direc. Dptal. de Educación Beni,Derecho a Inspección Ocular en la creación de Centros Sedes y Subsedes de Capacitación Privados,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2129,Direc. Dptal. de Educación Beni,Sanción por Infracción Leve en Centros de Capacitación Técnica Privada,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2130,Direc. Dptal. de Educación Beni,Firma de Certificado de Capacitación en Centros privados,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2131,Direc. Dptal. de Educación Beni,"Toma de Razón de Certificados de Capacitación, Privado.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2134,Direc. Dptal. de Educación Beni,Fotocopia legalizada del Certificado de Curso de Capacitación.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2135,Direc. Dptal. de Educación Beni,Autorización de Apertura de Cursos de Capacitación de Institutos Técnicos Tecnológicos de carácter Fiscal,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2136,Direc. Dptal. de Educación Beni,Autorización de Apertura de Cursos de Capacitación de Institutos Técnicos Tecnológicos de carácter Privado.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2137,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Integración de Mecanismos de Ciudadanía Digital,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2138,Direc. Dptal. de Educación Beni,Recepción de trámite de Fotocopia Legalizada de Titulo Profesional (los emitidos por el Ministerio de Educación). Universidades del Estado- Privadas.(Derecho envio),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2139,Direc. Dptal. de Educación Beni,"Modificación de datos personales -  notas de Institutos Técnicos Tecnológicos y artísticos de carácter fiscal, convenio y privado en Educacion Superior.",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2140,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Integración de Servicio de Emisión de Facturas Electrónicas,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2141,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Integración de Pasarela de Pagos del Estado,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2143,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Alertas y avisos de seguridad informática,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2144,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Concientización en Ciberseguridad,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2145,Agencia de Gobierno Electrónico y Tecnologías de Información y Comunicación,Notificación de Incidentes de Seguridad Informática,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2148,Direc. Dptal. de Educación Beni,"Recepción Fotocopia Legalizada de Titulo Profesional (emitidos por el Ministerio de Educación) Institutos Técnicos y Tecnológicos fiscal, convenios y privados(medio y superior).",fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2151,Direc. Dptal. de Educación Beni,Legalización de Historial Académico en Salud.,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2220,Gobierno Autónomo Municipal de Sucre,CERTIFICACION CATASTRAL PARA PAGO DE IMPUESTOS Y TRAMITES ADMINISTRATIVOS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2221,Gobierno Autónomo Municipal de Sucre,CERTIFICACION CATASTRAL PARA TRANSFERENCIAS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2222,Gobierno Autónomo Municipal de Sucre,CERTIFICACION CATASTRAL DE REGISTRO PRIMIGENIO,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2223,Gobierno Autónomo Municipal de Sucre,CERTIFICACION DE CAMBIO DE TITULARIDAD,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2224,Gobierno Autónomo Municipal de Sucre,CERTIFICACION DE MENSURA Y LINDEROS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2225,Gobierno Autónomo Municipal de Sucre,CERTIFICACION DE COLINDANCIAS,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2226,Gobierno Autónomo Municipal de Sucre,LINEAS MUNICIPALES,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2229,Mutual de Servicios al Policía,Auxilio Mortuorio por el Fallecimiento del (la) titular - Solicitado Derechohabientes a la Inexistencia de la Viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2234,Direc. Dptal. de Educación Pando,TÍTULO PROFESIONAL DE MAESTRAS Y MAESTROS PARA EGRESADOS ANTES DE LA GESTIÓN 2014,fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2237,Mutual de Servicios al Policía,Cuota Mortuoria al Fallecimiento del (la) titular en Cumplimiento de Funciones - Solicitado Derechohabientes a la Inexistencia de la viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2238,Mutual de Servicios al Policía,Cuota Mortuoria al Fallecimiento del (la) titular por Riesgo Común Solicitado Derechohabientes a la Inexistencia de la viuda(o),fechaActualización,10/07/2025,10/07/2026
+2026-07-12T06:30+00:00,2241,Direc. Dptal. de Educación Pando,REQUISITOS DE RECONOCIMIENTO DE UN (1) AÑO DE SERVICIO DOCENTE A MAESTRAS Y MAESTROS QUE DESEMPEÑAN FUNCIONES EN EL CARGO DE DIRECTOR ENCARGADO DE UNIDADES EDUCATIVAS O CENTROS DE EDUCACION ALTERNATIVA,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2242,Direc. Dptal. de Educación Pando,"RECONOCIMIENTO DE AÑOS DE SERVICIO DOCENTE PRESTADOS EN UNIDADES 
+EDUCATIVAS PARTICULARES Y EN COMIBOL",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2243,Direc. Dptal. de Educación Pando,RECONOCIMIENTO DE AÑOS DE SERVICIO DOCENTE PRESTADOS EN FRONTERA,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2244,Direc. Dptal. de Educación Pando,RECONOCIMIENTO DE AÑOS DE SERVICIO COMO DIRECTIVOS O TUTORES DEL PROGRAMA DE PROFESIONALIZACIÓN DE MAESTROS INTERINOS (PPMI),fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2245,Direc. Dptal. de Educación Pando,CERTIFICACIÓN DE CATEGORÍA A PARTIR DE LA GESTIÓN 2002,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2246,Gobierno Autónomo Municipal de Cochabamba,Certificado de no infracción - GAMC,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2249,Gobierno Autónomo Municipal de Cochabamba,"Autorización de Poda, Tala o Derribo",fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2250,Mutual de Servicios al Policía,Préstamo Anticipo Para el Sector Pasivo,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2253,Empresa Pública Departamental De Servicios Electricos Tarija,Cambio de medidor por solicitud voluntaria del consumidor,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2254,Empresa Pública Departamental De Servicios Electricos Tarija,Cambio de medidor obligado por una infracción del consumidor,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2255,Empresa Pública Departamental De Servicios Electricos Tarija,Instalación nueva para personas jurídicas,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2256,Mutual de Servicios al Policía,Fondo de Retiro Policial Solidario por Retiro por Invalidez,fechaActualización,11/07/2025,11/07/2026
+2026-07-12T06:30+00:00,2616,Tribunal Supremo de Justicia,Notificación Electrónica del Órgano Judicial,fechaActualización,09/07/2025,09/07/2026
+2026-07-12T06:30+00:00,3008,Fondo Rotatorio de Fomento Productivo Regional,Crédito Individual,entidad['correoElectronicoContacto'],frfpr@fondorotatorio.com,frfpr@fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3008,Fondo Rotatorio de Fomento Productivo Regional,Crédito Individual,entidad['descripcion'],"El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) es una entidad Financiera No Bancaria, que fue creada un 3 de mayo del 2006 al amparo de la Ley N° 3384 y fue complementado por la Ley N° 3895 del 26 de junio de 2008; Es una Institución sin fines de lucro que cumple una función social con presencia en los tres Municipios (Yacuiba, Caraparí y Villa Montes).","El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) fue creado el 3 de mayo de 2006, en el marco de la Ley Nº 3384, como una entidad financiera no bancaria orientada a promover el desarrollo productivo en la Región del Gran Chaco. Posteriormente, su funcionamiento fue fortalecido y complementado mediante la Ley Nº 3895 de fecha 26 de junio de 2008.
+
+Desde sus inicios, el FRFPR se constituyó como una institución sin fines de lucro, con una clara vocación social, destinada a facilitar el acceso a recursos financieros a pequeños y medianos productores, emprendedores y unidades productivas de la región, contribuyendo al fortalecimiento de la economía local.
+
+A lo largo de su trayectoria, la institución ha consolidado su presencia en los municipios de Yacuiba, Caraparí y Villamontes, desarrollando programas de financiamiento y apoyo técnico enfocados en sectores productivos estratégicos como la agricultura, ganadería, comercio y microempresa.
+
+En el transcurso de los años, el FRFPR ha evolucionado en su estructura organizativa y en la diversificación de sus servicios, adaptándose a las necesidades cambiantes de la población beneficiaria. Asimismo, ha incorporado herramientas de gestión, transparencia institucional y modernización tecnológica para mejorar la calidad de atención y eficiencia en sus operaciones.
+
+Actualmente, el Fondo Rotatorio continúa desempeñando un rol fundamental en el impulso al desarrollo económico regional, promoviendo la inclusión financiera y el crecimiento sostenible de los sectores productivos del Gran Chaco."
+2026-07-12T06:30+00:00,3008,Fondo Rotatorio de Fomento Productivo Regional,Crédito Individual,entidad['logo'],https://www.gob.bo/ws/api/archivos/0ec577fe-d20c-4053-bded-50756973745b.png,https://www.gob.bo/ws/api/archivos/08ea1b8f-c89a-47d2-99bc-25b3b8e7ca87.png
+2026-07-12T06:30+00:00,3008,Fondo Rotatorio de Fomento Productivo Regional,Crédito Individual,entidad['urlSitioWeb'],https://fondorotario.com.bo,https://fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3009,Fondo Rotatorio de Fomento Productivo Regional,Crédito Emprendedor,entidad['correoElectronicoContacto'],frfpr@fondorotatorio.com,frfpr@fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3009,Fondo Rotatorio de Fomento Productivo Regional,Crédito Emprendedor,entidad['descripcion'],"El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) es una entidad Financiera No Bancaria, que fue creada un 3 de mayo del 2006 al amparo de la Ley N° 3384 y fue complementado por la Ley N° 3895 del 26 de junio de 2008; Es una Institución sin fines de lucro que cumple una función social con presencia en los tres Municipios (Yacuiba, Caraparí y Villa Montes).","El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) fue creado el 3 de mayo de 2006, en el marco de la Ley Nº 3384, como una entidad financiera no bancaria orientada a promover el desarrollo productivo en la Región del Gran Chaco. Posteriormente, su funcionamiento fue fortalecido y complementado mediante la Ley Nº 3895 de fecha 26 de junio de 2008.
+
+Desde sus inicios, el FRFPR se constituyó como una institución sin fines de lucro, con una clara vocación social, destinada a facilitar el acceso a recursos financieros a pequeños y medianos productores, emprendedores y unidades productivas de la región, contribuyendo al fortalecimiento de la economía local.
+
+A lo largo de su trayectoria, la institución ha consolidado su presencia en los municipios de Yacuiba, Caraparí y Villamontes, desarrollando programas de financiamiento y apoyo técnico enfocados en sectores productivos estratégicos como la agricultura, ganadería, comercio y microempresa.
+
+En el transcurso de los años, el FRFPR ha evolucionado en su estructura organizativa y en la diversificación de sus servicios, adaptándose a las necesidades cambiantes de la población beneficiaria. Asimismo, ha incorporado herramientas de gestión, transparencia institucional y modernización tecnológica para mejorar la calidad de atención y eficiencia en sus operaciones.
+
+Actualmente, el Fondo Rotatorio continúa desempeñando un rol fundamental en el impulso al desarrollo económico regional, promoviendo la inclusión financiera y el crecimiento sostenible de los sectores productivos del Gran Chaco."
+2026-07-12T06:30+00:00,3009,Fondo Rotatorio de Fomento Productivo Regional,Crédito Emprendedor,entidad['logo'],https://www.gob.bo/ws/api/archivos/0ec577fe-d20c-4053-bded-50756973745b.png,https://www.gob.bo/ws/api/archivos/08ea1b8f-c89a-47d2-99bc-25b3b8e7ca87.png
+2026-07-12T06:30+00:00,3009,Fondo Rotatorio de Fomento Productivo Regional,Crédito Emprendedor,entidad['urlSitioWeb'],https://fondorotario.com.bo,https://fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3010,Fondo Rotatorio de Fomento Productivo Regional,Crédito para Asociaciones,entidad['correoElectronicoContacto'],frfpr@fondorotatorio.com,frfpr@fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3010,Fondo Rotatorio de Fomento Productivo Regional,Crédito para Asociaciones,entidad['descripcion'],"El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) es una entidad Financiera No Bancaria, que fue creada un 3 de mayo del 2006 al amparo de la Ley N° 3384 y fue complementado por la Ley N° 3895 del 26 de junio de 2008; Es una Institución sin fines de lucro que cumple una función social con presencia en los tres Municipios (Yacuiba, Caraparí y Villa Montes).","El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) fue creado el 3 de mayo de 2006, en el marco de la Ley Nº 3384, como una entidad financiera no bancaria orientada a promover el desarrollo productivo en la Región del Gran Chaco. Posteriormente, su funcionamiento fue fortalecido y complementado mediante la Ley Nº 3895 de fecha 26 de junio de 2008.
+
+Desde sus inicios, el FRFPR se constituyó como una institución sin fines de lucro, con una clara vocación social, destinada a facilitar el acceso a recursos financieros a pequeños y medianos productores, emprendedores y unidades productivas de la región, contribuyendo al fortalecimiento de la economía local.
+
+A lo largo de su trayectoria, la institución ha consolidado su presencia en los municipios de Yacuiba, Caraparí y Villamontes, desarrollando programas de financiamiento y apoyo técnico enfocados en sectores productivos estratégicos como la agricultura, ganadería, comercio y microempresa.
+
+En el transcurso de los años, el FRFPR ha evolucionado en su estructura organizativa y en la diversificación de sus servicios, adaptándose a las necesidades cambiantes de la población beneficiaria. Asimismo, ha incorporado herramientas de gestión, transparencia institucional y modernización tecnológica para mejorar la calidad de atención y eficiencia en sus operaciones.
+
+Actualmente, el Fondo Rotatorio continúa desempeñando un rol fundamental en el impulso al desarrollo económico regional, promoviendo la inclusión financiera y el crecimiento sostenible de los sectores productivos del Gran Chaco."
+2026-07-12T06:30+00:00,3010,Fondo Rotatorio de Fomento Productivo Regional,Crédito para Asociaciones,entidad['logo'],https://www.gob.bo/ws/api/archivos/0ec577fe-d20c-4053-bded-50756973745b.png,https://www.gob.bo/ws/api/archivos/08ea1b8f-c89a-47d2-99bc-25b3b8e7ca87.png
+2026-07-12T06:30+00:00,3010,Fondo Rotatorio de Fomento Productivo Regional,Crédito para Asociaciones,entidad['urlSitioWeb'],https://fondorotario.com.bo,https://fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3011,Fondo Rotatorio de Fomento Productivo Regional,Créditos Pymes,entidad['correoElectronicoContacto'],frfpr@fondorotatorio.com,frfpr@fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3011,Fondo Rotatorio de Fomento Productivo Regional,Créditos Pymes,entidad['descripcion'],"El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) es una entidad Financiera No Bancaria, que fue creada un 3 de mayo del 2006 al amparo de la Ley N° 3384 y fue complementado por la Ley N° 3895 del 26 de junio de 2008; Es una Institución sin fines de lucro que cumple una función social con presencia en los tres Municipios (Yacuiba, Caraparí y Villa Montes).","El Fondo Rotatorio de Fomento Productivo Regional (FRFPR) fue creado el 3 de mayo de 2006, en el marco de la Ley Nº 3384, como una entidad financiera no bancaria orientada a promover el desarrollo productivo en la Región del Gran Chaco. Posteriormente, su funcionamiento fue fortalecido y complementado mediante la Ley Nº 3895 de fecha 26 de junio de 2008.
+
+Desde sus inicios, el FRFPR se constituyó como una institución sin fines de lucro, con una clara vocación social, destinada a facilitar el acceso a recursos financieros a pequeños y medianos productores, emprendedores y unidades productivas de la región, contribuyendo al fortalecimiento de la economía local.
+
+A lo largo de su trayectoria, la institución ha consolidado su presencia en los municipios de Yacuiba, Caraparí y Villamontes, desarrollando programas de financiamiento y apoyo técnico enfocados en sectores productivos estratégicos como la agricultura, ganadería, comercio y microempresa.
+
+En el transcurso de los años, el FRFPR ha evolucionado en su estructura organizativa y en la diversificación de sus servicios, adaptándose a las necesidades cambiantes de la población beneficiaria. Asimismo, ha incorporado herramientas de gestión, transparencia institucional y modernización tecnológica para mejorar la calidad de atención y eficiencia en sus operaciones.
+
+Actualmente, el Fondo Rotatorio continúa desempeñando un rol fundamental en el impulso al desarrollo económico regional, promoviendo la inclusión financiera y el crecimiento sostenible de los sectores productivos del Gran Chaco."
+2026-07-12T06:30+00:00,3011,Fondo Rotatorio de Fomento Productivo Regional,Créditos Pymes,entidad['logo'],https://www.gob.bo/ws/api/archivos/0ec577fe-d20c-4053-bded-50756973745b.png,https://www.gob.bo/ws/api/archivos/08ea1b8f-c89a-47d2-99bc-25b3b8e7ca87.png
+2026-07-12T06:30+00:00,3011,Fondo Rotatorio de Fomento Productivo Regional,Créditos Pymes,entidad['urlSitioWeb'],https://fondorotario.com.bo,https://fondorotatorio.gob.bo
+2026-07-12T06:30+00:00,3509,Gobierno Autónomo Municipal de El Alto de La Paz,Visado y Plano de Lote para UR Catastral,fechaActualización,02/07/2026,10/07/2026
+2026-07-12T06:30+00:00,3509,Gobierno Autónomo Municipal de El Alto de La Paz,Visado y Plano de Lote para UR Catastral,modalidades[0]['publico'][0]['emisionFactura'],,Sistema propio de facturación
+2026-07-12T06:30+00:00,3509,Gobierno Autónomo Municipal de El Alto de La Paz,Visado y Plano de Lote para UR Catastral,modalidades[0]['publico'][0]['tieneCosto'],False,True
+2026-07-12T06:30+00:00,3510,Gobierno Autónomo Municipal de El Alto de La Paz,Línea Nivel,fechaActualización,03/07/2026,10/07/2026
