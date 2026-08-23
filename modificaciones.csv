@@ -7185,3 +7185,47 @@ POR IMPORTACIÓN DIRECTA",fechaActualización,04/08/2025,04/08/2026
 2026-08-16T04:26+00:00,2839,Instituto Nacional de Laboratorios de Salud,VENTA DE CEPAS MICROBIANAS Y REACTIVOS,fechaActualización,07/04/2026,13/08/2026
 2026-08-16T04:26+00:00,3581,Gobierno Autónomo Municipal de Cochabamba,Trámites,fechaActualización,05/08/2026,10/08/2026
 2026-08-16T04:26+00:00,3581,Gobierno Autónomo Municipal de Cochabamba,Trámites,modalidades[0]['publico'][0]['procedimiento'],"<p>En esta sección podrá acceder a la información de los trámites y servicios municipales, consultar requisitos, costos y plazos, realizar el seguimiento de sus solicitudes, verificar el estado de sus obligaciones tributarias, acceder a los servicios de recaudación y conocer los trámites disponibles en las Subalcaldías. Nuestro objetivo es brindarle una atención ágil, transparente y accesible, facilitando la realización de sus gestiones a través de una plataforma digital.</p>",<p>consulta sobre trámites:</p><p>TRÁMITES SUB ALCALDÍA</p><p>CONSULTA MI CASA SEGURA</p><p>SEGUIMIENTO TRÁMITES</p><p>TRÁMITE RECAUDACIONES</p><p>INFORMACION TRÁMITES SUB ALCALDÍA</p>
+2026-08-23T04:27+00:00,1393,Banco Central de Bolivia,SOLICITUD DE FOTOCOPÍA LEGALIZADA DE RESOLUCIÓN DE DIRECTORIO,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1394,Banco Central de Bolivia,SOLICITUD DE INFORMACIÓN DE OPERACIONES DE MERCADO ABIERTO,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1395,Banco Central de Bolivia,EXPRESIÓN DE INTERÉS PARA ADQUISICIÓN DE BIENES REALIZABLES,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1396,Banco Central de Bolivia,RECLAMOS RELACIONADOS A OPERACIONES CON BONOS.,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1397,Banco Central de Bolivia,SOLICITUD DE INFORMACIÓN SOBRE INDEXACIONES DE LA MONEDA NACIONAL RESPECTO AL USD Y DE LOS TIPOS DE CAMBIO DE DISTINTAS DIVISAS,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1398,Banco Central de Bolivia,"SOLICITUD DE LIQUIDACIÓN DE DEUDAS POR PRESTAMOS CONTRAÍDOS EN ENTIDADES FINANCIERAS EN LIQUIDACIÓN, VENTA FORZOSA O PROCEDIMIENTO DE SOLUCIÓN",fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1399,Banco Central de Bolivia,SOLICITUD DE BLOQUEO O DESBLOQUEO DE BONOS,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1400,Banco Central de Bolivia,SOLICITUD DE DOCUMENTOS DE ARCHIVO CON FINES DE INVESTIGACION CIENTIFICA,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1401,Banco Central de Bolivia,VISITA GUIADA A LOS ARCHIVOS DEL BCB,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1402,Banco Central de Bolivia,DONACIÓN DE MATERIAL BIBLIOGRÁFICO Y HEMEROGRÁFICO IMPRESO Y ELECTRÓNICO A LA BIBLIOTECA CASTO ROJAS DEL BCB,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1403,Banco Central de Bolivia,SOLICITUD DE FOTOCOPIA LEGALIZADA DE DEPÓSITOS REALIZADOS POR PARTICULARES EN CUENTAS DEL BCB,fechaActualización,19/08/2025,19/08/2026
+2026-08-23T04:27+00:00,1531,"Ministerio de Desarrollo Productivo, Rural y Agua",AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['nombre'],"Ministerio de Desarrollo Productivo, Rural y Agua","Ministerio de Producción Sostenible, Medio Ambiente y Agua"
+2026-08-23T04:27+00:00,1531,"Ministerio de Desarrollo Productivo, Rural y Agua",AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['sigla'],MIN-DPRyA,MIN-PSMyA
+2026-08-23T04:27+00:00,1531,"Ministerio de Desarrollo Productivo, Rural y Agua",AUTORIZACIONES PREVIAS DE IMPORTACION,entidad['slug'],ministerio-de-desarrollo-productivo-rural-y-agua,ministerio-de-produccion-sostenible-medio-ambiente-y-agua
+2026-08-23T04:27+00:00,1534,"Ministerio de Desarrollo Productivo, Rural y Agua",REGISTRO UNICO DE IMPORTADOR,entidad['nombre'],"Ministerio de Desarrollo Productivo, Rural y Agua","Ministerio de Producción Sostenible, Medio Ambiente y Agua"
+2026-08-23T04:27+00:00,1534,"Ministerio de Desarrollo Productivo, Rural y Agua",REGISTRO UNICO DE IMPORTADOR,entidad['sigla'],MIN-DPRyA,MIN-PSMyA
+2026-08-23T04:27+00:00,1534,"Ministerio de Desarrollo Productivo, Rural y Agua",REGISTRO UNICO DE IMPORTADOR,entidad['slug'],ministerio-de-desarrollo-productivo-rural-y-agua,ministerio-de-produccion-sostenible-medio-ambiente-y-agua
+2026-08-23T04:27+00:00,1712,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['nombre'],"Ministerio de Desarrollo Productivo, Rural y Agua","Ministerio de Producción Sostenible, Medio Ambiente y Agua"
+2026-08-23T04:27+00:00,1712,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['sigla'],MIN-DPRyA,MIN-PSMyA
+2026-08-23T04:27+00:00,1712,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURÍSTICA DE PRESTADORES DE SERVICIOS TURISTICOS,entidad['slug'],ministerio-de-desarrollo-productivo-rural-y-agua,ministerio-de-produccion-sostenible-medio-ambiente-y-agua
+2026-08-23T04:27+00:00,1714,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['nombre'],"Ministerio de Desarrollo Productivo, Rural y Agua","Ministerio de Producción Sostenible, Medio Ambiente y Agua"
+2026-08-23T04:27+00:00,1714,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['sigla'],MIN-DPRyA,MIN-PSMyA
+2026-08-23T04:27+00:00,1714,"Ministerio de Desarrollo Productivo, Rural y Agua",LICENCIA TURISTICA DE GUIAS DE TURISMO NACIONAL,entidad['slug'],ministerio-de-desarrollo-productivo-rural-y-agua,ministerio-de-produccion-sostenible-medio-ambiente-y-agua
+2026-08-23T04:27+00:00,2208,Seguro Social Universitario de La Paz,REQUISITOS PARA AFILIACIÓN DE TRABAJADOR ACTIVO,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2209,Seguro Social Universitario de La Paz,AFILIACIÓN DE BENEFICIARIOS ESPOSO O ESPOSA O UNION LIBRE.,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2210,Seguro Social Universitario de La Paz,"AFILIACIÓN PARA RENTISTAS, JUBILADOS Y PENSIONADOS",fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2211,Seguro Social Universitario de La Paz,AFILIACIÓN PARA BENEFICIARIOS RECIÉN NACIDOS,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2212,Seguro Social Universitario de La Paz,AFILIACIÓN PARA HIJOS HASTA CUMPLIDOS LOS 19 AÑOS,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2213,Seguro Social Universitario de La Paz,AFILIACIÓN HIJOS CUMPLIDOS LOS VEINTICINCO 25 AÑOS,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2216,Seguro Social Universitario de La Paz,AFILIACIÓN PARA BENEFICIARIOS PADRES,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2217,Seguro Social Universitario de La Paz,AFILIACIÓN PARA DERECHOHABIENTES,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2218,Seguro Social Universitario de La Paz,AFILIACIÓN JUBILADOS POR ASIGNACIÓN (SISTEMA ALGORITMO),fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2321,Seguro Social Universitario de La Paz,REGISTRO EN EL SISTEMA DE VV.DD. DE PACIENTES ATENDIDOS POR CONVENIO Y/O COMPROMISO DE PAGO,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2354,Seguro Social Universitario de La Paz,CERTIFICADOS DE AFILIACIONES SSULP,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2355,Seguro Social Universitario de La Paz,"EMISIÓN DE USUARIO Y CONTRASEÑA, PARA FICHAS VIRTUALES",fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2356,Seguro Social Universitario de La Paz,REGISTRO DE AUTORIZACIONES DE ÓRDENES PARA ATENCIÓN DE SERVICIOS DE SALUD EXTERNOS,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2362,Seguro Social Universitario de La Paz,AVISOS DE BAJA DE ASEGURADO,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2401,Seguro Social Universitario de La Paz,SOLICITUD DE REEMBOLSO/SOLICITUD DE PAGO,fechaActualización,18/08/2025,18/08/2026
+2026-08-23T04:27+00:00,2486,Ministerio de Desarrollo Rural y Tierras,Gestión y Acceso a la Tierra,fechaActualización,20/08/2025,20/08/2026
+2026-08-23T04:27+00:00,2490,Gobierno Autónomo Municipal de La Paz,SOLICITUD DE INHABILITACIÓN (BAJA) DE ACTIVIDADES ECONÓMICAS,fechaActualización,22/08/2025,22/08/2026
+2026-08-23T04:27+00:00,2491,Gobierno Autónomo Municipal de La Paz,SOLICITUD DE LICENCIAS DE FUNCIONAMIENTO PARA ESTABLECIMIENTOS DE EXPENDIO Y/O CONSUMO DE BEBIDAS ALCOHÓLICAS,fechaActualización,22/08/2025,22/08/2026
+2026-08-23T04:27+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['nombre'],"Ministerio de Desarrollo Productivo, Rural y Agua","Ministerio de Producción Sostenible, Medio Ambiente y Agua"
+2026-08-23T04:27+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['sigla'],MIN-DPRyA,MIN-PSMyA
+2026-08-23T04:27+00:00,3356,Instituto del Seguro Agrario,Registro de Productores (a través de Técnicos Municipales o TIOCs),modalidades[0]['publico'][0]['requisitos'][0]['entidad']['slug'],ministerio-de-desarrollo-productivo-rural-y-agua,ministerio-de-produccion-sostenible-medio-ambiente-y-agua
