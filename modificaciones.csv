@@ -7381,3 +7381,26 @@ POR IMPORTACIÓN DIRECTA",fechaActualización,04/08/2025,04/08/2026
 2026-08-30T09:34+00:00,1828,Servicio Nacional De Propiedad Intelectual,Copias Legalizadas Derechos de Autor,fechaActualización,04/11/2025,25/08/2026
 2026-08-30T09:34+00:00,1828,Servicio Nacional De Propiedad Intelectual,Copias Legalizadas Derechos de Autor,modalidades[0]['publico'][0]['depositoBancario'][0]['nroCuenta'],1-4668220,1-68246294 SENAPI
 2026-08-30T09:34+00:00,2509,Instituto Nacional de Salud Ocupacional,Certificado de Despacho Aduanero,fechaActualización,29/08/2025,29/08/2026
+2026-09-06T08:13+00:00,1151,Servicio Nacional De Patrimonio Del Estado,CERTIFICACIÓN DEL PARQUE AUTOMOTOR,fechaActualización,01/09/2025,01/09/2026
+2026-09-06T08:13+00:00,2314,Fundación Cultural del Banco Central de Bolivia,SOLICITUD DE ESPACIOS,fechaActualización,01/09/2025,01/09/2026
+2026-09-06T08:13+00:00,2477,Dirección Nacional Servicio de Registro Cívico,DUPLICADO DE CERTIFICADO DE DEFUNCIÓN SRC-DCD-14,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2487,Dirección Nacional Servicio de Registro Cívico,DUPLICADO DE CERTIFICADO DE MATRIMONIO SRC-DCM-13,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2488,Dirección Nacional Servicio de Registro Cívico,DUPLICADO DE CERTIFICADO DE NACIMIENTO ANTE OFICIALIA DE REGISTRO CIVIIL SRC-DCN-12,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2489,Dirección Nacional Servicio de Registro Cívico,CERTIFICADO DE DEFUNCION ANTE ORC - SRC-IDO-05,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2502,Instituto Nacional de Salud Ocupacional,EVALUACIÓN Y CALIFICACIÓN DE GRADO DE  INVALIDEZ,fechaActualización,03/09/2025,03/09/2026
+2026-09-06T08:13+00:00,2503,Dirección Nacional Servicio de Registro Cívico,INSCRIPCIÓN DE NACIMIENTO DE 0-12 AÑOS ANTE OFICIAL DE REGISTRO CIVIL FILIACION AMBOS PADRES SRC-INO-01,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2504,Dirección Nacional Servicio de Registro Cívico,"SANEAMIENTO DE INSCRIPCIONES CONSULARES DE NACIMIENTO, MATRIMONIO Y DEFUNCIÓN EN EL SISTEMA RC-BIO SRC-SIC-21",fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2505,Dirección Nacional Servicio de Registro Cívico,LEGALIZACIÓN DE INSCRIPCIONES EN SUS DIFERENTES CATEGORÍAS Y DE OTROS DOCUMENTOS QUE CUSTODIA EL SERECÍ PARA USO DENTRO DE TERRITORIO BOLIVIANO SRC-LID-15,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2506,Dirección Nacional Servicio de Registro Cívico,LEGALIZACIÓN DE INSCRIPCIONES EN SUS DIFERENTES CATEGORÍAS Y DE OTROS DOCUMENTOS QUE CUSTODIA EL SERECÍ A REQUERIMIENTO FISCAL U ÓRDENES JUDICIALES SRC-LIF-18,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2507,Dirección Nacional Servicio de Registro Cívico,REGISTRO DE NATURALIZACIONES SRC-RNS-19,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2508,Dirección Nacional Servicio de Registro Cívico,"TRANSCRIPCIÓN EN EL SISTEMA RC-BIO DE INSCRIPCIONES DE NACIMIENTO DE HIJOS DE BOLIVIANOS NACIDOS EN EL EXTERIOR, MATRIMONIO Y DEFUNCIÓN REALIZADAS EN SEDE CONSULAR SRC-TIC-02",fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2512,Centro De Comunicaciones La Paz,ALQUILER DEL AUDITORIUM DEL CCLP,fechaActualización,01/09/2025,01/09/2026
+2026-09-06T08:13+00:00,2514,Instituto Nacional de Salud Ocupacional,Registro de Plaguicidas de Uso Domestico,fechaActualización,03/09/2025,03/09/2026
+2026-09-06T08:13+00:00,2515,Instituto Nacional de Salud Ocupacional,EXAMEN PREOCUPACIONAL,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2516,Instituto Nacional de Salud Ocupacional,CERTIFICADO DE DOSIMETRIA,fechaActualización,03/09/2025,03/09/2026
+2026-09-06T08:13+00:00,2517,Instituto Nacional de Salud Ocupacional,Carnet de aplicador de Plaguicidas de Uso Doméstico,fechaActualización,04/09/2025,04/09/2026
+2026-09-06T08:13+00:00,2520,Servicio Plurinacional de Defensa Pública,Defensa Penal Gratuita,fechaActualización,05/09/2025,05/09/2026
+2026-09-06T08:13+00:00,3587,Gobierno Autónomo Municipal de Cochabamba,Mis Mascotas,categorias[0]['nombre'],Seguridad social,Seguridad
+2026-09-06T08:13+00:00,3587,Gobierno Autónomo Municipal de Cochabamba,Mis Mascotas,categorias[0]['slug'],seguridad-social,seguridad
+2026-09-06T08:13+00:00,3587,Gobierno Autónomo Municipal de Cochabamba,Mis Mascotas,categorias[2]['nombre'],Seguridad,Seguridad social
+2026-09-06T08:13+00:00,3587,Gobierno Autónomo Municipal de Cochabamba,Mis Mascotas,categorias[2]['slug'],seguridad,seguridad-social
